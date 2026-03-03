@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "KIA",
+    "model": "RIO +",
+    "year_range": "",
+    "skus": [
+      "FEA228"
+    ],
+    "description": "KIA RIO 9\" 2017+ & HARNESS"
+  },
+  "search_queries_used": [
+    " KIA RIO + dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T18:15:08.226089",
+  "images": [
+    {
+      "filename": "dashboard_01_1f3488f8.jpg",
+      "source_url": "https://media.whatcar.com/wc-image/2020-03/medium-12530-rio1.4mpi2.jpg",
+      "source_page": "https://www.whatcar.com/kia/rio/hatchback/review/n17367/in-the-cabin",
+      "search_engine": "duckduckgo",
+      "search_query": " KIA RIO + dashboard interior OEM",
+      "width": 1600,
+      "height": 1066,
+      "file_size_bytes": 111758,
+      "download_time": "2026-02-16T18:15:02.468375"
+    },
+    {
+      "filename": "dashboard_02_96e4b50d.jpg",
+      "source_url": "https://cevpu.com/wp-content/uploads/2017/02/2018-Kia-Rio-Hatchback-interior-cockpit-steering-and-dash-black.jpg",
+      "source_page": "https://cevpu.com/kia/2018-kia-rio.html",
+      "search_engine": "duckduckgo",
+      "search_query": " KIA RIO + dashboard interior OEM",
+      "width": 2250,
+      "height": 1375,
+      "file_size_bytes": 284395,
+      "download_time": "2026-02-16T18:15:03.813831"
+    },
+    {
+      "filename": "dashboard_03_c0fece80.jpg",
+      "source_url": "https://imgcdn.zigwheels.com.au/large/gallery/interior/3/33/kia-rio-dashboard-view-490541.jpg",
+      "source_page": "https://www.zigwheels.com.au/new-cars/kia/rio/images",
+      "search_engine": "duckduckgo",
+      "search_query": " KIA RIO + dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 91082,
+      "download_time": "2026-02-16T18:15:05.351042"
+    },
+    {
+      "filename": "dashboard_04_d5aaaceb.jpg",
+      "source_url": "https://imgcdn.zigwheels.ph/large/gallery/interior/17/300/kia-rio-hatchback-dashboard-view-159528.jpg",
+      "source_page": "https://www.zigwheels.ph/new-cars/kia/rio-hatchback/images",
+      "search_engine": "duckduckgo",
+      "search_query": " KIA RIO + dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 90652,
+      "download_time": "2026-02-16T18:15:06.908359"
+    },
+    {
+      "filename": "dashboard_05_8a66756c.jpg",
+      "source_url": "https://www.kia.com/content/dam/kwcms/kme/de/de/assets/vehicles/rio/discover/w-rio-dashboard_1920x1200_r.JPG",
+      "source_page": "https://www.kia.com/de/modelle/rio/entdecken/",
+      "search_engine": "duckduckgo",
+      "search_query": " KIA RIO + dashboard interior OEM",
+      "width": 1920,
+      "height": 1200,
+      "file_size_bytes": 242629,
+      "download_time": "2026-02-16T18:15:08.226031"
+    }
+  ],
+  "total_images": 5
+}

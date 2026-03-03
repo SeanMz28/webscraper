@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "TOYOTA",
+    "model": "AURIS",
+    "year_range": "2006-2012",
+    "skus": [
+      "FA-YE-TO022 (11-110)"
+    ],
+    "description": "TOYOTA AURIS D/DIN 2006-2012"
+  },
+  "search_queries_used": [
+    "2006 TOYOTA AURIS dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T20:39:10.185879",
+  "images": [
+    {
+      "filename": "dashboard_01_518c3a6b.jpg",
+      "source_url": "https://cockpitdekor.com/3773-thickbox_default/toyota-auris-2008-3d-interior-dashboard-trim-kit-dash-trim-dekor-16-parts.jpg",
+      "source_page": "https://cockpitdekor.com/en/toyota-interior-accessories/auris-interior-accessories/toyota-auris-2008-3d-interior-dashboard-trim-kit-dash-trim-dekor-16-parts.html",
+      "search_engine": "bing",
+      "search_query": "2006 TOYOTA AURIS dashboard interior OEM",
+      "width": 1024,
+      "height": 793,
+      "file_size_bytes": 68818,
+      "download_time": "2026-02-16T20:39:02.662834"
+    },
+    {
+      "filename": "dashboard_02_92a8f38f.jpg",
+      "source_url": "https://resdnkhvpsswcpdeavwm.supabase.co/storage/v1/render/image/public/vehicle-images-v2/toyota-auris-2012-2019-interior-dashboard-close-up.webp",
+      "source_page": "https://www.sunmotors.co.uk/vehicle-reviews/toyota/auris/2012-2019",
+      "search_engine": "bing",
+      "search_query": "2006 TOYOTA AURIS dashboard interior OEM",
+      "width": 1536,
+      "height": 1024,
+      "file_size_bytes": 68258,
+      "download_time": "2026-02-16T20:39:04.038744"
+    },
+    {
+      "filename": "dashboard_03_5cdd5625.jpg",
+      "source_url": "https://bparts-eu.s3-eu-west-1.amazonaws.com/images/152/original/JPEG_20170411_105055__177_1_177.jpg",
+      "source_page": "https://www.b-parts.com/auto-parts/interior/dashboard-toyota-auris-_e15_-16-zre151_-kit-c-protetores-2006-2007-2008-2009-2010-2011-2012-198191",
+      "search_engine": "bing",
+      "search_query": "2006 TOYOTA AURIS dashboard interior OEM",
+      "width": 1536,
+      "height": 864,
+      "file_size_bytes": 127900,
+      "download_time": "2026-02-16T20:39:05.328165"
+    },
+    {
+      "filename": "dashboard_04_782d2cde.jpg",
+      "source_url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/2011/12/T_4557.jpg",
+      "source_page": "https://media.toyota.co.uk/images/auris-interior-2007-2009/",
+      "search_engine": "bing",
+      "search_query": "2006 TOYOTA AURIS dashboard interior OEM",
+      "width": 2100,
+      "height": 1500,
+      "file_size_bytes": 1926638,
+      "download_time": "2026-02-16T20:39:08.784508"
+    },
+    {
+      "filename": "dashboard_05_7f3994cf.jpg",
+      "source_url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/2011/10/T_7104-scaled.jpg",
+      "source_page": "https://media.toyota.co.uk/images/auris-tr-interior-2008-2009/",
+      "search_engine": "bing",
+      "search_query": "2006 TOYOTA AURIS dashboard interior OEM",
+      "width": 2560,
+      "height": 1707,
+      "file_size_bytes": 624496,
+      "download_time": "2026-02-16T20:39:10.185803"
+    }
+  ],
+  "total_images": 5
+}

@@ -1,0 +1,75 @@
+{
+  "vehicle": {
+    "make": "VW",
+    "model": "POLO",
+    "year_range": "2011",
+    "skus": [
+      "FEA194",
+      "AJ-VW-TK1229",
+      "FEA229"
+    ],
+    "description": "VW POLO 9\" 2004-2011 & HARNESS"
+  },
+  "search_queries_used": [
+    "2011 VW POLO dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T22:34:51.776109",
+  "images": [
+    {
+      "filename": "dashboard_01_cda4fb58.jpg",
+      "source_url": "https://parkers-images.bauersecure.com/gallery-image/pagefiles/192864/main-interior/1752x1168/23_polo_dashboard.jpg",
+      "source_page": "https://www.parkers.co.uk/volkswagen/polo/hatchback-2009/used-review/",
+      "search_engine": "duckduckgo",
+      "search_query": "2011 VW POLO dashboard interior OEM",
+      "width": 1752,
+      "height": 1128,
+      "file_size_bytes": 207542,
+      "download_time": "2026-02-16T22:34:43.134286"
+    },
+    {
+      "filename": "dashboard_02_24f668e2.jpg",
+      "source_url": "https://media.whatcar.com/wc-image/2022-03/volkswagen_polo_dashboard.jpg",
+      "source_page": "https://www.whatcar.com/news/new-dacia-sandero-vs-used-volkswagen-polo-interiors/n24125",
+      "search_engine": "duckduckgo",
+      "search_query": "2011 VW POLO dashboard interior OEM",
+      "width": 1600,
+      "height": 1060,
+      "file_size_bytes": 115266,
+      "download_time": "2026-02-16T22:34:44.102262"
+    },
+    {
+      "filename": "dashboard_03_6675f500.jpg",
+      "source_url": "https://bparts-eu.s3-eu-west-1.amazonaws.com/images/6142/original/2016_02_18_10_02_1455791768_6376",
+      "source_page": "https://www.b-parts.com/auto-parts/interior/dashboard-vw-polo-9n_-2001-2002-2003-2004-2005-2006-2007-2008-2009-2010-2011-2012-2013-2014-56566",
+      "search_engine": "duckduckgo",
+      "search_query": "2011 VW POLO dashboard interior OEM",
+      "width": 1536,
+      "height": 864,
+      "file_size_bytes": 148767,
+      "download_time": "2026-02-16T22:34:48.662644"
+    },
+    {
+      "filename": "dashboard_04_026c551d.jpg",
+      "source_url": "https://bparts-eu.s3-eu-west-1.amazonaws.com/images/2322/original/2016_12_23_09_12_1482486956_7646.jpg",
+      "source_page": "https://www.b-parts.com/auto-parts/interior/dashboard-vw-polo-9n_-9a_-2001-2002-2003-2004-2005-2006-2007-2008-2009-2010-2011-2012-2013-2014-145316",
+      "search_engine": "duckduckgo",
+      "search_query": "2011 VW POLO dashboard interior OEM",
+      "width": 1536,
+      "height": 864,
+      "file_size_bytes": 64815,
+      "download_time": "2026-02-16T22:34:50.210816"
+    },
+    {
+      "filename": "dashboard_05_bdca1ab3.jpg",
+      "source_url": "https://imgd.aeplcdn.com/0X0/n/cw/ec/29628/polo-interior-dashboard.jpeg?q=85",
+      "source_page": "https://www.carwale.com/volkswagen-cars/polo/images/polo-dashboard-200411/",
+      "search_engine": "duckduckgo",
+      "search_query": "2011 VW POLO dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 223846,
+      "download_time": "2026-02-16T22:34:51.776025"
+    }
+  ],
+  "total_images": 5
+}

@@ -1,0 +1,75 @@
+{
+  "vehicle": {
+    "make": "ISUZU",
+    "model": "D-MAX",
+    "year_range": "",
+    "skus": [
+      "FA-ISUZU DMAX",
+      "AJ-WSL-014",
+      "FEA076"
+    ],
+    "description": "ISUZU D-MAX 9\" D/DIN 2020 NO HARNESS"
+  },
+  "search_queries_used": [
+    " ISUZU D-MAX dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T17:09:05.818976",
+  "images": [
+    {
+      "filename": "dashboard_01_abfddc40.jpg",
+      "source_url": "https://media.whatcar.com/wc-image/2024-05/isuzu-d-max-dashboard.jpg",
+      "source_page": "https://www.whatcar.com/isuzu/d-max/pick-up/review/n17221",
+      "search_engine": "duckduckgo",
+      "search_query": " ISUZU D-MAX dashboard interior OEM",
+      "width": 1600,
+      "height": 1067,
+      "file_size_bytes": 213712,
+      "download_time": "2026-02-16T17:07:54.045945"
+    },
+    {
+      "filename": "dashboard_02_0fce3a68.jpg",
+      "source_url": "https://imgcdn.zigwheels.my/large/gallery/interior/36/1726/isuzu-d-max-2021-dashboard-view-938888.jpg",
+      "source_page": "https://www.zigwheels.my/new-cars/isuzu/d-max/images",
+      "search_engine": "duckduckgo",
+      "search_query": " ISUZU D-MAX dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 57366,
+      "download_time": "2026-02-16T17:07:55.395774"
+    },
+    {
+      "filename": "dashboard_03_e5773447.jpg",
+      "source_url": "https://www.uteguide.com.au/wp-content/uploads/2020/10/Isuzu-D-MAX-21MY-X-TERRAIN-Interior-Dash.jpg",
+      "source_page": "https://www.uteguide.com.au/isuzu-d-max-x-terrain-4wd-dual-cab-ute-2020-review/isuzu-d-max-21my-x-terrain-interior-dash-2/",
+      "search_engine": "duckduckgo",
+      "search_query": " ISUZU D-MAX dashboard interior OEM",
+      "width": 3000,
+      "height": 1732,
+      "file_size_bytes": 332614,
+      "download_time": "2026-02-16T17:09:01.702051"
+    },
+    {
+      "filename": "dashboard_04_17c6fa30.jpg",
+      "source_url": "https://imgcdn.zigwheels.ph/large/gallery/interior/13/3278/isuzu-d-max-dashboard-view-281126.jpg",
+      "source_page": "https://www.zigwheels.ph/new-cars/isuzu/d-max/3-0-4x2-ls-e-at",
+      "search_engine": "duckduckgo",
+      "search_query": " ISUZU D-MAX dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 30542,
+      "download_time": "2026-02-16T17:09:02.673863"
+    },
+    {
+      "filename": "dashboard_05_e53932cb.jpg",
+      "source_url": "https://auto.hindustantimes.com/htmobile1/isuzu_dmax/images/interior_isuzu-d-max_dashboard_930x620.jpg",
+      "source_page": "https://auto.hindustantimes.com/new-cars/isuzu/dmax/images",
+      "search_engine": "duckduckgo",
+      "search_query": " ISUZU D-MAX dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 26384,
+      "download_time": "2026-02-16T17:09:05.818874"
+    }
+  ],
+  "total_images": 5
+}

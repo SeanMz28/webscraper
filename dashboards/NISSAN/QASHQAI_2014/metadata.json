@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "NISSAN",
+    "model": "QASHQAI",
+    "year_range": "2014",
+    "skus": [
+      "FEA135 (22-241)",
+      "FEA264A (22-241)"
+    ],
+    "description": "NISSAN QASHQAI 9\" D/DIN 2008-2014 & HARNESS"
+  },
+  "search_queries_used": [
+    "2014 NISSAN QASHQAI dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T20:03:01.718276",
+  "images": [
+    {
+      "filename": "dashboard_01_4fb57852.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/Nissan-Qashqai-interior-3.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=60&w=1920",
+      "source_page": "https://www.carwow.co.uk/nissan/qashqai/2011/interior",
+      "search_engine": "duckduckgo",
+      "search_query": "2014 NISSAN QASHQAI dashboard interior OEM",
+      "width": 1920,
+      "height": 1281,
+      "file_size_bytes": 342336,
+      "download_time": "2026-02-16T20:02:44.928207"
+    },
+    {
+      "filename": "dashboard_02_77444ba3.jpg",
+      "source_url": "http://www.forcegt.com/wp-content/uploads/2013/11/2014-Nissan-Qashqai-interior.jpg",
+      "source_page": "http://www.forcegt.com/news/video-2014-nissan-qashqai-unveiled-on-sale-next-year/",
+      "search_engine": "duckduckgo",
+      "search_query": "2014 NISSAN QASHQAI dashboard interior OEM",
+      "width": 1600,
+      "height": 1067,
+      "file_size_bytes": 186748,
+      "download_time": "2026-02-16T20:02:46.494433"
+    },
+    {
+      "filename": "dashboard_03_c954f931.jpg",
+      "source_url": "https://thumbs.dreamstime.com/z/modelo-del-interior-de-nissan-qashqai-41935628.jpg",
+      "source_page": "https://es.dreamstime.com/foto-de-archivo-editorial-modelo-del-interior-de-nissan-qashqai-image41935628",
+      "search_engine": "duckduckgo",
+      "search_query": "2014 NISSAN QASHQAI dashboard interior OEM",
+      "width": 1600,
+      "height": 1157,
+      "file_size_bytes": 165696,
+      "download_time": "2026-02-16T20:02:47.194202"
+    },
+    {
+      "filename": "dashboard_04_07141548.jpg",
+      "source_url": "https://img.indianautosblog.com/2013/11/2014-Nissan-Qashqai-dashboard.jpg",
+      "source_page": "https://indianautosblog.com/2014-nissan-qashqai-p103198",
+      "search_engine": "duckduckgo",
+      "search_query": "2014 NISSAN QASHQAI dashboard interior OEM",
+      "width": 1280,
+      "height": 853,
+      "file_size_bytes": 130161,
+      "download_time": "2026-02-16T20:02:58.275932"
+    },
+    {
+      "filename": "dashboard_05_01b57635.jpg",
+      "source_url": "https://img.indianautosblog.com/2014/10/Nissan-Qashqai-SV1-dashboard-at-the-2014-Paris-Motor-Show.jpg",
+      "source_page": "https://indianautosblog.com/nissan-qashqai-sv1-p151878",
+      "search_engine": "duckduckgo",
+      "search_query": "2014 NISSAN QASHQAI dashboard interior OEM",
+      "width": 1280,
+      "height": 847,
+      "file_size_bytes": 329530,
+      "download_time": "2026-02-16T20:03:01.718215"
+    }
+  ],
+  "total_images": 5
+}

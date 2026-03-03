@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "MERCEDES",
+    "model": "E-CLASS W211",
+    "year_range": "2002-2009",
+    "skus": [
+      "FEA760 (11-451 9\")",
+      "AJ-MBZ-TK0760 (22-023)"
+    ],
+    "description": "MERCEDES E-CLASS W211 2002-2009 & HARNESS"
+  },
+  "search_queries_used": [
+    "2002 MERCEDES E-CLASS W211 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T19:23:25.403457",
+  "images": [
+    {
+      "filename": "dashboard_01_7e37fbfa.jpg",
+      "source_url": "https://bparts-eu.s3-eu-west-1.amazonaws.com/images/7325/original/images/7325/clean_image/4liyijrcpu2dyjgrg6jetj6vv5khi60r.jpg",
+      "source_page": "https://www.b-parts.com/auto-parts/interior/dashboard-mercedes-benz-e-class-w211-e-220-cdi-211006-2002-2003-2004-2005-2006-2007-2008-2009-6785073",
+      "search_engine": "bing",
+      "search_query": "2002 MERCEDES E-CLASS W211 dashboard interior OEM",
+      "width": 800,
+      "height": 600,
+      "file_size_bytes": 42115,
+      "download_time": "2026-02-16T19:23:08.050820"
+    },
+    {
+      "filename": "dashboard_02_58fd50ee.jpg",
+      "source_url": "https://bparts-eu.s3-eu-west-1.amazonaws.com/ftp/azor_2/000/000/374/000000374598.jpeg",
+      "source_page": "https://www.b-parts.com/auto-parts/interior/dashboard-mercedes-benz-e-class-w211-e-270-cdi-211016-2116800687fkz-2002-2003-2004-2005-2006-2007-2008-2009-1550224",
+      "search_engine": "bing",
+      "search_query": "2002 MERCEDES E-CLASS W211 dashboard interior OEM",
+      "width": 800,
+      "height": 600,
+      "file_size_bytes": 65536,
+      "download_time": "2026-02-16T19:23:15.623820"
+    },
+    {
+      "filename": "dashboard_03_de84cb1f.jpg",
+      "source_url": "https://cdn4.pelicanparts.com/techarticles/Mercedes-W211/50-INTERIOR-Upper_Dashboard_Cover_Replacement/images_large/pic04.jpg",
+      "source_page": "https://www.pelicanparts.com/techarticles/Mercedes-W211/50-INTERIOR-Upper_Dashboard_Cover_Replacement/50-INTERIOR-Upper_Dashboard_Cover_Replacement.htm",
+      "search_engine": "bing",
+      "search_query": "2002 MERCEDES E-CLASS W211 dashboard interior OEM",
+      "width": 2592,
+      "height": 1767,
+      "file_size_bytes": 379308,
+      "download_time": "2026-02-16T19:23:17.545623"
+    },
+    {
+      "filename": "dashboard_04_9733c77b.jpg",
+      "source_url": "https://cdn4.pelicanparts.com/techarticles/Mercedes-W211/50-INTERIOR-Upper_Dashboard_Cover_Replacement/images_large/pic02.jpg",
+      "source_page": "https://www.pelicanparts.com/techarticles/Mercedes-W211/50-INTERIOR-Upper_Dashboard_Cover_Replacement/50-INTERIOR-Upper_Dashboard_Cover_Replacement.htm",
+      "search_engine": "bing",
+      "search_query": "2002 MERCEDES E-CLASS W211 dashboard interior OEM",
+      "width": 2592,
+      "height": 1767,
+      "file_size_bytes": 371493,
+      "download_time": "2026-02-16T19:23:22.078622"
+    },
+    {
+      "filename": "dashboard_05_238cd06c.jpg",
+      "source_url": "https://cdn4.pelicanparts.com/techarticles/Mercedes-W211/50-INTERIOR-Upper_Dashboard_Cover_Replacement/images_med/pic07.jpg",
+      "source_page": "https://www.pelicanparts.com/techarticles/Mercedes-W211/50-INTERIOR-Upper_Dashboard_Cover_Replacement/50-INTERIOR-Upper_Dashboard_Cover_Replacement.htm",
+      "search_engine": "bing",
+      "search_query": "2002 MERCEDES E-CLASS W211 dashboard interior OEM",
+      "width": 1536,
+      "height": 1047,
+      "file_size_bytes": 143081,
+      "download_time": "2026-02-16T19:23:25.403360"
+    }
+  ],
+  "total_images": 5
+}

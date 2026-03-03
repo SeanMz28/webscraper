@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "TOYOTA",
+    "model": "COROLLA",
+    "year_range": "2013-2016",
+    "skus": [
+      "AJ-TY-096 (22-013)"
+    ],
+    "description": "TOYOTA COROLLA 2013-2016 10.1\" & HARNESS"
+  },
+  "search_queries_used": [
+    "2013 TOYOTA COROLLA dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T20:50:39.033489",
+  "images": [
+    {
+      "filename": "dashboard_01_c9ffed6d.jpg",
+      "source_url": "https://cockpitdekor.com/11133-thickbox_default/toyota-camry-solara-2003-2008-interior-whz-dashboard-trim-kit-30-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2013 TOYOTA COROLLA dashboard interior OEM",
+      "width": 1228,
+      "height": 1024,
+      "file_size_bytes": 98806,
+      "download_time": "2026-02-16T20:45:21.168269"
+    },
+    {
+      "filename": "dashboard_02_56e390e0.jpg",
+      "source_url": "https://cockpitdekor.com/7631-thickbox_default/toyota-corolla-2014-basic-set-interior-bd-dash-trim-kit-ar.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2013 TOYOTA COROLLA dashboard interior OEM",
+      "width": 1228,
+      "height": 921,
+      "file_size_bytes": 102378,
+      "download_time": "2026-02-16T20:45:26.326431"
+    },
+    {
+      "filename": "dashboard_03_c183f287.jpg",
+      "source_url": "https://m.media-amazon.com/images/I/71aJl6SwylL.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2013 TOYOTA COROLLA dashboard interior OEM",
+      "width": 1200,
+      "height": 1500,
+      "file_size_bytes": 133503,
+      "download_time": "2026-02-16T20:48:30.843570"
+    },
+    {
+      "filename": "dashboard_04_9b57681f.jpg",
+      "source_url": "https://www.samarins.com/reviews/img/corolla-2012-interior-large.jpg",
+      "source_page": "https://toyota.udlvirtual.edu.pe/view/interior-toyota-corolla-2013.html",
+      "search_engine": "bing",
+      "search_query": "2013 TOYOTA COROLLA dashboard interior OEM",
+      "width": 900,
+      "height": 600,
+      "file_size_bytes": 100465,
+      "download_time": "2026-02-16T20:49:07.590971"
+    },
+    {
+      "filename": "dashboard_05_bd220b8f.jpg",
+      "source_url": "https://m.media-amazon.com/images/I/710Be1aeqkL.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2013 TOYOTA COROLLA dashboard interior OEM",
+      "width": 1600,
+      "height": 1600,
+      "file_size_bytes": 135963,
+      "download_time": "2026-02-16T20:50:39.033359"
+    }
+  ],
+  "total_images": 5
+}

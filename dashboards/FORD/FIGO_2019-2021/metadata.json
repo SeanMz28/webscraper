@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "FORD",
+    "model": "FIGO",
+    "year_range": "2019-2021",
+    "skus": [
+      "AJ-FD-039"
+    ],
+    "description": "FORD FIGO (FORD10) 2019-2021 & HARNESS"
+  },
+  "search_queries_used": [
+    "2019 FORD FIGO dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T14:52:09.491710",
+  "images": [
+    {
+      "filename": "dashboard_01_a5068e81.jpg",
+      "source_url": "https://blog.gaadikey.com/wp-content/uploads/2019/03/2019-Ford-Figo-Interior-Dashboard.jpg",
+      "source_page": "https://blog.gaadikey.com/2019-ford-figo-photos-exclusive/",
+      "search_engine": "duckduckgo",
+      "search_query": "2019 FORD FIGO dashboard interior OEM",
+      "width": 1000,
+      "height": 667,
+      "file_size_bytes": 71984,
+      "download_time": "2026-02-16T14:52:05.067304"
+    },
+    {
+      "filename": "dashboard_02_04d66fe9.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/98837/ford-figo-dashboard28.jpeg?wm=0&q=75",
+      "source_page": "https://www.cartrade.com/ford-cars/figo/images/interior/",
+      "search_engine": "duckduckgo",
+      "search_query": "2019 FORD FIGO dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 69022,
+      "download_time": "2026-02-16T14:52:05.271970"
+    },
+    {
+      "filename": "dashboard_03_c5eec394.jpg",
+      "source_url": "https://ic4.maxabout.us/autos/cars_india/2024/12/Ford_Figo_Sports_Edition_Dashboard_View-20241205070204.jpg",
+      "source_page": "https://autos.maxabout.com/cars/ford/figo-2019/images",
+      "search_engine": "duckduckgo",
+      "search_query": "2019 FORD FIGO dashboard interior OEM",
+      "width": 1200,
+      "height": 630,
+      "file_size_bytes": 42290,
+      "download_time": "2026-02-16T14:52:06.448989"
+    },
+    {
+      "filename": "dashboard_04_13970322.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/cw/ec/20230/Ford-Figo-Steering-Wheel-140865.jpg?wm=0&q=80",
+      "source_page": "https://www.cartrade.com/ford-cars/figo-2015-2019/images/interior/",
+      "search_engine": "duckduckgo",
+      "search_query": "2019 FORD FIGO dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 52988,
+      "download_time": "2026-02-16T14:52:08.539217"
+    },
+    {
+      "filename": "dashboard_05_34ebc575.jpg",
+      "source_url": "https://img-ik.cars.co.za/news-site-za/images/2019/08/Ford-Figo-11.jpg",
+      "source_page": "https://www.cars.co.za/motoring-news/ford-figo-hatch-15-titanium-2019-review/28093/",
+      "search_engine": "duckduckgo",
+      "search_query": "2019 FORD FIGO dashboard interior OEM",
+      "width": 1280,
+      "height": 853,
+      "file_size_bytes": 130370,
+      "download_time": "2026-02-16T14:52:09.491591"
+    }
+  ],
+  "total_images": 5
+}

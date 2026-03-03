@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "BMW",
+    "model": "E46",
+    "year_range": "2005",
+    "skus": [
+      "AJ-BMW-001 (22-498)",
+      "FEA009 (22-498)"
+    ],
+    "description": "BMW E46 9\" D/DIN 1998-2005 & HARNESS"
+  },
+  "search_queries_used": [
+    "2005 BMW E46 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T13:45:20.042961",
+  "images": [
+    {
+      "filename": "dashboard_01_1c38d95f.jpg",
+      "source_url": "https://as1.ftcdn.net/v2/jpg/11/23/58/20/1000_F_1123582061_FOEu3MYRi5Te2zFtEn9dUvYLGqqesTpt.jpg",
+      "source_page": "https://stock.adobe.com/images/bmw-3-series-e46-325xi-luxury-car-interior-steering-wheel-dashboard-bmw-e46-is-the-fourth-generation-of-the-bmw-3-series-beige-leather-interior-e-46/1123582061",
+      "search_engine": "bing",
+      "search_query": "2005 BMW E46 dashboard interior OEM",
+      "width": 1000,
+      "height": 750,
+      "file_size_bytes": 286745,
+      "download_time": "2026-02-16T13:45:08.820028"
+    },
+    {
+      "filename": "dashboard_02_8dceed4f.jpg",
+      "source_url": "https://hermesautoparts.com/ebayproductimages/BMW%20Dash%20Panel%20Dashboard%2051457143217%20E46%20323i%20325i%20330i%20M37.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2005 BMW E46 dashboard interior OEM",
+      "width": 1600,
+      "height": 1200,
+      "file_size_bytes": 401065,
+      "download_time": "2026-02-16T13:45:12.104768"
+    },
+    {
+      "filename": "dashboard_03_af8b725d.jpg",
+      "source_url": "https://cdn.bmwblog.com/wp-content/uploads/2021/06/laguna_seca_blue_bmw_e46_m3_26.jpg",
+      "source_page": "https://fity.club/lists/suggestions/bmw-e46-interior/",
+      "search_engine": "bing",
+      "search_query": "2005 BMW E46 dashboard interior OEM",
+      "width": 1920,
+      "height": 1280,
+      "file_size_bytes": 257940,
+      "download_time": "2026-02-16T13:45:16.760644"
+    },
+    {
+      "filename": "dashboard_04_64cbea6a.jpg",
+      "source_url": "https://www.coolshiftknobs.com/wp-content/uploads/2024/02/BMW-E46-Interior-1024x683.jpg",
+      "source_page": "https://fity.club/lists/suggestions/bmw-e46-interior/",
+      "search_engine": "bing",
+      "search_query": "2005 BMW E46 dashboard interior OEM",
+      "width": 1024,
+      "height": 683,
+      "file_size_bytes": 126772,
+      "download_time": "2026-02-16T13:45:19.234153"
+    },
+    {
+      "filename": "dashboard_05_df85313f.jpg",
+      "source_url": "https://i.ytimg.com/vi/iJ0Bizfsq98/maxresdefault.jpg",
+      "source_page": "https://fity.club/lists/suggestions/bmw-e46-interior/",
+      "search_engine": "bing",
+      "search_query": "2005 BMW E46 dashboard interior OEM",
+      "width": 1280,
+      "height": 720,
+      "file_size_bytes": 93026,
+      "download_time": "2026-02-16T13:45:20.042908"
+    }
+  ],
+  "total_images": 5
+}

@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "CHEVROLET",
+    "model": "SPARK",
+    "year_range": "2015",
+    "skus": [
+      "FEA014 (22-180)"
+    ],
+    "description": "CHEVROLET SPARK 9\" 2014-2015 & HARNESS"
+  },
+  "search_queries_used": [
+    "2015 CHEVROLET SPARK dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T14:21:56.868901",
+  "images": [
+    {
+      "filename": "dashboard_01_de500e7b.jpg",
+      "source_url": "https://di-uploads-pod1.dealerinspire.com/mikeandersonchevy/uploads/2015/02/2015-Chevrolet-Spark-interior-1.jpg",
+      "source_page": "https://fity.club/lists/suggestions/2015-Chevrolet-Spark-Interior/",
+      "search_engine": "bing",
+      "search_query": "2015 CHEVROLET SPARK dashboard interior OEM",
+      "width": 1600,
+      "height": 686,
+      "file_size_bytes": 54840,
+      "download_time": "2026-02-16T14:21:50.039051"
+    },
+    {
+      "filename": "dashboard_02_ea5a227e.jpg",
+      "source_url": "https://cdn.autoparts24.eu/images/A/0005/C38417/6644fce3c4d6d.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2015 CHEVROLET SPARK dashboard interior OEM",
+      "width": 4032,
+      "height": 2160,
+      "file_size_bytes": 455208,
+      "download_time": "2026-02-16T14:21:52.116859"
+    },
+    {
+      "filename": "dashboard_03_b6ce9442.jpg",
+      "source_url": "https://cdn.autoparts24.eu/images/A/0026/TM05663/67b46884051d2.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2015 CHEVROLET SPARK dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 262072,
+      "download_time": "2026-02-16T14:21:54.662013"
+    },
+    {
+      "filename": "dashboard_04_76e67fa1.jpg",
+      "source_url": "https://s.alicdn.com/@sc02/kf/Hb0e857f4bb7e4d1c8d4cd2f57669fff61.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2015 CHEVROLET SPARK dashboard interior OEM",
+      "width": 1664,
+      "height": 928,
+      "file_size_bytes": 136574,
+      "download_time": "2026-02-16T14:21:56.023064"
+    },
+    {
+      "filename": "dashboard_05_81681636.png",
+      "source_url": "https://i.ebayimg.com/images/g/6XoAAeSwOjJornb~/s-l1200.png",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2015 CHEVROLET SPARK dashboard interior OEM",
+      "width": 1200,
+      "height": 900,
+      "file_size_bytes": 640853,
+      "download_time": "2026-02-16T14:21:56.868822"
+    }
+  ],
+  "total_images": 5
+}

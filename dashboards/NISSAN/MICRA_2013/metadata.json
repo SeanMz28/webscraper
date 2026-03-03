@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "NISSAN",
+    "model": "MICRA",
+    "year_range": "2013",
+    "skus": [
+      "FEA212 (11-295 9\")"
+    ],
+    "description": "NISSAN MICRA 9\" 2010-2013 & HARNESS"
+  },
+  "search_queries_used": [
+    "2013 NISSAN MICRA dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T19:57:56.864371",
+  "images": [
+    {
+      "filename": "dashboard_01_e29f9838.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/nissan-micra-dashboard.jpg",
+      "source_page": "https://www.carwow.co.uk/nissan/micra/2013/interior",
+      "search_engine": "duckduckgo",
+      "search_query": "2013 NISSAN MICRA dashboard interior OEM",
+      "width": 2500,
+      "height": 1668,
+      "file_size_bytes": 517508,
+      "download_time": "2026-02-16T19:57:43.297470"
+    },
+    {
+      "filename": "dashboard_02_e975c675.jpg",
+      "source_url": "https://stat.overdrive.in/wp-content/odgallery/2014/04/16344_05.jpg",
+      "source_page": "https://www.overdrive.in/photos/cars/suzuki-gsx-s1000-2015-std-1990/",
+      "search_engine": "duckduckgo",
+      "search_query": "2013 NISSAN MICRA dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 277963,
+      "download_time": "2026-02-16T19:57:47.884970"
+    },
+    {
+      "filename": "dashboard_03_f750d1c7.jpg",
+      "source_url": "https://imagecdnsa.zigwheels.ae/large/gallery/interior/30/291/nissan-micra-dashboard-view-730804.jpg",
+      "source_page": "https://www.zigwheels.ae/new-cars/nissan/micra/images",
+      "search_engine": "duckduckgo",
+      "search_query": "2013 NISSAN MICRA dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 68722,
+      "download_time": "2026-02-16T19:57:52.921496"
+    },
+    {
+      "filename": "dashboard_04_daea3a32.jpg",
+      "source_url": "https://imagenes.km77.com/fotos/bbtcontent/clippingnew/KM7KPH20110321_0012/full.jpg",
+      "source_page": "https://www.km77.com/coches/nissan/micra/2011/5-puertas/30-aniversario/micra-30-aniversario-12-80-cv-cvt/imagenes/interiores",
+      "search_engine": "duckduckgo",
+      "search_query": "2013 NISSAN MICRA dashboard interior OEM",
+      "width": 1200,
+      "height": 851,
+      "file_size_bytes": 260921,
+      "download_time": "2026-02-16T19:57:54.763820"
+    },
+    {
+      "filename": "dashboard_05_cc569fcb.jpg",
+      "source_url": "https://stat.overdrive.in/wp-content/odgallery/2013/05/2998_7T4G5113.JPG",
+      "source_page": "https://www.overdrive.in/photos/cars/nissan-micra-2013-xe-interior-229/",
+      "search_engine": "duckduckgo",
+      "search_query": "2013 NISSAN MICRA dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 356641,
+      "download_time": "2026-02-16T19:57:56.864296"
+    }
+  ],
+  "total_images": 5
+}

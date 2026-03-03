@@ -1,0 +1,76 @@
+{
+  "vehicle": {
+    "make": "HYUNDAI",
+    "model": "i10",
+    "year_range": "",
+    "skus": [
+      "FEA551 (22-143)",
+      "FEA060 (22-143)",
+      "FEA622",
+      "AJ-HY-072"
+    ],
+    "description": "HYUNDAI i10 9\" D/DIN 2010 & HARNESS"
+  },
+  "search_queries_used": [
+    " HYUNDAI i10 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T17:04:23.710047",
+  "images": [
+    {
+      "filename": "dashboard_01_c3ff79e7.jpg",
+      "source_url": "https://www.topgear.com/sites/default/files/2022/03/Hyundai_i10_interior_dash.jpg",
+      "source_page": "https://www.topgear.com/car-reviews/hyundai/i10/interior",
+      "search_engine": "bing",
+      "search_query": " HYUNDAI i10 dashboard interior OEM",
+      "width": 1300,
+      "height": 731,
+      "file_size_bytes": 287402,
+      "download_time": "2026-02-16T17:04:09.395127"
+    },
+    {
+      "filename": "dashboard_02_3ac12f6b.jpg",
+      "source_url": "https://cockpitdekor.com/1325-thickbox_default/hyundai-i-10-2008-3d-interior-dashboard-trim-kit-dash-trim-dekor-16-parts.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": " HYUNDAI i10 dashboard interior OEM",
+      "width": 1024,
+      "height": 793,
+      "file_size_bytes": 118095,
+      "download_time": "2026-02-16T17:04:10.244170"
+    },
+    {
+      "filename": "dashboard_03_a8790ef9.jpg",
+      "source_url": "http://www.carblogindia.com/wp-content/uploads/2016/05/Hyundai-Grand-i10-Special-Edition-Interior-Dashboard-Black-Red-1024x614.jpg",
+      "source_page": "http://www.carblogindia.com/hyundai-grand-i10-special-edition-price-images/hyundai-grand-i10-special-edition-interior-dashboard-black-red/",
+      "search_engine": "bing",
+      "search_query": " HYUNDAI i10 dashboard interior OEM",
+      "width": 1024,
+      "height": 614,
+      "file_size_bytes": 109760,
+      "download_time": "2026-02-16T17:04:12.889802"
+    },
+    {
+      "filename": "dashboard_04_cccf1a13.jpg",
+      "source_url": "https://imgd.aeplcdn.com/0x0/n/cw/ec/35465/grand-i10-nios-interior-dashboard-2.jpeg",
+      "source_page": "https://shellysavonlea.net/hyundai-i10-car-dashboard-warning-lights/",
+      "search_engine": "bing",
+      "search_query": " HYUNDAI i10 dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 131044,
+      "download_time": "2026-02-16T17:04:20.445391"
+    },
+    {
+      "filename": "dashboard_05_728294f2.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/26859/grand-i10-interior-dashboard-switches.jpeg?q=80",
+      "source_page": "https://www.cartrade.com/hyundai-cars/grand-i10/images/interior/grand-i10-dashboard-switches-204481/",
+      "search_engine": "bing",
+      "search_query": " HYUNDAI i10 dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 56332,
+      "download_time": "2026-02-16T17:04:23.709985"
+    }
+  ],
+  "total_images": 5
+}

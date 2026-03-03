@@ -1,0 +1,1077 @@
+{
+  "completed": {
+    "ALFA|MITO|2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:39:27.479744"
+    },
+    "AUDI|A3|1996-1999": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:39:43.291270"
+    },
+    "AUDI|A3|2002-2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:39:58.634096"
+    },
+    "AUDI|A3|2003-2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:40:17.079242"
+    },
+    "AUDI|A3|2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:40:30.139647"
+    },
+    "AUDI|A4|2002-2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:40:54.202127"
+    },
+    "AUDI|A4|2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:41:10.703161"
+    },
+    "AUDI|A4 A6 TT|1999-2002": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:41:40.092708"
+    },
+    "AUDI|A4 B6 2000-2006|2004-2006": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:41:57.983746"
+    },
+    "AUDI|TT|2006": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:44:15.658644"
+    },
+    "BMW|1 SERIES E81/E82/E87/E88|2004-2011": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:44:37.590726"
+    },
+    "BMW|1 SERIES E81/E82/E87/E88|2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:44:48.342077"
+    },
+    "BMW|E46|1998-2005": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:45:04.148464"
+    },
+    "BMW|E46|2005": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:45:20.043279"
+    },
+    "BMW|E90|2004-2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:45:30.862442"
+    },
+    "BMW|E90|2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:45:39.681339"
+    },
+    "BMW|X5 / 5-SERIES 1995-2003|1999-2006": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:47:25.192157"
+    },
+    "CHEVROLET|AVEO|2011-2013": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:54:36.048712"
+    },
+    "CHEVROLET|AVEO SONIC|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:54:56.281146"
+    },
+    "CHEVROLET|CAPTIVA|2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T13:55:10.474922"
+    },
+    "CHEVROLET|CAPTIVA AVEO|2011": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:02:02.090440"
+    },
+    "CHEVROLET|CLASSIC CRUZE|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:06:01.808257"
+    },
+    "CHEVROLET|CRUZE|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:12:18.603916"
+    },
+    "CHEVROLET|SPARK|2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:21:56.869260"
+    },
+    "CHEVROLET|SPARK , DAEWOO MATIZ -2011|2010-2013": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:22:15.244095"
+    },
+    "CHEVROLET|SPARK , DAEWOO MATIZ -2011|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:22:39.412511"
+    },
+    "CHRYSLER|NEON|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:22:52.220321"
+    },
+    "DAIHATSU|SIRION|2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:23:12.998743"
+    },
+    "DAIHATSU|TERIOS|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:23:40.725983"
+    },
+    "DAIHATSU|TERIOS O6-2016/ TOYOTA RUSH|2006-2026": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:23:54.570612"
+    },
+    "FIAT|500|2007-2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:24:06.293408"
+    },
+    "FIAT|500|2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:24:20.899536"
+    },
+    "FORD|BANTAM FIESTA/IKON 1995-2004|2005-2011": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:24:35.822631"
+    },
+    "FORD|FIESTA|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:26:20.398836"
+    },
+    "FORD|FIESTA|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:50:57.394032"
+    },
+    "FORD|FIESTA 3 SLOT|2001-2005": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:51:12.378343"
+    },
+    "FORD|FIESTA/FOCUS/KUGA|2006-2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:51:26.166908"
+    },
+    "FORD|FIGO|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:51:57.808518"
+    },
+    "FORD|FIGO|2019-2021": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:52:09.492071"
+    },
+    "FORD|FIGO +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:53:20.929399"
+    },
+    "FORD|FIGO ASPIRE|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:53:33.105152"
+    },
+    "FORD|FIGO ASPIRE/FREESTYLE|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:53:47.736593"
+    },
+    "FORD|FIGO POCKET|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T14:54:11.128392"
+    },
+    "FORD|FOCUS|2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:02:11.227948"
+    },
+    "FORD|FOCUS|2018": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:04:01.350072"
+    },
+    "FORD|FOCUS - ()|2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:11:39.493251"
+    },
+    "FORD|FOCUS/FIESTA|2011": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:11:50.214584"
+    },
+    "FORD|KA|1996-2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:12:08.566540"
+    },
+    "FORD|KUGA|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:12:26.263016"
+    },
+    "FORD|KUGA CMAX 2010+|2011": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:17:18.412998"
+    },
+    "FORD|KUGA/ESCAPE|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:19:31.679990"
+    },
+    "FORD|RANGER|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:19:46.281904"
+    },
+    "FORD|RANGER|2015+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:23:39.182892"
+    },
+    "FORD|RANGER T6 & SWITCHES|2012-2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:23:57.345406"
+    },
+    "FORD|RANGER T7|2015+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:27:49.781186"
+    },
+    "FORD|RANGER T7 +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:29:30.501564"
+    },
+    "FORD|RANGER/EVEREST|2015+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:31:25.695808"
+    },
+    "FORD|RANGER/TRANSIT/TOURNEO|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:33:08.130540"
+    },
+    "FORD|TRANSIT|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:33:28.973478"
+    },
+    "FOTON|TAXI|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:36:39.381359"
+    },
+    "GWM|P SERIES +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:38:15.250521"
+    },
+    "GWM|STEED 6 +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:38:28.525847"
+    },
+    "HAVAL|H1|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:41:19.818605"
+    },
+    "HAVAL|H2|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:41:47.638738"
+    },
+    "HAVAL|H6|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:42:07.223739"
+    },
+    "HONDA|ACCORD|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:44:09.144963"
+    },
+    "HONDA|BRIO|2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:44:23.528235"
+    },
+    "HONDA|BRV|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:44:45.284625"
+    },
+    "HONDA|CITY|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:45:00.173156"
+    },
+    "HONDA|CIVIC HATCHBACH|2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:49:31.645087"
+    },
+    "HONDA|CIVIC TYPE-R|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:51:15.082339"
+    },
+    "HONDA|CRV|2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:53:53.336760"
+    },
+    "HONDA|JAZZ|2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:55:48.760472"
+    },
+    "HONDA|JAZZ|2013": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:56:01.474188"
+    },
+    "HONDA|XRV|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T15:56:17.833516"
+    },
+    "HYUNDAI|ACCENT|2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T16:20:33.172812"
+    },
+    "HYUNDAI|ACCENT/ I25/ VERNA|2010-2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T16:21:04.502313"
+    },
+    "HYUNDAI|CRETA/IX25 +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T16:21:18.858771"
+    },
+    "HYUNDAI|ELANTRA|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T16:21:37.631928"
+    },
+    "HYUNDAI|H1|2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T16:21:51.364381"
+    },
+    "HYUNDAI|H1/STAREX +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T16:22:03.371783"
+    },
+    "HYUNDAI|SANTA FE/ IX45|2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T16:28:20.643412"
+    },
+    "HYUNDAI|SONATA|2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T16:40:00.815631"
+    },
+    "HYUNDAI|SONATA|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T16:55:56.236612"
+    },
+    "HYUNDAI|TUCSON|2018": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T16:58:31.577547"
+    },
+    "HYUNDAI|VELOSTER|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:03:58.416176"
+    },
+    "HYUNDAI|i10|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:04:23.710398"
+    },
+    "HYUNDAI|i10|2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:04:47.295683"
+    },
+    "HYUNDAI|i20|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:06:31.500550"
+    },
+    "HYUNDAI|i20|2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:07:05.251011"
+    },
+    "HYUNDAI|i20|2018": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:07:18.958677"
+    },
+    "HYUNDAI|i20 - WITH MANUAL|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:07:46.592083"
+    },
+    "ISUZU|D-MAX|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:09:05.819437"
+    },
+    "ISUZU|D-MAX|2005": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:09:26.250469"
+    },
+    "ISUZU|D-MAX|2019": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:09:35.946440"
+    },
+    "JEEP|COMPASS|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:09:52.045283"
+    },
+    "JEEP|COMPASS|2007-2009": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:10:02.164533"
+    },
+    "JEEP|GRAND CHEROKEE|1999-2004": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:12:22.542568"
+    },
+    "JEEP|RENEGADE|2016+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:34:53.235175"
+    },
+    "JEEP|WRANGLER|2018+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:40:59.312710"
+    },
+    "JEEP|WRANGLER GRAND CHEROKEE -2010|2007-2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:46:22.163615"
+    },
+    "JEEP|WRANGLER/RUBICORN|2011-2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:46:37.460668"
+    },
+    "JEEP|WRANGLER/RUBICORN DOOR|2008-2010": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:49:12.973404"
+    },
+    "KIA|CERATO|2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:49:25.367178"
+    },
+    "KIA|FORTE CERATO|2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:52:09.402509"
+    },
+    "KIA|K3/FORTE/SHUMA|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:54:02.974549"
+    },
+    "KIA|PICANTO|2023": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:54:14.960748"
+    },
+    "KIA|PICANTO +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T17:54:43.730684"
+    },
+    "KIA|RIO|2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:14:56.834353"
+    },
+    "KIA|RIO +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:15:08.226432"
+    },
+    "KIA|SORENTO|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:15:26.471640"
+    },
+    "KIA|SORENTO +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:15:44.604451"
+    },
+    "KIA|SPORTAGE|2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:23:50.996906"
+    },
+    "KIA|SPORTAGE/KX5|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:26:01.238842"
+    },
+    "LANDROVER|DISCOVERY FREELANDER|2009": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:26:23.109263"
+    },
+    "LEXUS|RX300/330/350|2009": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:31:28.030768"
+    },
+    "MAHINDRA|KUV100 +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:32:07.137072"
+    },
+    "MAHINDRA|SCORPIO AUTO|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:32:24.866304"
+    },
+    "MAHINDRA|THAR|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:33:50.767696"
+    },
+    "MAHINDRA|XUV 500|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:34:09.846351"
+    },
+    "MAZDA|2|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:34:24.152614"
+    },
+    "MAZDA|3|2009": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:39:21.777764"
+    },
+    "MAZDA|3|2013": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:43:25.212777"
+    },
+    "MAZDA|3|2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:47:06.680632"
+    },
+    "MAZDA|5|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:47:18.083492"
+    },
+    "MAZDA|5|2010": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:54:16.700015"
+    },
+    "MAZDA|6|2004-2009": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:56:28.713522"
+    },
+    "MAZDA|BT50|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:56:56.567105"
+    },
+    "MAZDA|BT50 - /DOOR LOCK BUTTONS|2018": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:57:10.316077"
+    },
+    "MAZDA|MX-5|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T18:57:21.860034"
+    },
+    "MAZDA|RX-8|2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:09:07.789551"
+    },
+    "MERCEDES|A/B-CLASS (W169/W245) - VITO VW CRAFTER|2013": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:09:29.841943"
+    },
+    "MERCEDES|B200/VIANO VITO W209|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:09:40.313102"
+    },
+    "MERCEDES|C-CLASS|2011": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:09:55.471611"
+    },
+    "MERCEDES|C-CLASS|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:10:14.410504"
+    },
+    "MERCEDES|C-CLASS GLK -2009|2004-2009": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:23:02.126713"
+    },
+    "MERCEDES|E-CLASS W211|2002-2009": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:23:25.403935"
+    },
+    "MERCEDES|M-CLASS W164|2005-2011": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:23:39.996638"
+    },
+    "MERCEDES|SLK|2011": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:29:59.704441"
+    },
+    "MERCEDES|SPRINTER /VW CRAFTER -2016|2006": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:30:20.912203"
+    },
+    "MERCEDES|VITO|2003-2006": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:30:29.557684"
+    },
+    "MERCEDES|VITO|2010": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:30:39.416792"
+    },
+    "MERCEDES|VITO|2014-2018": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:30:57.818686"
+    },
+    "MITSUBISHI|LANCER 10.1|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:37:48.510578"
+    },
+    "MITSUBISHI|NEW STRENGTH DAZZLE 10.1|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:39:48.559314"
+    },
+    "MITSUBISHI|OUTLANDER|2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:40:44.723615"
+    },
+    "MITSUBISHI|PAJERO|2007+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:41:02.220617"
+    },
+    "MITSUBISHI|PAJERO SPORT|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:41:20.641105"
+    },
+    "MITSUBISHI|PAJERO SPORT/TRITON|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:41:46.034573"
+    },
+    "MITSUBISHI|PAJERO SPORT/TRITON|2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:42:01.303355"
+    },
+    "NISSAN|JUKE|2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:56:31.065152"
+    },
+    "NISSAN|LIVINA/NAVARA|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:56:59.301827"
+    },
+    "NISSAN|MAGNITE|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:57:20.639715"
+    },
+    "NISSAN|MICRA|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:57:36.297261"
+    },
+    "NISSAN|MICRA|2013": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:57:56.864778"
+    },
+    "NISSAN|MICRA|2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:59:32.221999"
+    },
+    "NISSAN|NAVARA|2006-2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:59:45.188419"
+    },
+    "NISSAN|NAVARA|2015-2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T19:59:57.658978"
+    },
+    "NISSAN|NAVARA / NP300|2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:00:12.261710"
+    },
+    "NISSAN|NP200|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:02:00.729171"
+    },
+    "NISSAN|NP200 /DACIA|2009+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:02:25.602151"
+    },
+    "NISSAN|NP200 SUNNY /DACIA|2014-2018": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:02:36.009832"
+    },
+    "NISSAN|QASHQAI|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:03:01.718669"
+    },
+    "NISSAN|UNIVERSAL LIVINA SIDE|2013": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:05:00.631885"
+    },
+    "NISSAN|X-TRAIL/QASHQAI|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:05:15.531521"
+    },
+    "NISSAN|X-TRAIL/QASHQAI|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:07:17.812026"
+    },
+    "OPEL|ASTRA/GRAND LAND|2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:07:36.506069"
+    },
+    "OPEL|CORSA +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:07:57.366551"
+    },
+    "OPEL|CORSA /ADAM +|2014+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:08:15.119692"
+    },
+    "OPEL|CORSA/ASTRA|2001-2006": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:08:25.911862"
+    },
+    "OPEL|CORSA/ASTRA|2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:08:41.287565"
+    },
+    "OPEL|CORSA/ASTRA ()|2006-2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:09:03.631340"
+    },
+    "OPEL|CORSA/ASTRA (YE-OP004)|2001-2006": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:09:28.731185"
+    },
+    "OPEL|CORSA/ASTRA GREY ()|2006-2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:10:53.970930"
+    },
+    "PORSCHE|CAYENNE|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:11:15.862538"
+    },
+    "RENAULT|CAPTUR MANUAL|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:11:28.554709"
+    },
+    "RENAULT|CLIO|2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:11:43.704148"
+    },
+    "RENAULT|CLIO|2018": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:12:00.572332"
+    },
+    "RENAULT|DUSTER KWID 2017+|2010+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:12:20.370967"
+    },
+    "RENAULT|KADJAR|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:14:56.369523"
+    },
+    "RENAULT|KIGAR|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:15:11.999780"
+    },
+    "RENAULT|KWID|2017+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:15:42.286593"
+    },
+    "RENAULT|SANDERO|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:15:56.410764"
+    },
+    "RENAULT|TRAFFIC|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:16:15.278321"
+    },
+    "RENAULT|TRIBER|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:16:29.792099"
+    },
+    "RENAULT|TRIBER (RN-021)|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:16:43.168207"
+    },
+    "SUBARU|FORESTER|2008-2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:22:10.617938"
+    },
+    "SUZUKI|ALTO|2009-2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:22:26.585647"
+    },
+    "SUZUKI|BALENO|2024": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:22:44.222921"
+    },
+    "SUZUKI|BALENO (TOYOTA STARLET)|2016-2022": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:22:56.413254"
+    },
+    "SUZUKI|BREEZA/VITARA + (TOYOTA URBAN CRUISER)|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:23:10.591782"
+    },
+    "SUZUKI|CELERIO|2014+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:24:53.597936"
+    },
+    "SUZUKI|CELERIO|2021": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:25:22.100423"
+    },
+    "SUZUKI|CIAS|2022": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:25:35.126716"
+    },
+    "SUZUKI|ERTIGA (TOYOTA RUMION)|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:25:52.848794"
+    },
+    "SUZUKI|ERTIGA ONENAV (TOYOTA RUMION)|2018+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:26:08.890861"
+    },
+    "SUZUKI|GRAND VITARA|2005-2010": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:26:36.051103"
+    },
+    "SUZUKI|IGNIS +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:28:06.657034"
+    },
+    "SUZUKI|JIMNY|2022": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:28:22.918239"
+    },
+    "SUZUKI|SUSUKI JIMNY|2006-2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:28:37.257346"
+    },
+    "SUZUKI|SUSUKI JIMNY|2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:28:54.570794"
+    },
+    "SUZUKI|SUSUKI S-PRESSO|2022": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:29:08.814710"
+    },
+    "SUZUKI|SWIFT|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:29:24.411437"
+    },
+    "SUZUKI|SWIFT +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:29:36.319103"
+    },
+    "SUZUKI|SWIFT -2010/ DZIRE|2008-2010": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:30:49.529058"
+    },
+    "SUZUKI|SWIFT -2017/ ERTIGA|2012-2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:31:04.909598"
+    },
+    "SUZUKI|SX4|2013": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:36:33.042396"
+    },
+    "SUZUKI|VITARA|2015+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:38:56.292941"
+    },
+    "TOYOTA|AURIS|2006-2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:39:10.186392"
+    },
+    "TOYOTA|AURIS|2014+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:39:31.562623"
+    },
+    "TOYOTA|AVANZA|2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:40:16.170949"
+    },
+    "TOYOTA|AVENSIS|2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:40:28.631751"
+    },
+    "TOYOTA|AYGO +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:40:43.794036"
+    },
+    "TOYOTA|COROLLA|2007-2013": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:45:15.656864"
+    },
+    "TOYOTA|COROLLA|2013-2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:50:39.034050"
+    },
+    "TOYOTA|COROLLA|2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:52:22.546485"
+    },
+    "TOYOTA|COROLLA|2017+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T20:52:43.347316"
+    },
+    "TOYOTA|COROLLA|2019+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:03:56.563471"
+    },
+    "TOYOTA|COROLLA CROSS|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:05:40.915888"
+    },
+    "TOYOTA|COROLLA RUNX|2001-2006": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:06:27.658361"
+    },
+    "TOYOTA|COROLLA RUNX|2006": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:06:48.858045"
+    },
+    "TOYOTA|COROLLA VERSO|2009": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:06:57.703006"
+    },
+    "TOYOTA|COROLLA/RUNX|2001-2006": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:07:13.346844"
+    },
+    "TOYOTA|ETIOS +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:07:30.293031"
+    },
+    "TOYOTA|FJ CRUIZER ()|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:11:15.131000"
+    },
+    "TOYOTA|FJ CRUIZER () & HARNESS|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:13:03.551666"
+    },
+    "TOYOTA|FORTUNER +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:13:17.891660"
+    },
+    "TOYOTA|HILUX|1998-2010": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:13:34.744484"
+    },
+    "TOYOTA|HILUX|2011": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:13:50.336666"
+    },
+    "TOYOTA|HILUX GD6|2015+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:14:11.299864"
+    },
+    "TOYOTA|HILUX GD6|2016+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:14:20.776168"
+    },
+    "TOYOTA|HILUX NEW|2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:14:32.766340"
+    },
+    "TOYOTA|HILUX/FORTUNER|2008": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:15:02.763763"
+    },
+    "TOYOTA|HILUX/FORTUNER|2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:15:15.117391"
+    },
+    "TOYOTA|HILUX/FORTUNER - AUTO|2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:15:22.515110"
+    },
+    "TOYOTA|LANDCRUISER 79|2015": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:15:44.135366"
+    },
+    "TOYOTA|LANDCRUISER 79|2024": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:15:56.603149"
+    },
+    "TOYOTA|LANDCRUISER PRADO|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:16:21.819082"
+    },
+    "TOYOTA|LANDCRUISER PRADO|2009": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:16:31.977845"
+    },
+    "TOYOTA|LANDCRUISER VXR|2003": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:16:51.483879"
+    },
+    "TOYOTA|QUANTUM|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:17:05.878210"
+    },
+    "TOYOTA|QUANTUM +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:17:23.748137"
+    },
+    "TOYOTA|RAV4|2012": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:30:19.366466"
+    },
+    "TOYOTA|RAV4|2013-2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T21:44:36.590403"
+    },
+    "TOYOTA|RAV4|2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:08:36.640519"
+    },
+    "TOYOTA|RAV4|2019": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:09:00.040331"
+    },
+    "TOYOTA|VERSO|2009-2018": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:09:14.983159"
+    },
+    "TOYOTA|YARIS|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:09:34.782728"
+    },
+    "TOYOTA|YARIS|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:14:19.951041"
+    },
+    "TOYOTA|YARIS 7|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:27:41.244418"
+    },
+    "TOYOTA|YARIS HATCH|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:28:08.287499"
+    },
+    "TOYOTA|YARIS SEDAN|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:31:34.549438"
+    },
+    "TOYOTA|YARIS T3 - ()|2010": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:31:49.603177"
+    },
+    "TOYOTA|YARIS/VIOS|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:32:10.083605"
+    },
+    "VW|CRAFTER +|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:32:34.646447"
+    },
+    "VW|FITMENT KIT|2018": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:32:54.262213"
+    },
+    "VW|GOLF 4 POLO -2003|1999-2009": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:33:14.633392"
+    },
+    "VW|GOLF 5/6|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:33:30.462207"
+    },
+    "VW|GOLF 5/6|2014": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:33:49.208119"
+    },
+    "VW|GOLF 7|2017+": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:34:06.288789"
+    },
+    "VW|GOLF 9 FIT|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:34:20.391107"
+    },
+    "VW|GOLF 9 FIT SS-AN-9200V|": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:34:34.831484"
+    },
+    "VW|POLO|2011": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:34:51.776527"
+    },
+    "VW|POLO 9|2010": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:35:07.347982"
+    },
+    "VW|POLO UP|2016": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:35:20.557414"
+    },
+    "VW|TIGUAN 2017|2017": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:37:28.672529"
+    },
+    "VW|TOURAG / T5 -2009|2002-2010": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:37:50.610177"
+    },
+    "VW|TOURAG / T5 -2009|2004-2010": {
+      "images_saved": 5,
+      "timestamp": "2026-02-16T22:38:10.418039"
+    }
+  },
+  "started": null
+}

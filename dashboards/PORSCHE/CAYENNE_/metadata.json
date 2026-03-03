@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "PORSCHE",
+    "model": "CAYENNE",
+    "year_range": "",
+    "skus": [
+      "FEA956 (11-153 9\")"
+    ],
+    "description": "PORSCHE CAYENNE 9\" 2009"
+  },
+  "search_queries_used": [
+    " PORSCHE CAYENNE dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T20:11:15.862213",
+  "images": [
+    {
+      "filename": "dashboard_01_27efd769.jpg",
+      "source_url": "https://media.whatcar.com/wc-image/2019-08/porsche_cayenne_coupe_dashboard.jpg",
+      "source_page": "https://storage.googleapis.com/dxdrupnbsfecle/porsche-cayenne-interior-images.html",
+      "search_engine": "duckduckgo",
+      "search_query": " PORSCHE CAYENNE dashboard interior OEM",
+      "width": 1600,
+      "height": 1060,
+      "file_size_bytes": 88880,
+      "download_time": "2026-02-16T20:11:04.926790"
+    },
+    {
+      "filename": "dashboard_02_a760ddf3.jpg",
+      "source_url": "https://images.cars.com/cldstatic/wp-content/uploads/porsche-cayenne-2024-interior-oem-01-2.jpg",
+      "source_page": "https://www.cars.com/articles/2024-porsche-cayenne-spicy-suv-gets-upgraded-performance-new-styling-new-tech-465054/",
+      "search_engine": "duckduckgo",
+      "search_query": " PORSCHE CAYENNE dashboard interior OEM",
+      "width": 1200,
+      "height": 800,
+      "file_size_bytes": 91916,
+      "download_time": "2026-02-16T20:11:06.729908"
+    },
+    {
+      "filename": "dashboard_03_fce4106b.jpg",
+      "source_url": "https://www.thedrive.com/uploads/2023/03/29/Interior_2_1.jpg?auto=webp&optimize=high&quality=70&width=1440",
+      "source_page": "https://www.thedrive.com/news/new-porsche-cayenne-interior-brings-back-some-buttons-but-adds-more-screen-too",
+      "search_engine": "duckduckgo",
+      "search_query": " PORSCHE CAYENNE dashboard interior OEM",
+      "width": 1620,
+      "height": 1081,
+      "file_size_bytes": 84092,
+      "download_time": "2026-02-16T20:11:08.635135"
+    },
+    {
+      "filename": "dashboard_04_c93db400.jpg",
+      "source_url": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/pnr/2023/Products/Cayenne-Driver-Experience/Interior_1_1.jpg/jcr:content/Interior_1_1.jpg",
+      "source_page": "https://www.porscheoklahomacity.com/2024-porsche-cayenne-comparison/",
+      "search_engine": "duckduckgo",
+      "search_query": " PORSCHE CAYENNE dashboard interior OEM",
+      "width": 1935,
+      "height": 1089,
+      "file_size_bytes": 196265,
+      "download_time": "2026-02-16T20:11:10.223088"
+    },
+    {
+      "filename": "dashboard_05_0ed30178.jpg",
+      "source_url": "https://mediaassets.pca.org/pages/pca/images/content/wheel.jpg",
+      "source_page": "https://storage.googleapis.com/dxdrupnbsfecle/porsche-cayenne-interior-images.html",
+      "search_engine": "duckduckgo",
+      "search_query": " PORSCHE CAYENNE dashboard interior OEM",
+      "width": 1200,
+      "height": 800,
+      "file_size_bytes": 591779,
+      "download_time": "2026-02-16T20:11:15.862140"
+    }
+  ],
+  "total_images": 5
+}

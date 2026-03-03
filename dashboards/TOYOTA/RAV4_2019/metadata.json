@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "TOYOTA",
+    "model": "RAV4",
+    "year_range": "2019",
+    "skus": [
+      "BN-25K9722 (11-343)"
+    ],
+    "description": "TOYOTA RAV4 7\" 2013-2019"
+  },
+  "search_queries_used": [
+    "2019 TOYOTA RAV4 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T22:09:00.039953",
+  "images": [
+    {
+      "filename": "dashboard_01_84e6913b.jpg",
+      "source_url": "https://media.whatcar.com/wc-image/toyota-rav-4-2019-2674f.jpg",
+      "source_page": "https://www.whatcar.com/toyota/rav4/4x4/review/n130/in-the-cabin",
+      "search_engine": "duckduckgo",
+      "search_query": "2019 TOYOTA RAV4 dashboard interior OEM",
+      "width": 1597,
+      "height": 1066,
+      "file_size_bytes": 93542,
+      "download_time": "2026-02-16T22:08:53.750528"
+    },
+    {
+      "filename": "dashboard_02_77d6e41f.jpg",
+      "source_url": "https://www.topgear.com/sites/default/files/cars-car/carousel/2021/06/9_toyota_rav4.jpg",
+      "source_page": "https://cabinet.matttroy.net/toyota-rav4-interior/",
+      "search_engine": "duckduckgo",
+      "search_query": "2019 TOYOTA RAV4 dashboard interior OEM",
+      "width": 3200,
+      "height": 1799,
+      "file_size_bytes": 1046351,
+      "download_time": "2026-02-16T22:08:54.099816"
+    },
+    {
+      "filename": "dashboard_03_1ecc213a.jpg",
+      "source_url": "https://st.motortrendenespanol.com/uploads/sites/45/2018/03/2019-Toyota-RAV4-dashboard-2.jpg",
+      "source_page": "http://www.motortrendenespanol.com/noticias/toyota-rav4-2019-primer-vistazo/",
+      "search_engine": "duckduckgo",
+      "search_query": "2019 TOYOTA RAV4 dashboard interior OEM",
+      "width": 2048,
+      "height": 1360,
+      "file_size_bytes": 1813020,
+      "download_time": "2026-02-16T22:08:56.448662"
+    },
+    {
+      "filename": "dashboard_04_e7ed9ab4.jpg",
+      "source_url": "https://st.motortrendenespanol.com/uploads/sites/5/2018/03/2019-Toyota-RAV4-front-interior-drivers-side-1.jpg",
+      "source_page": "https://www.motortrendenespanol.com/noticias/14-crossovers-y-suvs-auto-show-nueva-york-2018/2019-toyota-rav4-front-interior-drivers-side-3/",
+      "search_engine": "duckduckgo",
+      "search_query": "2019 TOYOTA RAV4 dashboard interior OEM",
+      "width": 2048,
+      "height": 1360,
+      "file_size_bytes": 2045933,
+      "download_time": "2026-02-16T22:08:59.399981"
+    },
+    {
+      "filename": "dashboard_05_aec85218.jpg",
+      "source_url": "https://hips.hearstapps.com/autoweek/assets/s3fs-public/t-21.jpg",
+      "source_page": "https://cabinet.matttroy.net/toyota-rav4-interior/",
+      "search_engine": "duckduckgo",
+      "search_query": "2019 TOYOTA RAV4 dashboard interior OEM",
+      "width": 1800,
+      "height": 1013,
+      "file_size_bytes": 304658,
+      "download_time": "2026-02-16T22:09:00.039887"
+    }
+  ],
+  "total_images": 5
+}

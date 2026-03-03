@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "BMW",
+    "model": "E46",
+    "year_range": "1998-2005",
+    "skus": [
+      "PZ-22004 (11-011)",
+      "AS-BMWE46 (11-011)"
+    ],
+    "description": "BMW E46 S/DIN 1998-2005"
+  },
+  "search_queries_used": [
+    "1998 BMW E46 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T13:45:04.148018",
+  "images": [
+    {
+      "filename": "dashboard_01_77dfb581.jpg",
+      "source_url": "https://www.topgear.com/sites/default/files/images/news-article/carousel/2015/07/2ab2786d175368cab4d5e1199e7e5d1b/e46_7.jpg",
+      "source_page": "https://www.topgear.com/car-news/review/driving-all-bmw-3-series-chapter-4-e46-1998-2005",
+      "search_engine": "duckduckgo",
+      "search_query": "1998 BMW E46 dashboard interior OEM",
+      "width": 2664,
+      "height": 1496,
+      "file_size_bytes": 864941,
+      "download_time": "2026-02-16T13:44:53.828473"
+    },
+    {
+      "filename": "dashboard_02_a7500f11.jpg",
+      "source_url": "https://cockpitdekor.com/10437-thickbox_default/bmw-3-series-e46-98-04-3d-interior-dashboard-trim-kit-dash-trim-dekor-4-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "1998 BMW E46 dashboard interior OEM",
+      "width": 1228,
+      "height": 1228,
+      "file_size_bytes": 115606,
+      "download_time": "2026-02-16T13:44:54.107680"
+    },
+    {
+      "filename": "dashboard_03_3b9e508e.jpg",
+      "source_url": "https://cockpitdekor.com/10438-thickbox_default/bmw-3-series-e46-compact-98-04-3d-interior-dashboard-trim-kit-dash-trim-dekor-19-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "1998 BMW E46 dashboard interior OEM",
+      "width": 1228,
+      "height": 1228,
+      "file_size_bytes": 105002,
+      "download_time": "2026-02-16T13:44:59.300043"
+    },
+    {
+      "filename": "dashboard_04_8f95d029.jpg",
+      "source_url": "https://cdn.bmwblog.com/wp-content/uploads/bmw-zhp-e46-06.jpg",
+      "source_page": "https://psoriasisguru.com/bmw-e46-330ci-interior-parts-diagram/",
+      "search_engine": "duckduckgo",
+      "search_query": "1998 BMW E46 dashboard interior OEM",
+      "width": 1900,
+      "height": 1425,
+      "file_size_bytes": 913404,
+      "download_time": "2026-02-16T13:45:00.914620"
+    },
+    {
+      "filename": "dashboard_05_1c38d95f.jpg",
+      "source_url": "https://as1.ftcdn.net/v2/jpg/11/23/58/20/1000_F_1123582061_FOEu3MYRi5Te2zFtEn9dUvYLGqqesTpt.jpg",
+      "source_page": "https://stock.adobe.com/images/bmw-3-series-e46-325xi-luxury-car-interior-steering-wheel-dashboard-bmw-e46-is-the-fourth-generation-of-the-bmw-3-series-beige-leather-interior-e-46/1123582061",
+      "search_engine": "duckduckgo",
+      "search_query": "1998 BMW E46 dashboard interior OEM",
+      "width": 1000,
+      "height": 750,
+      "file_size_bytes": 286745,
+      "download_time": "2026-02-16T13:45:04.147924"
+    }
+  ],
+  "total_images": 5
+}

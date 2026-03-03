@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "JEEP",
+    "model": "WRANGLER",
+    "year_range": "2018+",
+    "skus": [
+      "AJ-JP-007"
+    ],
+    "description": "JEEP WRANGLER 2018+ & HARNESS"
+  },
+  "search_queries_used": [
+    "2018 JEEP WRANGLER dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T17:40:59.312412",
+  "images": [
+    {
+      "filename": "dashboard_01_de808780.jpg",
+      "source_url": "https://mpop-prod-primary.s3.amazonaws.com/oem-jeep/img/1529951523-oem-jeep-1513969982-oem-jeep-2018-Jeep-Wrangler-JL-Gallery-Interior-Sahara-Dashboard.jpg.image.1440.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2018 JEEP WRANGLER dashboard interior OEM",
+      "width": 1440,
+      "height": 810,
+      "file_size_bytes": 182469,
+      "download_time": "2026-02-16T17:35:05.113670"
+    },
+    {
+      "filename": "dashboard_02_328776bd.jpg",
+      "source_url": "https://img.indianautosblog.com/2018/03/2018-Jeep-Wrangler-Unlimited-Sahara-interior-dashboard.jpg",
+      "source_page": "https://indianautosblog.com/2018/03/2018-jeep-wrangler-jeep-wrangler-jl-spied-india-first-time-300868/all-new-2018-jeep-wrangler-sahara-5",
+      "search_engine": "bing",
+      "search_query": "2018 JEEP WRANGLER dashboard interior OEM",
+      "width": 1280,
+      "height": 853,
+      "file_size_bytes": 684866,
+      "download_time": "2026-02-16T17:38:14.857071"
+    },
+    {
+      "filename": "dashboard_03_e8c72270.jpg",
+      "source_url": "https://medias.fcacanada.ca/specs/jeep/wrangler/year-2018/media/images/gallery/Jeep_Wrangler_2018_Interior_JWR16CA4_052_a38bcb132ff56ba227e27e75afef9b0e-1920x1280.jpg",
+      "source_page": "https://www.jeep.ca/en/wrangler/2018/galleries/interior",
+      "search_engine": "bing",
+      "search_query": "2018 JEEP WRANGLER dashboard interior OEM",
+      "width": 1920,
+      "height": 1280,
+      "file_size_bytes": 425313,
+      "download_time": "2026-02-16T17:40:58.066204"
+    },
+    {
+      "filename": "dashboard_04_8ec3ddec.jpg",
+      "source_url": "https://www.niftycity.shop/cdn/shop/files/jeep-wrangler-2018-2023-digital-instrument-cluster-dash-upgrade-long-qled-screen-721_1080x.webp?v=1716817238",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2018 JEEP WRANGLER dashboard interior OEM",
+      "width": 1000,
+      "height": 1000,
+      "file_size_bytes": 38386,
+      "download_time": "2026-02-16T17:40:58.888186"
+    },
+    {
+      "filename": "dashboard_05_d9e9ee29.jpg",
+      "source_url": "https://i5.walmartimages.com/seo/PIT66-Dash-Instrument-Cluster-Trim-Panel-Bezel-Fit-for-Wrangler-Jeep-2011-2014_ae0ca31e-c196-4ab5-9ff5-decbb8ac8c94.76d1a3c2caac301528b30538582bca41.jpeg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2018 JEEP WRANGLER dashboard interior OEM",
+      "width": 1000,
+      "height": 1000,
+      "file_size_bytes": 73300,
+      "download_time": "2026-02-16T17:40:59.312354"
+    }
+  ],
+  "total_images": 5
+}

@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "VW",
+    "model": "POLO UP",
+    "year_range": "2016",
+    "skus": [
+      "YE-VW068 (11-312)",
+      "YE-VW018 (11-312)"
+    ],
+    "description": "VW POLO UP S/DIN 2016"
+  },
+  "search_queries_used": [
+    "2016 VW POLO UP dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T22:35:20.556815",
+  "images": [
+    {
+      "filename": "dashboard_01_86244cc5.jpg",
+      "source_url": "https://media.whatcar.com/wc-image/Polo-1.5-Evo--SE-2019-6043f.jpg",
+      "source_page": "https://storage.googleapis.com/dvtqahzncikpwe/digital-dashboard-vw-polo.html",
+      "search_engine": "bing",
+      "search_query": "2016 VW POLO UP dashboard interior OEM",
+      "width": 1600,
+      "height": 1067,
+      "file_size_bytes": 99336,
+      "download_time": "2026-02-16T22:35:13.274225"
+    },
+    {
+      "filename": "dashboard_02_026c551d.jpg",
+      "source_url": "https://bparts-eu.s3-eu-west-1.amazonaws.com/images/2322/original/2016_12_23_09_12_1482486956_7646.jpg",
+      "source_page": "https://www.b-parts.com/auto-parts/interior/dashboard-vw-polo-9n_-9a_-2001-2002-2003-2004-2005-2006-2007-2008-2009-2010-2011-2012-2013-2014-145316",
+      "search_engine": "bing",
+      "search_query": "2016 VW POLO UP dashboard interior OEM",
+      "width": 1536,
+      "height": 864,
+      "file_size_bytes": 64815,
+      "download_time": "2026-02-16T22:35:14.144210"
+    },
+    {
+      "filename": "dashboard_03_38e455d4.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/94019/dashboard23.jpeg?wm=0&q=80",
+      "source_page": "https://www.cartrade.com/volkswagen-cars/polo/images/interior/polo-dashboard-274825/",
+      "search_engine": "bing",
+      "search_query": "2016 VW POLO UP dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 104628,
+      "download_time": "2026-02-16T22:35:14.413113"
+    },
+    {
+      "filename": "dashboard_04_b41ef0b2.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/29628/polo-interior-dashboard-2.jpeg?q=75",
+      "source_page": "https://www.cartrade.com/volkswagen-cars/polo/images/interior/polo-dashboard-274849/",
+      "search_engine": "bing",
+      "search_query": "2016 VW POLO UP dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 106944,
+      "download_time": "2026-02-16T22:35:18.040819"
+    },
+    {
+      "filename": "dashboard_05_82f3de68.jpg",
+      "source_url": "https://impx.hwntcdn.com/i/raw:1/plain/https://composer.hwntcdn.com/193/used/volkswagen-polo-12-tsi-bluemotion-tech-se-dsg-euro-6-s-s-5dr-53198-eqqwpowx.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2016 VW POLO UP dashboard interior OEM",
+      "width": 2048,
+      "height": 1536,
+      "file_size_bytes": 386042,
+      "download_time": "2026-02-16T22:35:20.556738"
+    }
+  ],
+  "total_images": 5
+}

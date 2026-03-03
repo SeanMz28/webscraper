@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "HONDA",
+    "model": "CRV",
+    "year_range": "2012",
+    "skus": [
+      "AJ-HND-TK0110 (22-012)",
+      "FA-FEA110 (22-012)"
+    ],
+    "description": "HONDA CRV 9\" 2006-2012 & HARNESS"
+  },
+  "search_queries_used": [
+    "2012 HONDA CRV dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T15:53:53.336452",
+  "images": [
+    {
+      "filename": "dashboard_01_c8551159.jpg",
+      "source_url": "https://www.topgear.com/sites/default/files/2023/08/Honda_CR-V__0137.jpg",
+      "source_page": "https://cabinet.matttroy.net/honda-crv-interior/",
+      "search_engine": "bing",
+      "search_query": "2012 HONDA CRV dashboard interior OEM",
+      "width": 1800,
+      "height": 1013,
+      "file_size_bytes": 441719,
+      "download_time": "2026-02-16T15:52:05.737923"
+    },
+    {
+      "filename": "dashboard_02_2c029a75.jpg",
+      "source_url": "http://www.thesupercars.org/wp-content/uploads/2012/05/2012-Honda-CR-V-interior-cockpit-profile.jpg",
+      "source_page": "https://www.thesupercars.org/honda/2012-honda-cr-v/",
+      "search_engine": "duckduckgo",
+      "search_query": "2012 HONDA CRV dashboard interior OEM",
+      "width": 900,
+      "height": 600,
+      "file_size_bytes": 80760,
+      "download_time": "2026-02-16T15:52:09.079459"
+    },
+    {
+      "filename": "dashboard_03_94ad7b0a.jpg",
+      "source_url": "https://media.drivingelectric.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1597790593/drivingelectric/2019-12/dsc_9233.jpg",
+      "source_page": "https://www.drivingelectric.com/honda/cr-v/interior",
+      "search_engine": "duckduckgo",
+      "search_query": "2012 HONDA CRV dashboard interior OEM",
+      "width": 1260,
+      "height": 710,
+      "file_size_bytes": 118810,
+      "download_time": "2026-02-16T15:52:09.379362"
+    },
+    {
+      "filename": "dashboard_04_55438c2f.jpg",
+      "source_url": "https://cockpitdekor.com/12055-thickbox_default/honda-cr-v-2012-2016-interior-whz-dashboard-trim-kit-24-parts-ar.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2012 HONDA CRV dashboard interior OEM",
+      "width": 1024,
+      "height": 1024,
+      "file_size_bytes": 108382,
+      "download_time": "2026-02-16T15:52:10.161885"
+    },
+    {
+      "filename": "dashboard_05_047d4895.jpg",
+      "source_url": "https://s40123.pcdn.co/wp-content/uploads/2018/05/honda-crv-car-interior.jpg.optimal.jpg",
+      "source_page": "https://shellysavonlea.net/honda-crv-dashboard-lights-suddenly-all-on/",
+      "search_engine": "bing",
+      "search_query": "2012 HONDA CRV dashboard interior OEM",
+      "width": 2000,
+      "height": 1333,
+      "file_size_bytes": 288214,
+      "download_time": "2026-02-16T15:53:53.336400"
+    }
+  ],
+  "total_images": 5
+}

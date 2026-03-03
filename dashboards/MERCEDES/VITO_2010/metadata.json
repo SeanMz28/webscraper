@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "MERCEDES",
+    "model": "VITO",
+    "year_range": "2010",
+    "skus": [
+      "AJ-MBZ-029"
+    ],
+    "description": "MERCEDES VITO (W639) 10.1\" D/DIN 2003-2010 & HARNESS"
+  },
+  "search_queries_used": [
+    "2010 MERCEDES VITO dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T19:30:39.416290",
+  "images": [
+    {
+      "filename": "dashboard_01_7eb57717.jpg",
+      "source_url": "https://media.whatcar.com/wc-image/2018-10/mercedes_vito_3.jpg",
+      "source_page": "https://www.whatcar.com/mercedes-benz/vito/van/review/n18152/in-the-cabin",
+      "search_engine": "duckduckgo",
+      "search_query": "2010 MERCEDES VITO dashboard interior OEM",
+      "width": 2137,
+      "height": 1416,
+      "file_size_bytes": 217802,
+      "download_time": "2026-02-16T19:30:36.869704"
+    },
+    {
+      "filename": "dashboard_02_80276c42.jpg",
+      "source_url": "https://www.topgear.com/sites/default/files/cars-car/carousel/2020/09/20c0155_015.jpg",
+      "source_page": "https://www.topgear.com/car-reviews/mercedes-benz/vito/interior",
+      "search_engine": "duckduckgo",
+      "search_query": "2010 MERCEDES VITO dashboard interior OEM",
+      "width": 4344,
+      "height": 2444,
+      "file_size_bytes": 1875143,
+      "download_time": "2026-02-16T19:30:37.162041"
+    },
+    {
+      "filename": "dashboard_03_2b4731d8.jpg",
+      "source_url": "https://parkers-images.bauersecure.com/pagefiles/265051/52-mercedes-vito-111cdi.jpg",
+      "source_page": "https://www.parkers.co.uk/vans-pickups/mercedes-benz/vito/2015-review/",
+      "search_engine": "duckduckgo",
+      "search_query": "2010 MERCEDES VITO dashboard interior OEM",
+      "width": 1752,
+      "height": 1168,
+      "file_size_bytes": 156866,
+      "download_time": "2026-02-16T19:30:37.514990"
+    },
+    {
+      "filename": "dashboard_04_5e8640d3.jpg",
+      "source_url": "https://imgcdn.oto.com/large/gallery/interior/25/1623/mercedes-benz-vito-dashboard-view-302462.jpg",
+      "source_page": "https://www.oto.com/en/mobil-baru/mercedes-benz/vito/warna",
+      "search_engine": "duckduckgo",
+      "search_query": "2010 MERCEDES VITO dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 71192,
+      "download_time": "2026-02-16T19:30:38.518221"
+    },
+    {
+      "filename": "dashboard_05_854801ab.jpg",
+      "source_url": "https://www.motor16.com/images/0000/255/255_mercedes-vito-interiores_1_1.jpg",
+      "source_page": "https://www.motor16.com/galerias/imagenes-del-mercedes-vito/mercedes-vito-interiores/",
+      "search_engine": "duckduckgo",
+      "search_query": "2010 MERCEDES VITO dashboard interior OEM",
+      "width": 1024,
+      "height": 683,
+      "file_size_bytes": 80137,
+      "download_time": "2026-02-16T19:30:39.416162"
+    }
+  ],
+  "total_images": 5
+}

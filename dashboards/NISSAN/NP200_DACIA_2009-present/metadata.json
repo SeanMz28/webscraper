@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "NISSAN",
+    "model": "NP200 /DACIA",
+    "year_range": "2009+",
+    "skus": [
+      "FA-RE047N (11-329 9\")"
+    ],
+    "description": "NISSAN NP200 2009+/DACIA 9\" D/DIN"
+  },
+  "search_queries_used": [
+    "2009 NISSAN NP200 /DACIA dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T20:02:25.601720",
+  "images": [
+    {
+      "filename": "dashboard_01_0a393fee.jpg",
+      "source_url": "https://d2wxnkq3f3e5mq.cloudfront.net/prod/vehicles/a0CIV000030xlP12AI/Photos/360/Dash.jpg",
+      "source_page": "https://www.auctionnation.co.za/Listings/Vehicles/171729",
+      "search_engine": "duckduckgo",
+      "search_query": "2009 NISSAN NP200 /DACIA dashboard interior OEM",
+      "width": 1333,
+      "height": 1000,
+      "file_size_bytes": 151419,
+      "download_time": "2026-02-16T20:02:09.266169"
+    },
+    {
+      "filename": "dashboard_02_e2527e11.jpg",
+      "source_url": "https://d2wxnkq3f3e5mq.cloudfront.net/prod/vehicles/a0CIV000027jjqV2AQ/Photos/360/Dash.jpg",
+      "source_page": "https://www.auctionnation.co.za/Listings/Vehicles/166409",
+      "search_engine": "duckduckgo",
+      "search_query": "2009 NISSAN NP200 /DACIA dashboard interior OEM",
+      "width": 1328,
+      "height": 1000,
+      "file_size_bytes": 157574,
+      "download_time": "2026-02-16T20:02:13.526652"
+    },
+    {
+      "filename": "dashboard_03_6b4294d7.jpg",
+      "source_url": "https://d2wxnkq3f3e5mq.cloudfront.net/prod/vehicles/a0CIV00007jjGLR2A2/Photos/360/Dash.jpg",
+      "source_page": "https://www.auctionnation.co.za/Listings/Timed/220595",
+      "search_engine": "duckduckgo",
+      "search_query": "2009 NISSAN NP200 /DACIA dashboard interior OEM",
+      "width": 1328,
+      "height": 1000,
+      "file_size_bytes": 170159,
+      "download_time": "2026-02-16T20:02:17.691654"
+    },
+    {
+      "filename": "dashboard_04_298be32e.jpg",
+      "source_url": "https://d2wxnkq3f3e5mq.cloudfront.net/prod/vehicles/a0CIV00001wpbnM2AQ/Photos/360/Additional_2.jpg",
+      "source_page": "https://www.auctionnation.co.za/Listings/Vehicles/159476",
+      "search_engine": "duckduckgo",
+      "search_query": "2009 NISSAN NP200 /DACIA dashboard interior OEM",
+      "width": 1333,
+      "height": 1000,
+      "file_size_bytes": 106654,
+      "download_time": "2026-02-16T20:02:21.469833"
+    },
+    {
+      "filename": "dashboard_05_c865366a.jpg",
+      "source_url": "https://d2wxnkq3f3e5mq.cloudfront.net/prod/vehicles/a0CIV00002zN8Nk2AK/Photos/360/Dash.jpg",
+      "source_page": "https://www.auctionnation.co.za/Listings/Vehicles/175383",
+      "search_engine": "duckduckgo",
+      "search_query": "2009 NISSAN NP200 /DACIA dashboard interior OEM",
+      "width": 1333,
+      "height": 1000,
+      "file_size_bytes": 149670,
+      "download_time": "2026-02-16T20:02:25.601514"
+    }
+  ],
+  "total_images": 5
+}

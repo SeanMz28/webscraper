@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "NISSAN",
+    "model": "MICRA",
+    "year_range": "2017",
+    "skus": [
+      "FEA271 (11-429 9\")"
+    ],
+    "description": "NISSAN MICRA 9\" 2013-2017 & HARNESS"
+  },
+  "search_queries_used": [
+    "2017 NISSAN MICRA dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T19:59:32.221600",
+  "images": [
+    {
+      "filename": "dashboard_01_e29f9838.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/nissan-micra-dashboard.jpg",
+      "source_page": "https://www.carwow.co.uk/nissan/micra/2013/interior",
+      "search_engine": "bing",
+      "search_query": "2017 NISSAN MICRA dashboard interior OEM",
+      "width": 2500,
+      "height": 1668,
+      "file_size_bytes": 517508,
+      "download_time": "2026-02-16T19:58:09.113780"
+    },
+    {
+      "filename": "dashboard_02_f97e2bbb.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/Micra-interior-dash.jpg",
+      "source_page": "https://www.carwow.co.uk/nissan/micra/interior",
+      "search_engine": "bing",
+      "search_query": "2017 NISSAN MICRA dashboard interior OEM",
+      "width": 8688,
+      "height": 4344,
+      "file_size_bytes": 3772994,
+      "download_time": "2026-02-16T19:58:13.944815"
+    },
+    {
+      "filename": "dashboard_03_ef815319.jpg",
+      "source_url": "https://cockpitdekor.com/5602-thickbox_default/nissan-micra-98-02-3d-interior-dashboard-trim-kit-dash-trim-dekor-18-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2017 NISSAN MICRA dashboard interior OEM",
+      "width": 1228,
+      "height": 921,
+      "file_size_bytes": 102378,
+      "download_time": "2026-02-16T19:59:19.939274"
+    },
+    {
+      "filename": "dashboard_04_a91f7ec8.jpg",
+      "source_url": "https://cockpitdekor.com/9578-thickbox_default/nissan-micra-0103-1209-3d-interior-dashboard-trim-kit-dash-trim-dekor-11-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2017 NISSAN MICRA dashboard interior OEM",
+      "width": 1228,
+      "height": 921,
+      "file_size_bytes": 88200,
+      "download_time": "2026-02-16T19:59:20.347956"
+    },
+    {
+      "filename": "dashboard_05_a11f116c.jpg",
+      "source_url": "https://www.netcarshow.com/Nissan-Micra-2017-1024-4f.jpg",
+      "source_page": "https://www.netcarshow.com/nissan/2017-micra/1024x768/wallpaper_4f.htm",
+      "search_engine": "bing",
+      "search_query": "2017 NISSAN MICRA dashboard interior OEM",
+      "width": 800,
+      "height": 600,
+      "file_size_bytes": 63146,
+      "download_time": "2026-02-16T19:59:32.221473"
+    }
+  ],
+  "total_images": 5
+}

@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "NISSAN",
+    "model": "MICRA",
+    "year_range": "",
+    "skus": [
+      "FEA046 (22-017)"
+    ],
+    "description": "NISSAN MICRA 9\" 2017 & HARNESS"
+  },
+  "search_queries_used": [
+    " NISSAN MICRA dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T19:57:36.296907",
+  "images": [
+    {
+      "filename": "dashboard_01_e29f9838.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/nissan-micra-dashboard.jpg",
+      "source_page": "https://www.carwow.co.uk/nissan/micra/2013/interior",
+      "search_engine": "duckduckgo",
+      "search_query": " NISSAN MICRA dashboard interior OEM",
+      "width": 2500,
+      "height": 1668,
+      "file_size_bytes": 517508,
+      "download_time": "2026-02-16T19:57:27.638609"
+    },
+    {
+      "filename": "dashboard_02_ddcef6fc.jpg",
+      "source_url": "https://parkers-images.bauersecure.com/gallery-image/pagefiles/249481/interior-detail/1752x1168/14nissanmicrainterior.jpg",
+      "source_page": "https://www.parkers.co.uk/nissan/micra/review/interior/",
+      "search_engine": "duckduckgo",
+      "search_query": " NISSAN MICRA dashboard interior OEM",
+      "width": 1752,
+      "height": 1168,
+      "file_size_bytes": 97632,
+      "download_time": "2026-02-16T19:57:28.696850"
+    },
+    {
+      "filename": "dashboard_03_458dc27a.jpg",
+      "source_url": "https://parkers-images.bauersecure.com/gallery-image/pagefiles/249481/interior-detail/1752x1168/426154349_micra_gen5.jpg",
+      "source_page": "https://www.parkers.co.uk/nissan/micra/review/interior/",
+      "search_engine": "duckduckgo",
+      "search_query": " NISSAN MICRA dashboard interior OEM",
+      "width": 1530,
+      "height": 1168,
+      "file_size_bytes": 107880,
+      "download_time": "2026-02-16T19:57:31.310450"
+    },
+    {
+      "filename": "dashboard_04_278a687c.jpg",
+      "source_url": "https://parkers-images.bauersecure.com/gallery-image/pagefiles/249481/interior-detail/1752x1168/426154350_micra_gen5.jpg",
+      "source_page": "https://www.parkers.co.uk/nissan/micra/review/interior/",
+      "search_engine": "duckduckgo",
+      "search_query": " NISSAN MICRA dashboard interior OEM",
+      "width": 1752,
+      "height": 1168,
+      "file_size_bytes": 115480,
+      "download_time": "2026-02-16T19:57:35.119519"
+    },
+    {
+      "filename": "dashboard_05_f97e2bbb.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/Micra-interior-dash.jpg",
+      "source_page": "https://www.carwow.co.uk/nissan/micra/interior",
+      "search_engine": "bing",
+      "search_query": " NISSAN MICRA dashboard interior OEM",
+      "width": 8688,
+      "height": 4344,
+      "file_size_bytes": 3772994,
+      "download_time": "2026-02-16T19:57:36.296812"
+    }
+  ],
+  "total_images": 5
+}

@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "BMW",
+    "model": "E90",
+    "year_range": "2012",
+    "skus": [
+      "FEA010 (22-125)"
+    ],
+    "description": "BMW E90 9\" D/DIN 2004-2012 & HARNESS"
+  },
+  "search_queries_used": [
+    "2012 BMW E90 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T13:45:39.680949",
+  "images": [
+    {
+      "filename": "dashboard_01_ed2957bf.jpg",
+      "source_url": "https://www.topgear.com/sites/default/files/images/news-article/carousel/2015/07/c6d4ed55cea19078e8a3aa80946f6889/e90_7.jpg",
+      "source_page": "https://www.topgear.com/car-news/review/driving-all-bmw-3-series-chapter-5-e90-2005-2015",
+      "search_engine": "duckduckgo",
+      "search_query": "2012 BMW E90 dashboard interior OEM",
+      "width": 2664,
+      "height": 1496,
+      "file_size_bytes": 891741,
+      "download_time": "2026-02-16T13:45:36.418431"
+    },
+    {
+      "filename": "dashboard_02_eba25065.jpg",
+      "source_url": "https://media.whatcar.com/wc-image/2020-04/e90dash.jpg",
+      "source_page": "https://www.whatcar.com/news/bmw-3-series-e90-best-cars-in-the-history-of-what-car/n21379",
+      "search_engine": "duckduckgo",
+      "search_query": "2012 BMW E90 dashboard interior OEM",
+      "width": 1600,
+      "height": 1066,
+      "file_size_bytes": 103184,
+      "download_time": "2026-02-16T13:45:38.136761"
+    },
+    {
+      "filename": "dashboard_03_5900ff58.jpg",
+      "source_url": "https://s-media-cache-ak0.pinimg.com/originals/03/f3/44/03f344182befb6729e220ca9b246d7fe.jpg",
+      "source_page": "https://storage.googleapis.com/dqxmnthuppwgge/digital-dashboard-bmw-e90.html",
+      "search_engine": "duckduckgo",
+      "search_query": "2012 BMW E90 dashboard interior OEM",
+      "width": 2048,
+      "height": 1536,
+      "file_size_bytes": 473136,
+      "download_time": "2026-02-16T13:45:38.271857"
+    },
+    {
+      "filename": "dashboard_04_199085ee.jpg",
+      "source_url": "https://www.megaparts.eu/uploads/productgalleryfile/images/originals/DSC_530114335095611433748137.JPG",
+      "source_page": "https://www.megaparts.eu/en/product/dashboard-for-bmw-e91-20-d-163-hp-automatic-20061414639962",
+      "search_engine": "duckduckgo",
+      "search_query": "2012 BMW E90 dashboard interior OEM",
+      "width": 1600,
+      "height": 1059,
+      "file_size_bytes": 122932,
+      "download_time": "2026-02-16T13:45:39.173132"
+    },
+    {
+      "filename": "dashboard_05_dd402f6b.jpg",
+      "source_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/815c292c-caf3-4dbf-8b46-e592a2667144?rule=$_59.JPG",
+      "source_page": "https://www.kleinanzeigen.de/s-anzeige/bmw-3er-e90-e91-armaturenbrett-cockpit-dashboard-lenkrad-komplett/1894505073-223-8795",
+      "search_engine": "duckduckgo",
+      "search_query": "2012 BMW E90 dashboard interior OEM",
+      "width": 960,
+      "height": 720,
+      "file_size_bytes": 100232,
+      "download_time": "2026-02-16T13:45:39.680857"
+    }
+  ],
+  "total_images": 5
+}

@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "FORD",
+    "model": "FIESTA 3 SLOT",
+    "year_range": "2001-2005",
+    "skus": [
+      "FA-PZ-0005 (11-049)"
+    ],
+    "description": "FORD FIESTA 3 SLOT S/DIN-D/DIN 2001-2005"
+  },
+  "search_queries_used": [
+    "2001 FORD FIESTA 3 SLOT dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T14:51:12.378023",
+  "images": [
+    {
+      "filename": "dashboard_01_ba063ea5.jpg",
+      "source_url": "https://www.topgear.com/sites/default/files/2022/05/51951991996_51fb58094b_k.jpg",
+      "source_page": "https://www.topgear.com/car-reviews/ford/fiesta/interior",
+      "search_engine": "duckduckgo",
+      "search_query": "2001 FORD FIESTA 3 SLOT dashboard interior OEM",
+      "width": 2048,
+      "height": 1152,
+      "file_size_bytes": 1174853,
+      "download_time": "2026-02-16T14:51:06.823478"
+    },
+    {
+      "filename": "dashboard_02_4919a822.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/ford-fiesta-interior-dashboard-2.jpg",
+      "source_page": "https://storage.googleapis.com/dpecjfgyladyte/ford-fiesta-st-dashboard-lights.html",
+      "search_engine": "bing",
+      "search_query": "2001 FORD FIESTA 3 SLOT dashboard interior OEM",
+      "width": 3200,
+      "height": 1600,
+      "file_size_bytes": 1808354,
+      "download_time": "2026-02-16T14:51:07.442290"
+    },
+    {
+      "filename": "dashboard_03_779d3730.jpg",
+      "source_url": "https://images.ovoko.com/tl/1024x768/pcc/0/0/0/0/4/8/8/1/2/9875c4646584cccd8999775b52199bb4-ford_fiesta_dashboard.jpg",
+      "source_page": "https://rrr.lt/en/used-part/pcc48812-ford-fiesta-dashboard",
+      "search_engine": "duckduckgo",
+      "search_query": "2001 FORD FIESTA 3 SLOT dashboard interior OEM",
+      "width": 1019,
+      "height": 768,
+      "file_size_bytes": 93279,
+      "download_time": "2026-02-16T14:51:09.503664"
+    },
+    {
+      "filename": "dashboard_04_86a95af1.jpg",
+      "source_url": "https://portal-images.azureedge.net/auctions-2020/in2cor10207/images/3e8c9403-d3e7-4b25-9f32-abc100fec219.jpg?w=1920&h=1920&mode=max",
+      "source_page": "https://www.i-bidder.com/en-gb/auction-catalogues/in2corporate/catalogue-id-in2cor10207/lot-3b37e198-0596-47e6-aa93-abc100faf86d",
+      "search_engine": "duckduckgo",
+      "search_query": "2001 FORD FIESTA 3 SLOT dashboard interior OEM",
+      "width": 1920,
+      "height": 1440,
+      "file_size_bytes": 266078,
+      "download_time": "2026-02-16T14:51:10.201758"
+    },
+    {
+      "filename": "dashboard_05_5537feaf.jpg",
+      "source_url": "https://assets.carandclassic.com/uploads/cars/ford/C1732837/2001-ford-fiesta-665811b2e86e8.jpg?fit=fillmax&h=1200&ixlib=php-4.1.0&q=85&w=1200&s=39c0f4eadec28f981f28e3d0860fddb7",
+      "source_page": "https://www.carandclassic.com/l/C1732837",
+      "search_engine": "duckduckgo",
+      "search_query": "2001 FORD FIESTA 3 SLOT dashboard interior OEM",
+      "width": 1200,
+      "height": 900,
+      "file_size_bytes": 251611,
+      "download_time": "2026-02-16T14:51:12.377969"
+    }
+  ],
+  "total_images": 5
+}

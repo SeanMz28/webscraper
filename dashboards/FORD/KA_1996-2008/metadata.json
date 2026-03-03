@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "FORD",
+    "model": "KA",
+    "year_range": "1996-2008",
+    "skus": [
+      "PZ-0006 (11-681)"
+    ],
+    "description": "FORD KA S/DIN 1996-2008"
+  },
+  "search_queries_used": [
+    "1996 FORD KA dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T15:12:08.566150",
+  "images": [
+    {
+      "filename": "dashboard_01_c4732ffb.jpg",
+      "source_url": "https://parkers-images.bauersecure.com/gallery-image/pagefiles/195274/interior-detail/1752x1168/img_7774.jpg",
+      "source_page": "https://www.parkers.co.uk/ford/ka/hatchback-1996/used-review/interior/",
+      "search_engine": "duckduckgo",
+      "search_query": "1996 FORD KA dashboard interior OEM",
+      "width": 1536,
+      "height": 1024,
+      "file_size_bytes": 231964,
+      "download_time": "2026-02-16T15:11:56.448565"
+    },
+    {
+      "filename": "dashboard_02_e002bdcc.jpg",
+      "source_url": "https://cockpitdekor.com/817-thickbox_default/ford-ka-96-02-3d-interior-dashboard-trim-kit-dash-trim-dekor-5-parts.jpg",
+      "source_page": "https://cockpitdekor.com/en/ford-interior-accessories/ford-ka-interior-accessories/ford-ka-96-02-3d-interior-dashboard-trim-kit-dash-trim-dekor-5-parts.html",
+      "search_engine": "duckduckgo",
+      "search_query": "1996 FORD KA dashboard interior OEM",
+      "width": 1024,
+      "height": 793,
+      "file_size_bytes": 95901,
+      "download_time": "2026-02-16T15:11:57.302901"
+    },
+    {
+      "filename": "dashboard_03_61866fa6.jpg",
+      "source_url": "https://i.pinimg.com/originals/04/79/cc/0479cc6f44291f9f7f3458ca84a93d05.jpg",
+      "source_page": "https://www.pinterest.com/pin/862720872352155737/",
+      "search_engine": "duckduckgo",
+      "search_query": "1996 FORD KA dashboard interior OEM",
+      "width": 1600,
+      "height": 1068,
+      "file_size_bytes": 165658,
+      "download_time": "2026-02-16T15:12:00.381813"
+    },
+    {
+      "filename": "dashboard_04_2e0af0ea.jpg",
+      "source_url": "https://cockpitdekor.com/10784-thickbox_default/ford-ka-96-02-3d-interior-dashboard-trim-kit-dash-trim-dekor-5-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "1996 FORD KA dashboard interior OEM",
+      "width": 1228,
+      "height": 1024,
+      "file_size_bytes": 94618,
+      "download_time": "2026-02-16T15:12:05.204068"
+    },
+    {
+      "filename": "dashboard_05_781baab9.jpg",
+      "source_url": "https://cockpitdekor.com/6035-thickbox_default/ford-ka-96-02-3d-interior-dashboard-trim-kit-dash-trim-dekor-5-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "1996 FORD KA dashboard interior OEM",
+      "width": 1228,
+      "height": 921,
+      "file_size_bytes": 102378,
+      "download_time": "2026-02-16T15:12:08.566086"
+    }
+  ],
+  "total_images": 5
+}

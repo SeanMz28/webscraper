@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "JEEP",
+    "model": "GRAND CHEROKEE",
+    "year_range": "1999-2004",
+    "skus": [
+      "PZ-22162 (11-014)"
+    ],
+    "description": "JEEP GRAND CHEROKEE S/DIN 1999-2004"
+  },
+  "search_queries_used": [
+    "1999 JEEP GRAND CHEROKEE dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T17:12:22.542239",
+  "images": [
+    {
+      "filename": "dashboard_01_de85dce3.jpg",
+      "source_url": "https://www.motortrend.com/f/77338678.jpg",
+      "source_page": "https://psoriasisguru.com/1999-jeep-grand-cherokee-interior-mods/",
+      "search_engine": "bing",
+      "search_query": "1999 JEEP GRAND CHEROKEE dashboard interior OEM",
+      "width": 2048,
+      "height": 1340,
+      "file_size_bytes": 585199,
+      "download_time": "2026-02-16T17:10:07.209404"
+    },
+    {
+      "filename": "dashboard_02_4389b5d2.jpg",
+      "source_url": "https://static.cargurus.com/images/site/2012/09/21/23/45/1999_jeep_grand_cherokee_laredo-pic-5626945627679256908.jpeg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "1999 JEEP GRAND CHEROKEE dashboard interior OEM",
+      "width": 1600,
+      "height": 1200,
+      "file_size_bytes": 695470,
+      "download_time": "2026-02-16T17:10:13.598488"
+    },
+    {
+      "filename": "dashboard_03_18f66522.jpg",
+      "source_url": "https://cockpitdekor.com/11207-thickbox_default/jeep-grand-cherokee-1999-2002-full-set-interior-bd-dash-trim-kit.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "1999 JEEP GRAND CHEROKEE dashboard interior OEM",
+      "width": 1228,
+      "height": 1024,
+      "file_size_bytes": 97498,
+      "download_time": "2026-02-16T17:10:18.232614"
+    },
+    {
+      "filename": "dashboard_04_3efbe38c.jpg",
+      "source_url": "https://modernridesdesign.com/cdn/shop/files/IMG_20231216_154509.jpg?v=1702771345&width=1946",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "1999 JEEP GRAND CHEROKEE dashboard interior OEM",
+      "width": 1946,
+      "height": 1460,
+      "file_size_bytes": 275604,
+      "download_time": "2026-02-16T17:12:15.928187"
+    },
+    {
+      "filename": "dashboard_05_3a11a31d.jpg",
+      "source_url": "https://img.gta5-mods.com/q95/images/1999-jeep-grand-cherokee-wj/60aaf1-006.jpg",
+      "source_page": "https://psoriasisguru.com/1999-jeep-cherokee-interior-mods/",
+      "search_engine": "bing",
+      "search_query": "1999 JEEP GRAND CHEROKEE dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 558797,
+      "download_time": "2026-02-16T17:12:22.542189"
+    }
+  ],
+  "total_images": 5
+}

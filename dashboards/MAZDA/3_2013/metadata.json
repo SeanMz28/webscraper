@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "MAZDA",
+    "model": "3",
+    "year_range": "2013",
+    "skus": [
+      "FEA228 (22-082)"
+    ],
+    "description": "MAZDA 3 9\" 2010-2013 & HARNESS"
+  },
+  "search_queries_used": [
+    "2013 MAZDA 3 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T18:43:25.212366",
+  "images": [
+    {
+      "filename": "dashboard_01_92069fcf.jpg",
+      "source_url": "https://aerpro.com/sites/default/files/images/console_picture/mazda_3_2010_dash.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2013 MAZDA 3 dashboard interior OEM",
+      "width": 3024,
+      "height": 3070,
+      "file_size_bytes": 4542952,
+      "download_time": "2026-02-16T18:39:29.842758"
+    },
+    {
+      "filename": "dashboard_02_9b29cc73.png",
+      "source_url": "https://www.motortrend.com/uploads/sites/10/2015/11/2013-mazda-mazda3-i-sv-4-door-sedan-instrument-panel.png",
+      "source_page": "https://www.motortrend.com/cars/mazda/mazda3/2013/photos",
+      "search_engine": "bing",
+      "search_query": "2013 MAZDA 3 dashboard interior OEM",
+      "width": 2048,
+      "height": 1360,
+      "file_size_bytes": 2180182,
+      "download_time": "2026-02-16T18:39:30.657940"
+    },
+    {
+      "filename": "dashboard_03_8491688b.jpg",
+      "source_url": "https://en.media.mazda.ca/download/2013_Mazda3_SKYACTIV_6AT_Interior_%286%29.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2013 MAZDA 3 dashboard interior OEM",
+      "width": 5960,
+      "height": 4215,
+      "file_size_bytes": 4550843,
+      "download_time": "2026-02-16T18:39:32.839771"
+    },
+    {
+      "filename": "dashboard_04_f2f3a3d7.jpg",
+      "source_url": "http://reviews.carreview.com/wp-content/uploads/2011/05/2012-Mazda3-Interior-Dashboard-1024x724.jpg",
+      "source_page": "http://reviews.carreview.com/2012-mazda3/2012-mazda3-interior-dashboard",
+      "search_engine": "bing",
+      "search_query": "2013 MAZDA 3 dashboard interior OEM",
+      "width": 1024,
+      "height": 724,
+      "file_size_bytes": 107245,
+      "download_time": "2026-02-16T18:39:34.686511"
+    },
+    {
+      "filename": "dashboard_05_bb8d6b46.jpg",
+      "source_url": "https://media.karousell.com/media/photos/products/2023/2/24/interior_ambient_led_lighting__1677255779_79e329be_progressive.jpg",
+      "source_page": "https://cabinet.matttroy.net/mazda-3-interior-lights/",
+      "search_engine": "bing",
+      "search_query": "2013 MAZDA 3 dashboard interior OEM",
+      "width": 1080,
+      "height": 810,
+      "file_size_bytes": 109303,
+      "download_time": "2026-02-16T18:43:25.212318"
+    }
+  ],
+  "total_images": 5
+}

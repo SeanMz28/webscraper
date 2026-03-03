@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "TOYOTA",
+    "model": "AURIS",
+    "year_range": "2014+",
+    "skus": [
+      "YE-TO099 (11-512)"
+    ],
+    "description": "TOYOTA AURIS D/DIN 2014+"
+  },
+  "search_queries_used": [
+    "2014 TOYOTA AURIS dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T20:39:31.562255",
+  "images": [
+    {
+      "filename": "dashboard_01_1abc916a.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/2015-Auris-Hybrid-interior-1_1.jpg",
+      "source_page": "https://www.carwow.co.uk/toyota/auris/interior",
+      "search_engine": "duckduckgo",
+      "search_query": "2014 TOYOTA AURIS dashboard interior OEM",
+      "width": 5760,
+      "height": 2880,
+      "file_size_bytes": 2160873,
+      "download_time": "2026-02-16T20:39:18.944174"
+    },
+    {
+      "filename": "dashboard_02_6534428d.jpg",
+      "source_url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/2014/09/Auris-Hybrid-2014-15-scaled.jpg",
+      "source_page": "https://media.toyota.co.uk/images/auris-hybrid-interior-2012-2015/",
+      "search_engine": "duckduckgo",
+      "search_query": "2014 TOYOTA AURIS dashboard interior OEM",
+      "width": 2560,
+      "height": 1707,
+      "file_size_bytes": 710408,
+      "download_time": "2026-02-16T20:39:19.281544"
+    },
+    {
+      "filename": "dashboard_03_ecb54952.jpg",
+      "source_url": "https://s1.cdn.autoevolution.com/images/testdrive/gallery/toyota-auris-hybrid-review-2014_8.jpg",
+      "source_page": "https://storage.googleapis.com/daijmzgandtbce/dashboard-lights-on-toyota-auris.html",
+      "search_engine": "duckduckgo",
+      "search_query": "2014 TOYOTA AURIS dashboard interior OEM",
+      "width": 1622,
+      "height": 1080,
+      "file_size_bytes": 645586,
+      "download_time": "2026-02-16T20:39:25.624981"
+    },
+    {
+      "filename": "dashboard_04_b40a0f53.jpg",
+      "source_url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/2018/02/Toyota-Auris-MY18-037-scaled.jpg",
+      "source_page": "https://media.toyota.co.uk/images/toyota-auris-interior-2018-2019/",
+      "search_engine": "duckduckgo",
+      "search_query": "2014 TOYOTA AURIS dashboard interior OEM",
+      "width": 2560,
+      "height": 1707,
+      "file_size_bytes": 615014,
+      "download_time": "2026-02-16T20:39:25.960042"
+    },
+    {
+      "filename": "dashboard_05_aad5237f.jpg",
+      "source_url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/2011/10/T_8263-scaled.jpg",
+      "source_page": "https://media.toyota.co.uk/images/auris-hybrid-interior-2010-2012/",
+      "search_engine": "duckduckgo",
+      "search_query": "2014 TOYOTA AURIS dashboard interior OEM",
+      "width": 2560,
+      "height": 1703,
+      "file_size_bytes": 452513,
+      "download_time": "2026-02-16T20:39:31.562182"
+    }
+  ],
+  "total_images": 5
+}

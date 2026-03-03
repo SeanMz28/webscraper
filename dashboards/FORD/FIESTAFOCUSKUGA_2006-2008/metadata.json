@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "FORD",
+    "model": "FIESTA/FOCUS/KUGA",
+    "year_range": "2006-2008",
+    "skus": [
+      "FA-FORD FOCUS/FA-PZ-26058 (10-001)"
+    ],
+    "description": "FORD FIESTA/FOCUS/KUGA S/DIN-D/DIN WITH POCKET 2006-2008"
+  },
+  "search_queries_used": [
+    "2006 FORD FIESTA/FOCUS/KUGA dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T14:51:26.166510",
+  "images": [
+    {
+      "filename": "dashboard_01_6c9dd272.jpg",
+      "source_url": "https://www.netcarshow.com/Ford-Fiesta-2006-1280-08.jpg",
+      "source_page": "https://www.netcarshow.com/ford/2006-fiesta/1280x960/wallpaper_08.htm",
+      "search_engine": "duckduckgo",
+      "search_query": "2006 FORD FIESTA/FOCUS/KUGA dashboard interior OEM",
+      "width": 800,
+      "height": 600,
+      "file_size_bytes": 59130,
+      "download_time": "2026-02-16T14:51:20.045350"
+    },
+    {
+      "filename": "dashboard_02_6ba3d1b3.jpg",
+      "source_url": "https://spyne-prod-tech.s3.amazonaws.com/N6BLSUO5Y/0UU1hX7j/d8d2ec04/32f319bb/images/input/hres_544268_32f319bb_Interior_2.jpg",
+      "source_page": "https://www.carandbike.com/used/ford-fiesta-cars-in-coimbatore-149090",
+      "search_engine": "duckduckgo",
+      "search_query": "2006 FORD FIESTA/FOCUS/KUGA dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 237226,
+      "download_time": "2026-02-16T14:51:22.335486"
+    },
+    {
+      "filename": "dashboard_03_c21cc7c6.jpg",
+      "source_url": "https://i.pinimg.com/originals/f5/bb/08/f5bb0857d9f84f8e2ffca636ef0b18c5.jpg",
+      "source_page": "https://www.pinterest.com/pin/11540542783889741/",
+      "search_engine": "duckduckgo",
+      "search_query": "2006 FORD FIESTA/FOCUS/KUGA dashboard interior OEM",
+      "width": 1600,
+      "height": 1200,
+      "file_size_bytes": 298370,
+      "download_time": "2026-02-16T14:51:22.948531"
+    },
+    {
+      "filename": "dashboard_04_b77393f1.jpg",
+      "source_url": "https://www.carsinvasion.com/wp-content/uploads/2015/04/2006-Ford-Fiesta-06.jpg",
+      "source_page": "https://www.carsinvasion.com/ford/2006-fiesta/",
+      "search_engine": "duckduckgo",
+      "search_query": "2006 FORD FIESTA/FOCUS/KUGA dashboard interior OEM",
+      "width": 1600,
+      "height": 1150,
+      "file_size_bytes": 409259,
+      "download_time": "2026-02-16T14:51:24.026884"
+    },
+    {
+      "filename": "dashboard_05_908ec36e.jpg",
+      "source_url": "https://www.kgfclassiccars.co.uk/wp-content/uploads/2023/01/WN06LWL_20.jpg",
+      "source_page": "https://www.kgfclassiccars.co.uk/vehicles/28130/",
+      "search_engine": "duckduckgo",
+      "search_query": "2006 FORD FIESTA/FOCUS/KUGA dashboard interior OEM",
+      "width": 3648,
+      "height": 2736,
+      "file_size_bytes": 1825938,
+      "download_time": "2026-02-16T14:51:26.166442"
+    }
+  ],
+  "total_images": 5
+}

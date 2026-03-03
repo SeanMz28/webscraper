@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "VW",
+    "model": "POLO 9",
+    "year_range": "2010",
+    "skus": [
+      "FEA189",
+      "AJ-VW-TK2233"
+    ],
+    "description": "VW POLO 9 9\" 2004-2010 & HARNESS"
+  },
+  "search_queries_used": [
+    "2010 VW POLO 9 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T22:35:07.347380",
+  "images": [
+    {
+      "filename": "dashboard_01_6675f500.jpg",
+      "source_url": "https://bparts-eu.s3-eu-west-1.amazonaws.com/images/6142/original/2016_02_18_10_02_1455791768_6376",
+      "source_page": "https://www.b-parts.com/auto-parts/interior/dashboard-vw-polo-9n_-2001-2002-2003-2004-2005-2006-2007-2008-2009-2010-2011-2012-2013-2014-56566",
+      "search_engine": "duckduckgo",
+      "search_query": "2010 VW POLO 9 dashboard interior OEM",
+      "width": 1536,
+      "height": 864,
+      "file_size_bytes": 148767,
+      "download_time": "2026-02-16T22:34:59.686488"
+    },
+    {
+      "filename": "dashboard_02_7bdc1452.jpg",
+      "source_url": "https://media.drive.com.au/obj/tx_q:50,rs:auto:1920:1080:1/driveau/private/ca-s3/2010/09/VW-Polo-interior-dash-531x480",
+      "source_page": "https://www.drive.com.au/reviews/2010-volkswagen-polo-review-road-test/",
+      "search_engine": "duckduckgo",
+      "search_query": "2010 VW POLO 9 dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 30430,
+      "download_time": "2026-02-16T22:35:01.167651"
+    },
+    {
+      "filename": "dashboard_03_b41ef0b2.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/29628/polo-interior-dashboard-2.jpeg?q=75",
+      "source_page": "https://www.cartrade.com/volkswagen-cars/polo/images/interior/",
+      "search_engine": "duckduckgo",
+      "search_query": "2010 VW POLO 9 dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 106944,
+      "download_time": "2026-02-16T22:35:02.692926"
+    },
+    {
+      "filename": "dashboard_04_38e455d4.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/94019/dashboard23.jpeg?wm=0&q=80",
+      "source_page": "https://www.cartrade.com/volkswagen-cars/polo/images/interior/polo-dashboard-274825/",
+      "search_engine": "duckduckgo",
+      "search_query": "2010 VW POLO 9 dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 104628,
+      "download_time": "2026-02-16T22:35:06.215348"
+    },
+    {
+      "filename": "dashboard_05_fad8e3bd.jpg",
+      "source_url": "http://autoworld.files.wordpress.com/2009/03/volkswagen-polo-2010-live-at-geneva-motor-show-interior-img_12.jpg",
+      "source_page": "http://autoworld.wordpress.com/2009/03/03/live-in-geneva-volkswagen-polo-mk-v-and-bluemotion-concept/volkswagen-polo-2010-live-at-geneva-motor-show-interior-img_12/",
+      "search_engine": "duckduckgo",
+      "search_query": "2010 VW POLO 9 dashboard interior OEM",
+      "width": 1280,
+      "height": 859,
+      "file_size_bytes": 160886,
+      "download_time": "2026-02-16T22:35:07.347264"
+    }
+  ],
+  "total_images": 5
+}

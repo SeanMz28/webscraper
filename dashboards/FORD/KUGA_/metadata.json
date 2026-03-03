@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "FORD",
+    "model": "KUGA",
+    "year_range": "",
+    "skus": [
+      "FEA024 (22-687)"
+    ],
+    "description": "FORD KUGA D/DIN 9\" 2013 & HARNESS"
+  },
+  "search_queries_used": [
+    " FORD KUGA dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T15:12:26.262636",
+  "images": [
+    {
+      "filename": "dashboard_01_729fd000.jpg",
+      "source_url": "https://parkers-images.bauersecure.com/gallery-image/pagefiles/311233/static-exterior/1752x1168/ford-kuga-ltt-098.jpeg",
+      "source_page": "https://www.parkers.co.uk/ford/kuga/review/interior/",
+      "search_engine": "bing",
+      "search_query": " FORD KUGA dashboard interior OEM",
+      "width": 1752,
+      "height": 1168,
+      "file_size_bytes": 64124,
+      "download_time": "2026-02-16T15:12:14.345391"
+    },
+    {
+      "filename": "dashboard_02_3e90bba6.jpg",
+      "source_url": "https://cockpitdekor.com/10782-thickbox_default/ford-kuga-i-2008-2013-3d-interior-dashboard-trim-kit-dash-trim-dekor-12-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": " FORD KUGA dashboard interior OEM",
+      "width": 1228,
+      "height": 819,
+      "file_size_bytes": 97118,
+      "download_time": "2026-02-16T15:12:14.729963"
+    },
+    {
+      "filename": "dashboard_03_30f8346c.jpg",
+      "source_url": "https://cockpitdekor.com/11984-thickbox_default/ford-kuga-i-2008-2013-3d-interior-dashboard-trim-kit-dash-trim-dekor-12-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": " FORD KUGA dashboard interior OEM",
+      "width": 1024,
+      "height": 1024,
+      "file_size_bytes": 106718,
+      "download_time": "2026-02-16T15:12:19.112772"
+    },
+    {
+      "filename": "dashboard_04_208f544d.jpg",
+      "source_url": "https://cockpitdekor.com/11981-thickbox_default/ford-kuga-3-2019-up-interior-whz-dashboard-trim-kit-28-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": " FORD KUGA dashboard interior OEM",
+      "width": 1024,
+      "height": 1024,
+      "file_size_bytes": 70144,
+      "download_time": "2026-02-16T15:12:22.798790"
+    },
+    {
+      "filename": "dashboard_05_2b55bd1a.jpg",
+      "source_url": "https://cockpitdekor.com/823-thickbox_default/ford-kuga-i-2008-2013-3d-interior-dashboard-trim-kit-dash-trim-dekor-12-parts.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": " FORD KUGA dashboard interior OEM",
+      "width": 1024,
+      "height": 793,
+      "file_size_bytes": 92324,
+      "download_time": "2026-02-16T15:12:26.262498"
+    }
+  ],
+  "total_images": 5
+}

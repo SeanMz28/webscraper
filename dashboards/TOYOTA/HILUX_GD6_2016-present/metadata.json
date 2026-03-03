@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "TOYOTA",
+    "model": "HILUX GD6",
+    "year_range": "2016+",
+    "skus": [
+      "FEA161 (22-573)"
+    ],
+    "description": "TOYOTA HILUX 2016+ GD6 10.1\"/9\" TRIM & HARNESS"
+  },
+  "search_queries_used": [
+    "2016 TOYOTA HILUX GD6 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T21:14:20.775198",
+  "images": [
+    {
+      "filename": "dashboard_01_3c728ee7.jpg",
+      "source_url": "https://www.topgear.com/sites/default/files/2022/01/3-Toyota-Hilux.jpg",
+      "source_page": "https://www.topgear.com/car-reviews/toyota/hilux/interior",
+      "search_engine": "duckduckgo",
+      "search_query": "2016 TOYOTA HILUX GD6 dashboard interior OEM",
+      "width": 1773,
+      "height": 997,
+      "file_size_bytes": 580764,
+      "download_time": "2026-02-16T21:14:16.795012"
+    },
+    {
+      "filename": "dashboard_02_dbeb0238.jpg",
+      "source_url": "https://img.indianautosblog.com/2016/02/Toyota-Hilux-dashboard-at-the-2016-Geneva-Motor-Show.jpg",
+      "source_page": "https://indianautosblog.com/toyota-hilux-pickup-france-196650-p191655",
+      "search_engine": "duckduckgo",
+      "search_query": "2016 TOYOTA HILUX GD6 dashboard interior OEM",
+      "width": 1280,
+      "height": 847,
+      "file_size_bytes": 288436,
+      "download_time": "2026-02-16T21:14:19.192482"
+    },
+    {
+      "filename": "dashboard_03_9886ea5e.jpg",
+      "source_url": "https://imgcdn.oto.com/large/gallery/interior/38/387/toyota-hilux-dashboard-view-527057.jpg",
+      "source_page": "https://storage.googleapis.com/deyotoekiuwome/dashboard-lights-toyota-hilux.html",
+      "search_engine": "duckduckgo",
+      "search_query": "2016 TOYOTA HILUX GD6 dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 58592,
+      "download_time": "2026-02-16T21:14:19.405097"
+    },
+    {
+      "filename": "dashboard_04_b979b37f.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/109265/hilux-interior-dashboard-31.jpeg?isig=0&q=80",
+      "source_page": "https://www.cartrade.com/toyota-cars/hilux/images/interior/hilux-dashboard-581679/",
+      "search_engine": "duckduckgo",
+      "search_query": "2016 TOYOTA HILUX GD6 dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 68506,
+      "download_time": "2026-02-16T21:14:19.450484"
+    },
+    {
+      "filename": "dashboard_05_22aa771b.jpg",
+      "source_url": "https://media.cdntoyota.co.za/toyotacms23/attachments/ckgs56wtb00fn0qmoz1h0ohlk-0101020113-single-cab-interior-2.desktop.jpg",
+      "source_page": "https://www.toyota.co.za/vehicles/hilux-single-cab",
+      "search_engine": "duckduckgo",
+      "search_query": "2016 TOYOTA HILUX GD6 dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 155623,
+      "download_time": "2026-02-16T21:14:20.775141"
+    }
+  ],
+  "total_images": 5
+}

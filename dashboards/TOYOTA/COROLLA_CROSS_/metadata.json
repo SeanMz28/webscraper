@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "TOYOTA",
+    "model": "COROLLA CROSS",
+    "year_range": "",
+    "skus": [
+      "AJ-TY-097 (22-031)"
+    ],
+    "description": "TOYOTA COROLLA CROSS & HARNESS"
+  },
+  "search_queries_used": [
+    " TOYOTA COROLLA CROSS dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T21:05:40.915522",
+  "images": [
+    {
+      "filename": "dashboard_01_90c58914.jpg",
+      "source_url": "https://images.prismic.io/carwow/ecad430b-42a4-408f-8468-beb40312009d_toyota-corolla-cross-02.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=60&w=1920",
+      "source_page": "https://www.carwow.es/toyota/corolla-cross/interior",
+      "search_engine": "duckduckgo",
+      "search_query": " TOYOTA COROLLA CROSS dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 212616,
+      "download_time": "2026-02-16T21:04:03.049980"
+    },
+    {
+      "filename": "dashboard_02_d25bc06a.jpg",
+      "source_url": "https://autoimage.capitalone.com/cms/Auto/assets/images/3804-inset02-2026-Toyota-Corolla-Cross-interior-dashboard.jpg",
+      "source_page": "https://www.capitalone.com/cars/learn/finding-the-right-car/2026-toyota-corolla-cross-first-look/3804",
+      "search_engine": "duckduckgo",
+      "search_query": " TOYOTA COROLLA CROSS dashboard interior OEM",
+      "width": 2000,
+      "height": 1333,
+      "file_size_bytes": 52468,
+      "download_time": "2026-02-16T21:04:04.766192"
+    },
+    {
+      "filename": "dashboard_03_6cb29ad7.jpg",
+      "source_url": "https://ik.imagekit.io/girnar/sayaratbay/large/gallery/interior/40/2218/toyota-corolla-cross-dashboard-view-897025.jpg",
+      "source_page": "https://www.sayarabay.com/new-cars/toyota/corolla-cross/images",
+      "search_engine": "duckduckgo",
+      "search_query": " TOYOTA COROLLA CROSS dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 80034,
+      "download_time": "2026-02-16T21:05:38.216539"
+    },
+    {
+      "filename": "dashboard_04_539d2f89.jpg",
+      "source_url": "https://imgcdn.zigwheels.my/large/gallery/interior/25/1715/toyota-corolla-cross-dashboard-view-375888.jpg",
+      "source_page": "https://www.zigwheels.my/new-cars/toyota/corolla-cross/images",
+      "search_engine": "duckduckgo",
+      "search_query": " TOYOTA COROLLA CROSS dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 70272,
+      "download_time": "2026-02-16T21:05:39.760831"
+    },
+    {
+      "filename": "dashboard_05_1280bfd0.jpg",
+      "source_url": "https://cdn.autopapo.com.br/box/uploads/2025/01/16143857/toyota-corolla-cross-xrx-hybrid-premium-2026-interior-painel-1920x1280.jpg",
+      "source_page": "https://autopapo.com.br/noticia/toyota-corolla-cross-2026/",
+      "search_engine": "duckduckgo",
+      "search_query": " TOYOTA COROLLA CROSS dashboard interior OEM",
+      "width": 1920,
+      "height": 1280,
+      "file_size_bytes": 176176,
+      "download_time": "2026-02-16T21:05:40.915455"
+    }
+  ],
+  "total_images": 5
+}

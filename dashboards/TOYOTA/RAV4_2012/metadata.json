@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "TOYOTA",
+    "model": "RAV4",
+    "year_range": "2012",
+    "skus": [
+      "FEA183 (22-978)",
+      "FEA530 (22-978)"
+    ],
+    "description": "TOYOTA RAV4 9\" 2006-2012 & HARNESS"
+  },
+  "search_queries_used": [
+    "2012 TOYOTA RAV4 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T21:30:19.366092",
+  "images": [
+    {
+      "filename": "dashboard_01_5c5f0001.jpg",
+      "source_url": "https://live.staticflickr.com/7029/6789015573_b9d904c742_b.jpg",
+      "source_page": "https://www.flickriver.com/photos/toyota-europe/6789015573/",
+      "search_engine": "duckduckgo",
+      "search_query": "2012 TOYOTA RAV4 dashboard interior OEM",
+      "width": 1024,
+      "height": 768,
+      "file_size_bytes": 162860,
+      "download_time": "2026-02-16T21:17:29.741211"
+    },
+    {
+      "filename": "dashboard_02_e66c3812.jpg",
+      "source_url": "https://cockpitdekor.com/12876-thickbox_default/toyota-rav-4-xa30-20062012-3d-interior-dashboard-trim-kit-dash-trim-dekor-61-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2012 TOYOTA RAV4 dashboard interior OEM",
+      "width": 1024,
+      "height": 1024,
+      "file_size_bytes": 82110,
+      "download_time": "2026-02-16T21:19:39.550064"
+    },
+    {
+      "filename": "dashboard_03_927966e1.jpg",
+      "source_url": "https://img.autoabc.lv/toyota-rav4/toyota-rav4_2013_Apvidus_1752632110_16.jpg",
+      "source_page": "https://www.auto-abc.eu/toyota-rav4/g220-2012",
+      "search_engine": "duckduckgo",
+      "search_query": "2012 TOYOTA RAV4 dashboard interior OEM",
+      "width": 1000,
+      "height": 604,
+      "file_size_bytes": 146574,
+      "download_time": "2026-02-16T21:19:41.139631"
+    },
+    {
+      "filename": "dashboard_04_26ab85bc.jpg",
+      "source_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/toyota-rav4-10.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2012 TOYOTA RAV4 dashboard interior OEM",
+      "width": 1600,
+      "height": 1060,
+      "file_size_bytes": 148832,
+      "download_time": "2026-02-16T21:21:15.314883"
+    },
+    {
+      "filename": "dashboard_05_f9ca1fa0.jpg",
+      "source_url": "https://img4.dhresource.com/webp/m/f3/albu/jc/y/23/71aafd54-93a6-40b9-bca0-e3d35ece14f9.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2012 TOYOTA RAV4 dashboard interior OEM",
+      "width": 1601,
+      "height": 1601,
+      "file_size_bytes": 111948,
+      "download_time": "2026-02-16T21:30:19.366011"
+    }
+  ],
+  "total_images": 5
+}

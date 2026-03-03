@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "FORD",
+    "model": "FOCUS/FIESTA",
+    "year_range": "2011",
+    "skus": [
+      "FEA032 (11-810 9\")",
+      "FEA990 (11- 810 9\")"
+    ],
+    "description": "FORD FOCUS/FIESTA 9\" 2006-2011 & HARNESS"
+  },
+  "search_queries_used": [
+    "2011 FORD FOCUS/FIESTA dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T15:11:50.214221",
+  "images": [
+    {
+      "filename": "dashboard_01_4919a822.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/ford-fiesta-interior-dashboard-2.jpg",
+      "source_page": "https://www.carwow.co.uk/ford/fiesta/2013/interior",
+      "search_engine": "duckduckgo",
+      "search_query": "2011 FORD FOCUS/FIESTA dashboard interior OEM",
+      "width": 3200,
+      "height": 1600,
+      "file_size_bytes": 1808354,
+      "download_time": "2026-02-16T15:11:46.556124"
+    },
+    {
+      "filename": "dashboard_02_7e4de949.jpg",
+      "source_url": "https://parkers-images.bauersecure.com/pagefiles/264582/05-ford-fiesta-van-2009.jpg",
+      "source_page": "https://www.parkers.co.uk/vans-pickups/ford/fiesta/2009-review/",
+      "search_engine": "duckduckgo",
+      "search_query": "2011 FORD FOCUS/FIESTA dashboard interior OEM",
+      "width": 1752,
+      "height": 1168,
+      "file_size_bytes": 118022,
+      "download_time": "2026-02-16T15:11:48.333774"
+    },
+    {
+      "filename": "dashboard_03_16be95c3.jpg",
+      "source_url": "https://stimg.cardekho.com/car-images/carinteriorimages/large/Ford/Ford-Fiesta/dashboard-059.jpg?imwidth=890&impolicy=resize",
+      "source_page": "https://www.cardekho.com/ford/fiesta-2011-2013/pictures/interior",
+      "search_engine": "duckduckgo",
+      "search_query": "2011 FORD FOCUS/FIESTA dashboard interior OEM",
+      "width": 890,
+      "height": 623,
+      "file_size_bytes": 50514,
+      "download_time": "2026-02-16T15:11:49.062111"
+    },
+    {
+      "filename": "dashboard_04_63cd0162.jpg",
+      "source_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/ford-focus-1_0.jpg",
+      "source_page": "https://www.autocar.co.uk/car-review/ford/focus-2011-2014/interior",
+      "search_engine": "duckduckgo",
+      "search_query": "2011 FORD FOCUS/FIESTA dashboard interior OEM",
+      "width": 1600,
+      "height": 1060,
+      "file_size_bytes": 158504,
+      "download_time": "2026-02-16T15:11:49.792220"
+    },
+    {
+      "filename": "dashboard_05_a37ffd34.jpg",
+      "source_url": "https://i.pinimg.com/originals/36/d7/45/36d7454bd5c67b90dd7f215347693edf.jpg",
+      "source_page": "https://it.pinterest.com/pin/735212707907008481/",
+      "search_engine": "duckduckgo",
+      "search_query": "2011 FORD FOCUS/FIESTA dashboard interior OEM",
+      "width": 1600,
+      "height": 1067,
+      "file_size_bytes": 198973,
+      "download_time": "2026-02-16T15:11:50.214130"
+    }
+  ],
+  "total_images": 5
+}

@@ -1,0 +1,75 @@
+{
+  "vehicle": {
+    "make": "FORD",
+    "model": "FIGO +",
+    "year_range": "",
+    "skus": [
+      "FEA902",
+      "FEA646",
+      "FA-YE-FR107N"
+    ],
+    "description": "FORD FIGO 9\" 2019+ & HARNESS"
+  },
+  "search_queries_used": [
+    " FORD FIGO + dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T14:53:20.928845",
+  "images": [
+    {
+      "filename": "dashboard_01_04d66fe9.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/98837/ford-figo-dashboard28.jpeg?wm=0&q=75",
+      "source_page": "https://www.cartrade.com/ford-cars/figo/images/interior/",
+      "search_engine": "duckduckgo",
+      "search_query": " FORD FIGO + dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 69022,
+      "download_time": "2026-02-16T14:52:14.544787"
+    },
+    {
+      "filename": "dashboard_02_10d300e6.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/35463/figo-interior-dashboard.jpeg?q=75",
+      "source_page": "https://www.cartrade.com/ford-cars/figo/images/interior/",
+      "search_engine": "duckduckgo",
+      "search_query": " FORD FIGO + dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 77678,
+      "download_time": "2026-02-16T14:52:19.806250"
+    },
+    {
+      "filename": "dashboard_03_ccd61f4c.jpg",
+      "source_url": "https://img.indianautosblog.com/2015/05/Ford-Figo-Aspire-dashboard-press-shots.jpeg",
+      "source_page": "https://indianautosblog.com/ford-figo-aspire-interior-images-released-p177864",
+      "search_engine": "duckduckgo",
+      "search_query": " FORD FIGO + dashboard interior OEM",
+      "width": 1280,
+      "height": 645,
+      "file_size_bytes": 221496,
+      "download_time": "2026-02-16T14:53:17.344854"
+    },
+    {
+      "filename": "dashboard_04_e7192cf7.jpg",
+      "source_url": "http://www.team-bhp.com/carpics/2015-ford-figo/l/interior/ford-figo-01.jpg",
+      "source_page": "https://www.team-bhp.com/forum/official-new-car-reviews/170048-ford-figo-official-review.html",
+      "search_engine": "duckduckgo",
+      "search_query": " FORD FIGO + dashboard interior OEM",
+      "width": 1600,
+      "height": 1063,
+      "file_size_bytes": 276309,
+      "download_time": "2026-02-16T14:53:20.007343"
+    },
+    {
+      "filename": "dashboard_05_1125c835.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/35583/aspire-interior-dashboard.jpeg?q=75",
+      "source_page": "https://www.cartrade.com/ford-cars/figo/images/",
+      "search_engine": "duckduckgo",
+      "search_query": " FORD FIGO + dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 58512,
+      "download_time": "2026-02-16T14:53:20.928792"
+    }
+  ],
+  "total_images": 5
+}

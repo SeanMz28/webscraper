@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "AUDI",
+    "model": "TT",
+    "year_range": "2006",
+    "skus": [
+      "FEA0022",
+      "FEA828"
+    ],
+    "description": "AUDI TT 9\" 1998-2006 & HARNESS"
+  },
+  "search_queries_used": [
+    "2006 AUDI TT dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T13:44:15.658308",
+  "images": [
+    {
+      "filename": "dashboard_01_de6a0c97.jpg",
+      "source_url": "https://parkers-images.bauersecure.com/wp-images/3604/main-interior/930x620/audi-tt-coupe-251010-(43).jpg",
+      "source_page": "https://cabinet.matttroy.net/audi-tt-interior/",
+      "search_engine": "bing",
+      "search_query": "2006 AUDI TT dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 44648,
+      "download_time": "2026-02-16T13:42:03.541954"
+    },
+    {
+      "filename": "dashboard_02_d810fbfc.jpg",
+      "source_url": "https://rtafabrication.co.uk/cdn/shop/products/8C3A7941-HDR-Edit4x5.jpg?v=1642096412",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2006 AUDI TT dashboard interior OEM",
+      "width": 2938,
+      "height": 3673,
+      "file_size_bytes": 1664792,
+      "download_time": "2026-02-16T13:42:08.001622"
+    },
+    {
+      "filename": "dashboard_03_d2c69f3a.jpg",
+      "source_url": "https://c8.alamy.com/comp/A7DCN1/dashboard-audi-tt-interior-A7DCN1.jpg",
+      "source_page": "https://www.alamy.com/dashboard-audi-tt-interior-image6745680.html",
+      "search_engine": "bing",
+      "search_query": "2006 AUDI TT dashboard interior OEM",
+      "width": 1300,
+      "height": 933,
+      "file_size_bytes": 102443,
+      "download_time": "2026-02-16T13:42:13.411367"
+    },
+    {
+      "filename": "dashboard_04_b29d4d21.jpg",
+      "source_url": "https://airbagteam.com/wp-content/uploads/imported/4/Audi-TT-2015-Onwards-Dashboard-255857801174.jpg",
+      "source_page": "https://airbagteam.com/product/audi-tt-2015-onwards-dashboard/",
+      "search_engine": "bing",
+      "search_query": "2006 AUDI TT dashboard interior OEM",
+      "width": 1600,
+      "height": 1065,
+      "file_size_bytes": 162658,
+      "download_time": "2026-02-16T13:43:48.521501"
+    },
+    {
+      "filename": "dashboard_05_d34137de.jpg",
+      "source_url": "https://www.fcpeuro.com/public/assets/products/678924/large/8N1920980EX.jpg?1737396709",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2006 AUDI TT dashboard interior OEM",
+      "width": 900,
+      "height": 900,
+      "file_size_bytes": 53732,
+      "download_time": "2026-02-16T13:44:15.658241"
+    }
+  ],
+  "total_images": 5
+}

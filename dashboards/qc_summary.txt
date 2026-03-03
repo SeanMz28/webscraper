@@ -1,0 +1,12 @@
+============================================================
+QUALITY CONTROL SUMMARY REPORT
+Generated: 2026-02-16 22:38:10
+============================================================
+
+Total vehicles processed:  268
+Successful (3+ images):    268 (100.0%)
+Partial (1-2 images):      0 (0.0%)
+Failed (0 images):         0 (0.0%)
+Total images downloaded:   1340
+Avg images per vehicle:    5.0
+

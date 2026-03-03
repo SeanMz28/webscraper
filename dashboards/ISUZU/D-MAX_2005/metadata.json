@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "ISUZU",
+    "model": "D-MAX",
+    "year_range": "2005",
+    "skus": [
+      "FEA205"
+    ],
+    "description": "ISUZU D-MAX 9\" D/DIN 2001-2005 & HARNESS"
+  },
+  "search_queries_used": [
+    "2005 ISUZU D-MAX dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T17:09:26.250126",
+  "images": [
+    {
+      "filename": "dashboard_01_abfddc40.jpg",
+      "source_url": "https://media.whatcar.com/wc-image/2024-05/isuzu-d-max-dashboard.jpg",
+      "source_page": "https://www.whatcar.com/isuzu/d-max/pick-up/review/n17221",
+      "search_engine": "duckduckgo",
+      "search_query": "2005 ISUZU D-MAX dashboard interior OEM",
+      "width": 1600,
+      "height": 1067,
+      "file_size_bytes": 213712,
+      "download_time": "2026-02-16T17:09:11.766619"
+    },
+    {
+      "filename": "dashboard_02_abd92858.jpg",
+      "source_url": "https://media.whatcar.com/wc-image/2025-01/isuzu-d-max-dashboard.jpg",
+      "source_page": "https://www.whatcar.com/isuzu/d-max/pick-up/review/n17221",
+      "search_engine": "duckduckgo",
+      "search_query": "2005 ISUZU D-MAX dashboard interior OEM",
+      "width": 1600,
+      "height": 1060,
+      "file_size_bytes": 184020,
+      "download_time": "2026-02-16T17:09:16.215429"
+    },
+    {
+      "filename": "dashboard_03_e5773447.jpg",
+      "source_url": "https://www.uteguide.com.au/wp-content/uploads/2020/10/Isuzu-D-MAX-21MY-X-TERRAIN-Interior-Dash.jpg",
+      "source_page": "https://www.uteguide.com.au/isuzu-d-max-x-terrain-4wd-dual-cab-ute-2020-review/isuzu-d-max-21my-x-terrain-interior-dash-2/",
+      "search_engine": "duckduckgo",
+      "search_query": "2005 ISUZU D-MAX dashboard interior OEM",
+      "width": 3000,
+      "height": 1732,
+      "file_size_bytes": 332614,
+      "download_time": "2026-02-16T17:09:25.063491"
+    },
+    {
+      "filename": "dashboard_04_2c97d25e.jpg",
+      "source_url": "https://images.carexpert.com.au/resize/3000/-/app/uploads/2024/10/2025-Isuzu-D-MAX-BLADE-Interior-Details-11.jpg",
+      "source_page": "https://www.carexpert.com.au/car-reviews/2025-isuzu-d-max-blade-review",
+      "search_engine": "duckduckgo",
+      "search_query": "2005 ISUZU D-MAX dashboard interior OEM",
+      "width": 3000,
+      "height": 2000,
+      "file_size_bytes": 506844,
+      "download_time": "2026-02-16T17:09:26.220183"
+    },
+    {
+      "filename": "dashboard_05_e53932cb.jpg",
+      "source_url": "https://auto.hindustantimes.com/htmobile1/isuzu_dmax/images/interior_isuzu-d-max_dashboard_930x620.jpg",
+      "source_page": "https://auto.hindustantimes.com/new-cars/isuzu/dmax/images",
+      "search_engine": "duckduckgo",
+      "search_query": "2005 ISUZU D-MAX dashboard interior OEM",
+      "width": 930,
+      "height": 620,
+      "file_size_bytes": 26384,
+      "download_time": "2026-02-16T17:09:26.250071"
+    }
+  ],
+  "total_images": 5
+}

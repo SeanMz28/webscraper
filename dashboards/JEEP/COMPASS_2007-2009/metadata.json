@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "JEEP",
+    "model": "COMPASS",
+    "year_range": "2007-2009",
+    "skus": [
+      "FEA078 (11-054 9\")"
+    ],
+    "description": "JEEP COMPASS 2007-2009 & HARNESS"
+  },
+  "search_queries_used": [
+    "2007 JEEP COMPASS dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T17:10:02.163888",
+  "images": [
+    {
+      "filename": "dashboard_01_62072ebe.jpg",
+      "source_url": "https://www.topgear.com/sites/default/files/2022/07/Jeep_Compass_interior_boot.jpg",
+      "source_page": "https://cabinet.matttroy.net/2007-jeep-compass-interior-dimensions/",
+      "search_engine": "bing",
+      "search_query": "2007 JEEP COMPASS dashboard interior OEM",
+      "width": 2500,
+      "height": 1406,
+      "file_size_bytes": 745683,
+      "download_time": "2026-02-16T17:09:57.183243"
+    },
+    {
+      "filename": "dashboard_02_20a8df76.jpg",
+      "source_url": "https://s.alicdn.com/@sc04/kf/H7920d3bce0914444b7dcf8c58c0093f8A/Factory-Price-High-Quality-Car-Interior-Accessories-Dashboard-Fit-for-Jeep-Compass-2017-2021-OEM-609634800.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2007 JEEP COMPASS dashboard interior OEM",
+      "width": 1000,
+      "height": 1000,
+      "file_size_bytes": 23970,
+      "download_time": "2026-02-16T17:09:57.911568"
+    },
+    {
+      "filename": "dashboard_03_ac0119cf.jpg",
+      "source_url": "https://s.alicdn.com/@sc04/kf/H336f10699a31404b8736fd8ddb2588f6F/Dashboard-Dash-Board-Cap-Instrument-Panel-for-Jeep-Compass-Patriot-MK74-2006-2017-OEM-1HM451DVAE.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2007 JEEP COMPASS dashboard interior OEM",
+      "width": 1600,
+      "height": 1600,
+      "file_size_bytes": 43970,
+      "download_time": "2026-02-16T17:10:00.521638"
+    },
+    {
+      "filename": "dashboard_04_f447dfc9.png",
+      "source_url": "https://www.jeep.co.uk/content/dam/jeep/crossmarket/compass-my-24-update/phev/03_interior/JEEP-COMPASS-PHEV-MY24-RESHUFFLE-DASHBOARD-1440x745.png",
+      "source_page": "https://www.jeep.co.uk/jeep-compass/plug-in-2024",
+      "search_engine": "bing",
+      "search_query": "2007 JEEP COMPASS dashboard interior OEM",
+      "width": 1441,
+      "height": 745,
+      "file_size_bytes": 918942,
+      "download_time": "2026-02-16T17:10:00.671659"
+    },
+    {
+      "filename": "dashboard_05_9208b069.jpg",
+      "source_url": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/199393/compass-dashboard.jpeg?isig=0&q=80",
+      "source_page": "https://www.cartrade.com/jeep-cars/compass/images/interior/compass-dashboard-668823/",
+      "search_engine": "bing",
+      "search_query": "2007 JEEP COMPASS dashboard interior OEM",
+      "width": 1056,
+      "height": 660,
+      "file_size_bytes": 86646,
+      "download_time": "2026-02-16T17:10:02.163686"
+    }
+  ],
+  "total_images": 5
+}

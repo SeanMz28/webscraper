@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "TOYOTA",
+    "model": "COROLLA RUNX",
+    "year_range": "2006",
+    "skus": [
+      "FEA166 (22-038)"
+    ],
+    "description": "TOYOTA COROLLA RUNX 9\" D/DIN 2001-2006 & HARNESS"
+  },
+  "search_queries_used": [
+    "2006 TOYOTA COROLLA RUNX dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T21:06:48.857712",
+  "images": [
+    {
+      "filename": "dashboard_01_d34d249f.jpg",
+      "source_url": "https://ufsauto-jp-bucket-prod.s3.af-south-1.amazonaws.com/uploads/imports/products/CB0503051/thumbnail_image-1142816920-1741758661.jpg",
+      "source_page": "https://www.ufsauto.jp/TOYOTA/cb0503051-toyota-corolla-runx-2006",
+      "search_engine": "bing",
+      "search_query": "2006 TOYOTA COROLLA RUNX dashboard interior OEM",
+      "width": 1024,
+      "height": 768,
+      "file_size_bytes": 103700,
+      "download_time": "2026-02-16T21:06:32.999112"
+    },
+    {
+      "filename": "dashboard_02_a1e1b84e.jpg",
+      "source_url": "https://www.cars-directory.net/pics/toyota/corolla_runx/2006/toyota_corolla_runx_a1248844843b2919397_orig.jpg",
+      "source_page": "https://www.cars-directory.net/gallery/toyota/corolla_runx/2006/toyota_corolla_runx_a1248844843b2919397_p.html",
+      "search_engine": "bing",
+      "search_query": "2006 TOYOTA COROLLA RUNX dashboard interior OEM",
+      "width": 1280,
+      "height": 960,
+      "file_size_bytes": 92097,
+      "download_time": "2026-02-16T21:06:41.395988"
+    },
+    {
+      "filename": "dashboard_03_91ce22e5.jpg",
+      "source_url": "https://www.cars-directory.net/pics/toyota/corolla_runx/2006/toyota_corolla_runx_a1250824262b2971186_orig.jpg",
+      "source_page": "https://www.cars-directory.net/gallery/toyota/corolla_runx/2006/toyota_corolla_runx_a1250824262b2971186_p.html",
+      "search_engine": "bing",
+      "search_query": "2006 TOYOTA COROLLA RUNX dashboard interior OEM",
+      "width": 900,
+      "height": 675,
+      "file_size_bytes": 97497,
+      "download_time": "2026-02-16T21:06:42.594918"
+    },
+    {
+      "filename": "dashboard_04_87c9f9db.jpg",
+      "source_url": "https://www.cars-directory.net/pics/toyota/corolla_runx/2006/toyota_corolla_runx_a1248097235b2872037_orig.jpg",
+      "source_page": "https://www.cars-directory.net/gallery/toyota/corolla_runx/2006/toyota_corolla_runx_a1248097235b2872037_p.html",
+      "search_engine": "bing",
+      "search_query": "2006 TOYOTA COROLLA RUNX dashboard interior OEM",
+      "width": 1280,
+      "height": 960,
+      "file_size_bytes": 180404,
+      "download_time": "2026-02-16T21:06:46.738832"
+    },
+    {
+      "filename": "dashboard_05_058d1fd1.jpg",
+      "source_url": "https://www.cars-directory.net/pics/toyota/corolla_runx/2006/toyota_corolla_runx_a1248097235b2872037_12_orig.jpg",
+      "source_page": "https://www.cars-directory.net/gallery/toyota/corolla_runx/2006/toyota_corolla_runx_a1248097235b2872037_12_p.html",
+      "search_engine": "bing",
+      "search_query": "2006 TOYOTA COROLLA RUNX dashboard interior OEM",
+      "width": 1280,
+      "height": 960,
+      "file_size_bytes": 181864,
+      "download_time": "2026-02-16T21:06:48.857656"
+    }
+  ],
+  "total_images": 5
+}

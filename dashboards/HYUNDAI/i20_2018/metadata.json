@@ -1,0 +1,75 @@
+{
+  "vehicle": {
+    "make": "HYUNDAI",
+    "model": "i20",
+    "year_range": "2018",
+    "skus": [
+      "RU-HYUNDAI I20 (11-703)",
+      "FEA065 (22-703)",
+      "FEA559 (22-703)"
+    ],
+    "description": "HYUNDAI i20 7\" 2014-2018"
+  },
+  "search_queries_used": [
+    "2018 HYUNDAI i20 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T17:07:18.958297",
+  "images": [
+    {
+      "filename": "dashboard_01_6796a11b.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/hyundai-uk-i20-play-72-scaled.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2018 HYUNDAI i20 dashboard interior OEM",
+      "width": 2560,
+      "height": 1280,
+      "file_size_bytes": 492237,
+      "download_time": "2026-02-16T17:07:10.331405"
+    },
+    {
+      "filename": "dashboard_02_419dcebf.jpg",
+      "source_url": "https://carsbits.com/wp-content/uploads/imported/6/Hyundai-i20-MK2-2014-2019-10-Petrol-Interior-Dashboard-Moulding-Trim-333941226146.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2018 HYUNDAI i20 dashboard interior OEM",
+      "width": 1599,
+      "height": 1201,
+      "file_size_bytes": 250951,
+      "download_time": "2026-02-16T17:07:11.885515"
+    },
+    {
+      "filename": "dashboard_03_8efec68e.jpg",
+      "source_url": "https://carsbits.com/wp-content/uploads/imported/6/Hyundai-i20-MK2-2014-2019-10-Petrol-Interior-Dashboard-Moulding-Trim-333941226146-4.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": "2018 HYUNDAI i20 dashboard interior OEM",
+      "width": 1599,
+      "height": 1201,
+      "file_size_bytes": 226283,
+      "download_time": "2026-02-16T17:07:16.248530"
+    },
+    {
+      "filename": "dashboard_04_e2590ab4.jpg",
+      "source_url": "https://img.indianautosblog.com/2018/04/Euro-spec-2018-Hyundai-i20-facelift-interior-dashboard.jpg",
+      "source_page": "https://indianautosblog.com/2018/04/euro-spec-2018-hyundai-i20-304472/euro-spec-2018-hyundai-i20-facelift-interior-dashboard",
+      "search_engine": "bing",
+      "search_query": "2018 HYUNDAI i20 dashboard interior OEM",
+      "width": 1280,
+      "height": 853,
+      "file_size_bytes": 579367,
+      "download_time": "2026-02-16T17:07:17.473181"
+    },
+    {
+      "filename": "dashboard_05_66b7e779.jpg",
+      "source_url": "https://imgd.aeplcdn.com/0X0/n/cw/ec/40530/i20-interior-dashboard.jpeg?q=85",
+      "source_page": "https://www.carwale.com/hyundai-cars/i20/images/i20-dashboard-227862/",
+      "search_engine": "bing",
+      "search_query": "2018 HYUNDAI i20 dashboard interior OEM",
+      "width": 1920,
+      "height": 1080,
+      "file_size_bytes": 215998,
+      "download_time": "2026-02-16T17:07:18.958237"
+    }
+  ],
+  "total_images": 5
+}

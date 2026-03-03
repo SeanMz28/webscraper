@@ -1,0 +1,73 @@
+{
+  "vehicle": {
+    "make": "TOYOTA",
+    "model": "COROLLA",
+    "year_range": "2017+",
+    "skus": [
+      "AJ-TY-TK0500 (22-031)"
+    ],
+    "description": "TOYOTA COROLLA 2017+ 10\" & HARNESS"
+  },
+  "search_queries_used": [
+    "2017 TOYOTA COROLLA dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T20:52:43.346765",
+  "images": [
+    {
+      "filename": "dashboard_01_dad88bda.jpg",
+      "source_url": "https://static.pakwheels.com/2017/08/Toyota-Corolla-2017-facelift-dashboard.jpg",
+      "source_page": "https://cabinet.matttroy.net/toyota-corolla-2017-interior-exterior/",
+      "search_engine": "duckduckgo",
+      "search_query": "2017 TOYOTA COROLLA dashboard interior OEM",
+      "width": 1280,
+      "height": 773,
+      "file_size_bytes": 174125,
+      "download_time": "2026-02-16T20:52:35.682228"
+    },
+    {
+      "filename": "dashboard_02_b67fd091.jpg",
+      "source_url": "https://hips.hearstapps.com/autoweek/assets/s3fs-public/2017_toyota_corolla_xse_024_da3ad2470d91eeab521495600cee870d5e10e761.jpg",
+      "source_page": "https://cabinet.matttroy.net/toyota-corolla-2017-interior-images/",
+      "search_engine": "duckduckgo",
+      "search_query": "2017 TOYOTA COROLLA dashboard interior OEM",
+      "width": 2560,
+      "height": 1600,
+      "file_size_bytes": 471999,
+      "download_time": "2026-02-16T20:52:36.285351"
+    },
+    {
+      "filename": "dashboard_03_4e7ee582.jpg",
+      "source_url": "https://hips.hearstapps.com/autoweek/assets/s3fs-public/2017_toyota_corolla_xse_4_6834de6ea32b2590be8f7eea75e39f1ad99b483e.jpg",
+      "source_page": "https://cabinet.matttroy.net/toyota-corolla-2017-interior-images/",
+      "search_engine": "duckduckgo",
+      "search_query": "2017 TOYOTA COROLLA dashboard interior OEM",
+      "width": 2560,
+      "height": 1600,
+      "file_size_bytes": 376916,
+      "download_time": "2026-02-16T20:52:40.662071"
+    },
+    {
+      "filename": "dashboard_04_79414782.jpg",
+      "source_url": "https://i.pinimg.com/originals/b0/c6/bc/b0c6bcb06c1828ed98ec35892ffa4844.jpg",
+      "source_page": "https://www.pinterest.com/pin/2017-toyota-corolla-interior-features--164099980165519591/",
+      "search_engine": "duckduckgo",
+      "search_query": "2017 TOYOTA COROLLA dashboard interior OEM",
+      "width": 1600,
+      "height": 1000,
+      "file_size_bytes": 303193,
+      "download_time": "2026-02-16T20:52:41.556186"
+    },
+    {
+      "filename": "dashboard_05_42a6be86.jpg",
+      "source_url": "https://selfimotors.com/wp-content/uploads/2022/03/20220311_150056_resized.jpg",
+      "source_page": "https://cabinet.matttroy.net/toyota-corolla-2017-interior-images/",
+      "search_engine": "duckduckgo",
+      "search_query": "2017 TOYOTA COROLLA dashboard interior OEM",
+      "width": 1600,
+      "height": 747,
+      "file_size_bytes": 228712,
+      "download_time": "2026-02-16T20:52:43.346676"
+    }
+  ],
+  "total_images": 5
+}

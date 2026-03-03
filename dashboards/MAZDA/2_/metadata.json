@@ -1,0 +1,74 @@
+{
+  "vehicle": {
+    "make": "MAZDA",
+    "model": "2",
+    "year_range": "",
+    "skus": [
+      "FEA667 (22-079)",
+      "AJ-MZ-TK0667 (22-079)"
+    ],
+    "description": "MAZDA 2 9\" & HARNESS"
+  },
+  "search_queries_used": [
+    " MAZDA 2 dashboard interior OEM"
+  ],
+  "download_date": "2026-02-16T18:34:24.152263",
+  "images": [
+    {
+      "filename": "dashboard_01_92c504a8.jpg",
+      "source_url": "https://www.netcarshow.com/Mazda-2_Hybrid-2022-Interior.6cf4a4dd.jpg",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": " MAZDA 2 dashboard interior OEM",
+      "width": 5120,
+      "height": 3840,
+      "file_size_bytes": 840070,
+      "download_time": "2026-02-16T18:34:16.904268"
+    },
+    {
+      "filename": "dashboard_02_8165c9d5.jpg",
+      "source_url": "https://carwow-uk-wp-3.imgix.net/2-interior-dash-1.jpg",
+      "source_page": "https://www.carwow.co.uk/mazda/2/2015/interior",
+      "search_engine": "bing",
+      "search_query": " MAZDA 2 dashboard interior OEM",
+      "width": 5000,
+      "height": 2500,
+      "file_size_bytes": 1648258,
+      "download_time": "2026-02-16T18:34:17.526397"
+    },
+    {
+      "filename": "dashboard_03_55dc288f.jpg",
+      "source_url": "https://cockpitdekor.com/10907-thickbox_default/mazda-mazda-2-03-06-3d-interior-dashboard-trim-kit-dash-trim-dekor-4-parts.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": " MAZDA 2 dashboard interior OEM",
+      "width": 1228,
+      "height": 1024,
+      "file_size_bytes": 114682,
+      "download_time": "2026-02-16T18:34:18.315646"
+    },
+    {
+      "filename": "dashboard_04_6fef8683.jpg",
+      "source_url": "https://www.topgear.com/sites/default/files/2021/10/_DSC1101.jpg",
+      "source_page": "https://www.topgear.com/car-reviews/mazda/2/interior",
+      "search_engine": "bing",
+      "search_query": " MAZDA 2 dashboard interior OEM",
+      "width": 8640,
+      "height": 4860,
+      "file_size_bytes": 1136294,
+      "download_time": "2026-02-16T18:34:22.518471"
+    },
+    {
+      "filename": "dashboard_05_edf9f410.jpg",
+      "source_url": "https://cockpitdekor.com/12309-thickbox_default/mazda-mazda-2-2011-up-full-set-interior-bd-dash-trim-kit.webp",
+      "source_page": "",
+      "search_engine": "google_direct",
+      "search_query": " MAZDA 2 dashboard interior OEM",
+      "width": 1024,
+      "height": 1024,
+      "file_size_bytes": 131780,
+      "download_time": "2026-02-16T18:34:24.152211"
+    }
+  ],
+  "total_images": 5
+}
