@@ -1,0 +1,50 @@
+SCOPING DOCUMENT
+Vehicle-Based Trim Catalogue & AR Search Engine
+Client: Audio Superb CC
+Service Provider: Proking Solutions
+Version: Final v2
+Date: [Insert Date]
+Company logos to be inserted
+
+Executive Summary
+Audio Superb CC proposes a phased collaboration with Proking Solutions to develop a
+vehicle-centric digital product catalogue and a vehicle-based search/AR engine. The project has two
+objectives: to produce a structured catalogue with a standard four-image visual set per vehicle, and
+to implement a website engine that allows customers to retrieve these visuals by searching for their
+vehicle make, model, and year. The work will be delivered across three phases: dashboard image
+scraping, catalogue image generation, and engine integration.1. Project Overview
+Audio Superb CC is proposing a structured development project with Proking Solutions to create a
+vehicle-based trim kit catalogue and a website engine that enables customers to search by
+vehicle make, model, and year and retrieve accurate product imagery.
+2. Project Objectives
+Objective 1 – Catalogue: Create a digital catalogue displaying trim kits by compatible vehicle using a
+standardised four-image visual set per vehicle.
+Objective 2 – Engine: Develop a website engine or bot enabling customers to search by vehicle and
+retrieve compatible trims and images.
+3. Phased Project Structure
+Phase 1 – Dashboard Image Scraping & Data Collection
+Proking Solutions will scrape and source dashboard images for exact vehicle make, model, and
+year. An initial vehicle list will be provided by Audio Superb. The estimated volume is approximately
+200 dashboards, subject to refinement.
+Phase 2 – Catalogue Image Generation
+Audio Superb will provide trim-only images. Proking Solutions will generate, using AR and AI
+techniques, the screen inserted into the trim and the screen plus trim installed into the dashboard,
+leveraging both existing and generated assets to create a complete four-image catalogue entry per
+vehicle.
+Phase 3 – Website Engine / AR Integration
+Proking Solutions will implement a vehicle-based search or bot on the Audio Superb website,
+enabling customers to select their vehicle and view compatible trim kits and associated images.
+4. Catalogue Image Standard
+Each catalogue entry will display the following four images: trim only; screen inserted into
+trim; vehicle dashboard; and trim plus screen installed into the dashboard.
+5. Example Catalogue Data Structure
+
+Trim Model (SKU) | Vehicle Make | Vehicle Model | Year Range
+AJ-BMW-TK0846 | BMW | X1 (E83) | 2009–2015
+AJ-BMW-TK0751 | BMW | 3 Series (E90) | 2005–2012
+AJ-MBZ-TK0759 | Mercedes-Benz | A-Class (W169) | 2004–2012
+6. Reference MaterialStar Sound / Audio Superb About Page – https://starsound.co.za/about-us/
+CARAV Parts – https://carav-parts.com/
+7. Assumptions & Notes
+All visuals are representational and intended for customer clarity. Vehicle scope and dashboard
+availability may evolve as data sourcing progresses.
