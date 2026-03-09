@@ -1,0 +1,17 @@
+{
+  "vehicle": {
+    "make": "ISUZU",
+    "model": "D-MAX",
+    "year_range": "2005"
+  },
+  "generation": {
+    "api": "gpt-image-1",
+    "screen_size": "9\"",
+    "trim_description": "ISUZU D-MAX 9\" D/DIN 2001-2005 & HARNESS",
+    "dashboard_source": "/home/sean-mz/proking_solutions/webscraper/dashboards/ISUZU/D-MAX_2005/dashboard_05_e53932cb.jpg",
+    "generated_files": [
+      "trim_installed_edit_20260307_120041.png"
+    ],
+    "generation_date": "2026-03-07T12:00:41.678841"
+  }
+}

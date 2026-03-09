@@ -1,0 +1,17 @@
+{
+  "vehicle": {
+    "make": "TOYOTA",
+    "model": "AURIS",
+    "year_range": "2014-present"
+  },
+  "generation": {
+    "api": "gpt-image-1",
+    "screen_size": "9\"",
+    "trim_description": "TOYOTA AURIS D/DIN 2014+",
+    "dashboard_source": "/home/sean-mz/proking_solutions/webscraper/dashboards/TOYOTA/AURIS_2014-present/dashboard_05_aad5237f.jpg",
+    "generated_files": [
+      "trim_installed_edit_20260307_121642.png"
+    ],
+    "generation_date": "2026-03-07T12:16:42.357412"
+  }
+}
