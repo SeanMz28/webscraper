@@ -45,6 +45,8 @@ except ImportError:
     print("ERROR: Pillow package not installed.  Run: pip install Pillow")
     sys.exit(1)
 
+from remove_watermarks import remove_watermark
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -57,6 +59,7 @@ OUTPUT_SIZE = "1536x1024"  # landscape – good for dashboards
 
 DEFAULT_IMAGES_DIR = Path(__file__).parent / "carav_images"
 DEFAULT_OUTPUT_DIR = Path(__file__).parent / "carav_output"
+DEFAULT_RADIO_PATH = Path(__file__).parent / "starsound" / "car_radio_1_enh.png"
 
 
 # ─── Helpers ────────────────────────────────────────────────────────────
@@ -101,7 +104,7 @@ def split_product_image(product_path: Path, output_dir: Path):
     trim_img = img.crop((0, 0, split_x, h))
     dash_img = img.crop((split_x, 0, w, h))
 
-    stem = product_path.stem  # e.g. "11-039_product"
+    stem = product_path.stem  # e.g. "product"
     trim_path = output_dir / f"{stem}_trim_half.png"
     dash_path = output_dir / f"{stem}_dashboard_half.png"
 
@@ -114,43 +117,57 @@ def split_product_image(product_path: Path, output_dir: Path):
 
 
 # ─── Prompt builders ───────────────────────────────────────────────────
+# Step 1: Trim frame + radio/screen → "Trim + Screen" product shot
 PROMPT_IMAGE1 = (
     "I am providing two images:\n"
+    "1. A black aftermarket trim/fascia frame for a vehicle radio slot.\n"
+    "2. A touchscreen car radio/head-unit.\n\n"
+    "CRITICAL RULES:\n"
+    "- Generate a single product photograph showing the radio/head-unit from image 2 "
+    "neatly inserted into the trim frame from image 1.\n"
+    "- The radio screen must sit flush inside the trim frame opening, as if "
+    "professionally fitted — no gaps, no overlap.\n"
+    "- ANGLE/PERSPECTIVE: Match the EXACT same angle, tilt, and perspective as the "
+    "trim frame in image 1. If image 1 shows the trim at a three-quarter angle, "
+    "the output must also be at a three-quarter angle. If it is slightly tilted, "
+    "keep that tilt. Do NOT straighten it to a front-facing view — reproduce the "
+    "same camera angle precisely.\n"
+    "- RADIO FIDELITY IS PARAMOUNT: The radio/head-unit in the output must be a "
+    "pixel-perfect reproduction of image 2. Preserve its exact screen content, "
+    "icons, button layout, button labels, bezel shape, bezel colour, branding, "
+    "aspect ratio, and every visible detail. Do NOT redraw, simplify, stylise, "
+    "or alter the radio in any way — copy it exactly as it appears.\n"
+    "- Likewise preserve the exact shape, colour, and design of the trim frame "
+    "from image 1. Do NOT redesign, reshape, or alter either product.\n"
+    "- Show the combined trim + screen assembly on a clean, plain white background "
+    "- Photorealistic professional e-commerce product photograph quality.\n"
+    "- No dashboard, no vehicle interior — just the trim frame with the screen in it."
+)
+
+# Step 2: Trim+Screen assembly + dashboard → "Trim & Screen Installed" in-situ shot
+PROMPT_IMAGE2 = (
+    "I am providing two images:\n"
     "1. A reference photo of a specific vehicle dashboard interior.\n"
-    "2. A black aftermarket trim/fascia frame that fits the radio slot.\n\n"
+    "2. An aftermarket trim/fascia frame with a touchscreen radio/head-unit already "
+    "fitted inside it (a single assembled unit).\n\n"
     "CRITICAL RULES:\n"
     "- The generated image must depict the EXACT SAME dashboard as the reference photo. "
     "Match the same car model, same dashboard shape, same materials, same colors, "
     "same air vents, same buttons, same climate controls, and same camera angle/perspective. "
     "Do NOT change the car or dashboard design.\n"
-    "- This is a RIGHT-HAND DRIVE vehicle. However, if the reference photo does not show "
-    "a steering wheel or any indication of driving side, do NOT add a steering wheel "
-    "or any driving-side elements that are not visible in the reference. Only reproduce "
-    "exactly what is shown in the reference photo.\n"
-    "- Insert the trim frame from image 2 neatly into the factory radio slot opening "
-    "so it sits flush with the surrounding dashboard surface.\n"
-    "- The opening inside the trim frame must be EMPTY — no radio or screen, "
-    "just the black rectangular opening of the trim frame.\n"
+    "- RADIO/SCREEN FIDELITY IS PARAMOUNT: The trim + screen assembly in image 2 must "
+    "appear in the output exactly as provided. Preserve the exact screen content, icons, "
+    "button layout, button labels, bezel shape, bezel colour, branding, and every visible "
+    "detail of the radio/head-unit. Do NOT redraw, simplify, stylise, or alter the "
+    "radio/screen in any way \u2014 reproduce it exactly as it appears in image 2.\n"
+    "- This is ALWAYS a RIGHT-HAND DRIVE vehicle. The steering wheel must be on the "
+    "RIGHT side of the dashboard. If the reference photo does not show a steering wheel, "
+    "you must still ensure the dashboard layout, instrument cluster, and any visible "
+    "driving-side cues are consistent with a right-hand drive configuration.\n"
+    "- Insert the trim + screen assembly from image 2 neatly into the factory radio "
+    "slot opening so it sits flush with the surrounding dashboard surface, as if "
+    "professionally installed.\n"
     "- Keep the same framing, angle, and perspective as the reference photo.\n"
-    "- Photorealistic professional product photograph quality."
-)
-
-PROMPT_IMAGE2 = (
-    "I am providing two images:\n"
-    "1. A vehicle dashboard with an aftermarket trim/fascia frame already installed "
-    "(there is an empty black opening where a radio will go).\n"
-    "2. A radio/head-unit that must be placed inside the trim frame opening.\n\n"
-    "CRITICAL RULES:\n"
-    "- The generated image must depict the EXACT SAME dashboard as image 1. "
-    "Keep the identical car model, dashboard shape, materials, colors, air vents, "
-    "buttons, climate controls, and camera angle/perspective. "
-    "Do NOT change the car or dashboard design.\n"
-    "- This is a RIGHT-HAND DRIVE vehicle. However, do NOT add a steering wheel "
-    "or any driving-side elements that are not already visible in image 1. "
-    "Only reproduce exactly what is shown.\n"
-    "- Place the radio/head-unit from image 2 neatly inside the trim frame opening "
-    "so it sits flush, as if professionally installed.\n"
-    "- Keep the same framing, angle, and perspective as image 1.\n"
     "- Photorealistic professional product photograph quality."
 )
 
@@ -166,6 +183,7 @@ def generate_via_edit(client: OpenAI, image_paths: list[Path], prompt: str) -> b
             prompt=prompt,
             n=1,
             size=OUTPUT_SIZE,
+            quality="high",
         )
     finally:
         for h in handles:
@@ -222,24 +240,32 @@ def run(
     part_number: str,
     images_dir: Path = DEFAULT_IMAGES_DIR,
     output_dir: Path = DEFAULT_OUTPUT_DIR,
+    radio_path: Path = DEFAULT_RADIO_PATH,
     method: str = "edit",
     dry_run: bool = False,
+    folder_name: str | None = None,
 ):
     """
-    Full pipeline: split, generate image 1, then generate image 2.
+    Full pipeline: split, generate Trim+Screen image, then generate Installed image.
+
+    If folder_name is provided, uses it for subfolder names and filenames.
+    Otherwise falls back to part_number.
     Returns list of saved output paths.
     """
+    name = folder_name or part_number
+
     # Each part has its own subfolder
-    images_dir = images_dir / part_number
-    output_dir = output_dir / part_number
+    images_dir = images_dir / name
+    output_dir = output_dir / name
 
-    product_path = images_dir / f"{part_number}_product.png"
-    fitment_path = images_dir / f"{part_number}_fitment.png"
+    product_path = images_dir / "product.png"
 
-    for p in (product_path, fitment_path):
-        if not p.exists():
-            logger.error("Required image not found: %s", p)
-            sys.exit(1)
+    if not product_path.exists():
+        logger.error("Required image not found: %s", product_path)
+        sys.exit(1)
+    if not radio_path.exists():
+        logger.error("Radio/screen image not found: %s", radio_path)
+        sys.exit(1)
 
     output_dir.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -249,42 +275,58 @@ def run(
     trim_path, dash_path = split_product_image(product_path, output_dir)
 
     if dry_run:
-        logger.info("[DRY RUN] Would generate Image 1 (dashboard + trim, no radio)")
-        logger.info("[DRY RUN]   inputs: %s, %s", dash_path.name, trim_path.name)
-        logger.info("[DRY RUN] Would generate Image 2 (Image 1 + radio from fitment)")
-        logger.info("[DRY RUN]   inputs: Image1, %s", fitment_path.name)
+        logger.info("[DRY RUN] Would remove watermarks from trim + dashboard halves")
+        logger.info("[DRY RUN] Would generate Image 1 (trim + screen)")
+        logger.info("[DRY RUN]   inputs: %s, %s", trim_path.name, radio_path.name)
+        logger.info("[DRY RUN] Would generate Image 2 (trim & screen installed in dashboard)")
+        logger.info("[DRY RUN]   inputs: %s, Image1", dash_path.name)
         logger.info("[DRY RUN] Done — no API calls made.")
         return []
 
     client = get_client()
     saved: list[Path] = []
 
-    # ── Step 2: Generate Image 1 — dashboard + trim, empty ──────────────
-    logger.info("Step 2 — Generating Image 1 (trim on dashboard, no radio) …")
+    # ── Step 2: Remove watermarks from trim half ────────────────────────
+    logger.info("Step 2 — Removing watermarks from %s …", trim_path.name)
     t0 = time.time()
-    img1_bytes = generate_image(client, [dash_path, trim_path], PROMPT_IMAGE1, method)
+    clean_bytes = remove_watermark(client, trim_path, method)
+    if clean_bytes:
+        # Back up original, overwrite with cleaned version
+        backup = trim_path.with_suffix(trim_path.suffix + ".bak")
+        if not backup.exists():
+            import shutil
+            shutil.copy2(trim_path, backup)
+        trim_path.write_bytes(clean_bytes)
+        logger.info("  Cleaned %s in %.1fs (%d bytes)", trim_path.name, time.time() - t0, len(clean_bytes))
+    else:
+        logger.warning("  Watermark removal failed for %s — proceeding with original", trim_path.name)
+
+    # ── Step 3: Generate Image 1 — trim frame + screen ──────────────────
+    logger.info("Step 3 — Generating Image 1 (trim + screen product shot) …")
+    t0 = time.time()
+    img1_bytes = generate_image(client, [trim_path, radio_path], PROMPT_IMAGE1, method)
     logger.info("  Image 1 API call took %.1fs", time.time() - t0)
 
     if img1_bytes is None:
         logger.error("Image 1 generation failed — aborting.")
         sys.exit(1)
 
-    img1_path = output_dir / f"{part_number}_step1_trim_only_{timestamp}.png"
+    img1_path = output_dir / f"step1_trim_and_screen_{timestamp}.png"
     img1_path.write_bytes(img1_bytes)
     saved.append(img1_path)
     logger.info("  Saved Image 1 → %s (%d bytes)", img1_path, len(img1_bytes))
 
-    # ── Step 3: Generate Image 2 — dashboard + trim + radio ─────────────
-    logger.info("Step 3 — Generating Image 2 (trim + radio installed) …")
+    # ── Step 4: Generate Image 2 — trim+screen installed in dashboard ───
+    logger.info("Step 4 — Generating Image 2 (trim & screen installed in dashboard) …")
     t0 = time.time()
-    img2_bytes = generate_image(client, [img1_path, fitment_path], PROMPT_IMAGE2, method)
+    img2_bytes = generate_image(client, [dash_path, img1_path], PROMPT_IMAGE2, method)
     logger.info("  Image 2 API call took %.1fs", time.time() - t0)
 
     if img2_bytes is None:
         logger.error("Image 2 generation failed.")
         sys.exit(1)
 
-    img2_path = output_dir / f"{part_number}_step2_with_radio_{timestamp}.png"
+    img2_path = output_dir / f"step2_installed_{timestamp}.png"
     img2_path.write_bytes(img2_bytes)
     saved.append(img2_path)
     logger.info("  Saved Image 2 → %s (%d bytes)", img2_path, len(img2_bytes))
@@ -315,6 +357,12 @@ def main():
         help=f"Directory to write generated images (default: {DEFAULT_OUTPUT_DIR})",
     )
     parser.add_argument(
+        "--radio",
+        type=Path,
+        default=DEFAULT_RADIO_PATH,
+        help=f"Path to radio/screen image (default: {DEFAULT_RADIO_PATH})",
+    )
+    parser.add_argument(
         "--method",
         choices=["edit", "responses"],
         default="edit",
@@ -325,6 +373,12 @@ def main():
         action="store_true",
         help="Validate inputs and show plan, without calling the API",
     )
+    parser.add_argument(
+        "--folder",
+        type=str,
+        default=None,
+        help="Override subfolder name (default: same as part_number)",
+    )
     args = parser.parse_args()
 
     logger.info("=== CARAV Install Generator — %s ===", args.part_number)
@@ -332,8 +386,10 @@ def main():
         part_number=args.part_number,
         images_dir=args.images_dir,
         output_dir=args.output_dir,
+        radio_path=args.radio,
         method=args.method,
         dry_run=args.dry_run,
+        folder_name=args.folder,
     )
 
     print("\n--- Results ---")

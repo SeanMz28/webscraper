@@ -6,6 +6,11 @@
 This is for those trims and cars taking a 7 inch.Usually starts with 11 in model number on carav website
 The 9 inch usually starts with a 22 on carav website
 
-python3 add_watermark.py carav_output/11-039/11-039_product_trim_half.png starsound/watermark.png --opacity 0.22 --output carav_output/11-039/11-039_product_trim_half_watermarked.png
+python3 add_watermark.py product_trim_half.png starsound/watermark_bg.png --opacity 0.22 --output product_trim_half_watermarked.png
 
 Watermark script done
+
+(11-429)
+22-813
+
+python3 carav_pipeline.py 22-081 --radio starsound/car_radio_2_enh.png
