@@ -48,7 +48,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ─── Configuration ──────────────────────────────────────────────────────
-IMAGE_MODEL = "gpt-image-1"
+IMAGE_MODEL = "chatgpt-image-latest"
 OUTPUT_SIZE = "1536x1024"  # landscape — matches the rest of the pipeline
 
 SCRIPT_DIR = Path(__file__).parent

@@ -54,7 +54,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ─── Configuration ──────────────────────────────────────────────────────
-IMAGE_MODEL = "gpt-image-1"
+IMAGE_MODEL = "chatgpt-image-latest"
 OUTPUT_SIZE = "1536x1024"  # landscape – good for dashboards
 
 DEFAULT_IMAGES_DIR = Path(__file__).parent / "carav_images"
