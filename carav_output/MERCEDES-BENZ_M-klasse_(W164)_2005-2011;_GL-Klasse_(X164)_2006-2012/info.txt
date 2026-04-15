@@ -1,0 +1,12 @@
+──────────
+ 4. MERCEDES-BENZ M-KLASSE (W164) 2005–2011 / GL-KLASSE (X164) 2006–2012
+────────────────────────────────────────────────────────────────────────────────
+Folder : MERCEDES-BENZ_M-klasse_(W164)_2005-2011;_GL-Klasse_(X164)_2006-2012
+Trim Templates: FEA761  — Mercedes M-Class W164 2005-2011 & Harness
+
+Files:
+  product_trim_half.png
+  product_dashboard_half_rhd.png
+  step1_trim_and_screen_20260323_140733.png
+  step2_installed_20260330_124158_rhd.png
+  MERCEDES-BENZ_M-klasse_(W164)_2005-2011;_GL-Klasse_(X164)_2006-2012_latest_composite.png

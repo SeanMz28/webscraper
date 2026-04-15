@@ -1,0 +1,12 @@
+──────────
+ 1. CHANGAN CS55 2017+
+────────────────────────────────────────────────────────────────────────────────
+Folder       : CHANGAN_CS55_2017+
+Trim Templates:
+
+Files:
+  product_trim_half.png
+  product_dashboard_half_rhd.png
+  step1_trim_and_screen_20260323_140435.png
+  step2_installed_20260330_123819_rhd.png
+  CHANGAN_CS55_2017+_latest_composite.png

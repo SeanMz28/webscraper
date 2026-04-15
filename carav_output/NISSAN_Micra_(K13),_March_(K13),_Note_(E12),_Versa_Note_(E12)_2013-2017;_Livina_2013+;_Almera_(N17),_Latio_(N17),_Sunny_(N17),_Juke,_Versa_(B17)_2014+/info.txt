@@ -1,0 +1,14 @@
+──────────
+ 5. NISSAN MICRA (K13) / MARCH (K13) / NOTE (E12) / VERSA NOTE (E12) 2013–2017
+    + LIVINA 2013+ / ALMERA (N17) / LATIO (N17) / SUNNY (N17) / JUKE / VERSA (B17) 2014+
+────────────────────────────────────────────────────────────────────────────────
+Folder       : NISSAN_Micra_(K13),_March_(K13),_Note_(E12),_Versa_Note_(E12)_2013-2017;_Livina_2013+;_Almera_(N17),_Latio_(N17),_Sunny_(N17),_Juke,_Versa_(B17)_2014+
+Trim Templates:
+  YE-NI020 — Nissan Livina/Navara 7" D/DIN 2013
+
+Files:
+  product_trim_half.png
+  product_dashboard_half_rhd.png
+  step1_trim_and_screen_20260323_135554.png
+  step2_installed_20260323_135554.png
+  NISSAN_Micra_(K13),..._latest_composite.png

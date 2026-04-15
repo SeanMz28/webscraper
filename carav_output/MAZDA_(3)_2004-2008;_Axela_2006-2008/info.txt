@@ -1,0 +1,14 @@
+──────────
+ 2. MAZDA 3 2004–2008 / Axela 2006–2008
+────────────────────────────────────────────────────────────────────────────────
+Folder       : MAZDA_(3)_2004-2008;_Axela_2006-2008
+Trim Templates:
+  FEA245       — Mazda 3 9" D/DIN 2004-2009 & Harness
+  AJ-MZ-TK0245 — Mazda 3 9" D/DIN 2004-2009 & Harness
+
+Files:
+  product_trim_half.png
+  product_dashboard_half_rhd.png
+  step1_trim_and_screen_20260323_141751.png
+  step2_installed_20260330_123932_rhd.png
+  MAZDA_(3)_2004-2008;_Axela_2006-2008_latest_composite.png

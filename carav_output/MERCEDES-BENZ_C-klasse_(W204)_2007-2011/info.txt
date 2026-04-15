@@ -1,0 +1,13 @@
+──────────
+ 3. MERCEDES-BENZ C-KLASSE (W204) 2007–2011
+────────────────────────────────────────────────────────────────────────────────
+Folder       : MERCEDES-BENZ_C-klasse_(W204)_2007-2011
+Trim Templates:
+  RU-MERC C 2DIN — Mercedes C-Class (W204) 7" D/DIN 2007-2011
+
+Files:
+  product_trim_half.png
+  product_dashboard_half_rhd.png
+  step1_trim_and_screen_20260323_135212.png
+  step2_installed_20260323_135212.png
+  MERCEDES-BENZ_C-klasse_(W204)_2007-2011_composite.png

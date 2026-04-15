@@ -1,0 +1,18 @@
+──────────
+ 8. TOYOTA LAND CRUISER PRADO (150) 2017+
+────────────────────────────────────────────────────────────────────────────────
+Folder       : TOYOTA_Land_Cruiser_Prado_(150)_2017+
+Trim Templates:
+  FEA307        — Toyota LandCruiser Prado (150) 9" D/DIN 2018 & Harness
+  AJ-TY-TK0307  — Toyota LandCruiser Prado (150) 9" D/DIN 2018 & Harness
+
+Files:
+  product_trim_half.png
+  product_dashboard_half_rhd.png
+  step1_trim_and_screen_20260323_141118.png
+  step2_installed_20260330_124700_rhd.png
+  TOYOTA_Land_Cruiser_Prado_(150)_2017+_latest_composite.png
+
+================================================================================
+END OF SUMMARY
+================================================================================

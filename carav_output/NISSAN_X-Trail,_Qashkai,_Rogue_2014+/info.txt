@@ -1,0 +1,12 @@
+──────────
+ 6. NISSAN X-TRAIL / QASHQAI / ROGUE 2014+
+────────────────────────────────────────────────────────────────────────────────
+Folder       : NISSAN_X-Trail,_Qashkai,_Rogue_2014+
+Trim Templates: YE-NI023  — Nissan X-Trail/Qashqai 7" D/DIN 2014
+
+Files:
+  product_trim_half.png
+  product_dashboard_half_rhd.png
+  step1_trim_and_screen_20260323_134714.png
+  step2_installed_20260330_124430_rhd.png
+  NISSAN_X-Trail,_Qashkai,_Rogue_2014+_latest_composite.png

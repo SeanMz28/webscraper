@@ -1,220 +1,119 @@
-CARAV OUTPUT — VEHICLE SUMMARY
-Generated: 2026-03-30
-Total vehicles: 10
+VEHICLE SUMMARY
+Total vehicles: 8
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
- 1. BMW 1-SERIES (E81, E82, E87, E88) 2007–2011
-────────────────────────────────────────────────────────────────────────────────
-Folder       : BMW_1-Series_(E81,_82,_87,_88)_2007-2011
-CARAV Part   : 11-481
-Trim Templates:
-  AJ-BMW-TK1011 (11-481) — BMW 1 Series 9" E81/E82/E87/E88 2004-2011 Manual Aircon & Harness
-  AJ-BMW-TK1012 (11-481) — BMW 1 Series 9" E81/E82/E87/E88 2012 Auto Aircon & Harness
-
-Files:
-  product_trim_half.png
-  product_dashboard_half.png
-  product_dashboard_half_rhd.png
-  step1_trim_and_screen_20260323_135931.png
-  step2_installed_20260323_135931.png
-  step2_installed_20260327_132818_rhd.png
-  step2_installed_20260330_123658_rhd.png
-  BMW_1-Series_(E81,_82,_87,_88)_2007-2011_composite.png
-  BMW_1-Series_(E81,_82,_87,_88)_2007-2011_rhd_composite.png
-  product_dashboard_comparison.png
-
-────────────────────────────────────────────────────────────────────────────────
- 2. CHANGAN CS55 2017+
+ 1. CHANGAN CS55 2017+
 ────────────────────────────────────────────────────────────────────────────────
 Folder       : CHANGAN_CS55_2017+
-CARAV Part   : (not in local stock list)
-Trim Templates: (not found in stock list)
+Trim Templates:
 
 Files:
   product_trim_half.png
-  product_dashboard_half.png
   product_dashboard_half_rhd.png
   step1_trim_and_screen_20260323_140435.png
-  step2_installed_20260323_140435.png
-  step2_installed_20260327_132950_rhd.png
   step2_installed_20260330_123819_rhd.png
-  CHANGAN_CS55_2017+_composite.png
-  CHANGAN_CS55_2017+_rhd_composite.png
-  product_dashboard_comparison.png
+  CHANGAN_CS55_2017+_latest_composite.png
 
 ────────────────────────────────────────────────────────────────────────────────
- 3. MAZDA 3 2004–2008 / Axela 2006–2008
+ 2. MAZDA 3 2004–2008 / Axela 2006–2008
 ────────────────────────────────────────────────────────────────────────────────
 Folder       : MAZDA_(3)_2004-2008;_Axela_2006-2008
-CARAV Part   : 22-081
 Trim Templates:
-  FEA245 (22-081)        — Mazda 3 9" D/DIN 2004-2009 & Harness
-  AJ-MZ-TK0245 (22-081) — Mazda 3 9" D/DIN 2004-2009 & Harness
+  FEA245       — Mazda 3 9" D/DIN 2004-2009 & Harness
+  AJ-MZ-TK0245 — Mazda 3 9" D/DIN 2004-2009 & Harness
 
 Files:
   product_trim_half.png
-  product_dashboard_half.png
   product_dashboard_half_rhd.png
   step1_trim_and_screen_20260323_141751.png
-  step2_installed_20260323_141751.png
-  step2_installed_20260327_133122_rhd.png
   step2_installed_20260330_123932_rhd.png
-  MAZDA_(3)_2004-2008;_Axela_2006-2008_composite.png
-  MAZDA_(3)_2004-2008;_Axela_2006-2008_rhd_composite.png
-  product_dashboard_comparison.png
+  MAZDA_(3)_2004-2008;_Axela_2006-2008_latest_composite.png
 
 ────────────────────────────────────────────────────────────────────────────────
- 4. MERCEDES-BENZ C-KLASSE (W204) 2007–2011
+ 3. MERCEDES-BENZ C-KLASSE (W204) 2007–2011
 ────────────────────────────────────────────────────────────────────────────────
 Folder       : MERCEDES-BENZ_C-klasse_(W204)_2007-2011
-CARAV Part   : 11-359
 Trim Templates:
-  RU-MERC C 2DIN (11-359) — Mercedes C-Class (W204) 7" D/DIN 2007-2011
-  FEA842 (11-359)          — Mercedes C-Class (W204) 9" D/DIN 2007-2014 & Harness
+  RU-MERC C 2DIN — Mercedes C-Class (W204) 7" D/DIN 2007-2011
 
 Files:
   product_trim_half.png
-  product_dashboard_half.png
   product_dashboard_half_rhd.png
   step1_trim_and_screen_20260323_135212.png
   step2_installed_20260323_135212.png
-  step2_installed_20260327_133236_rhd.png
-  step2_installed_20260330_124041_rhd.png
   MERCEDES-BENZ_C-klasse_(W204)_2007-2011_composite.png
-  MERCEDES-BENZ_C-klasse_(W204)_2007-2011_rhd_composite.png
-  product_dashboard_comparison.png
 
 ────────────────────────────────────────────────────────────────────────────────
- 5. MERCEDES-BENZ M-KLASSE (W164) 2005–2011 / GL-KLASSE (X164) 2006–2012
+ 4. MERCEDES-BENZ M-KLASSE (W164) 2005–2011 / GL-KLASSE (X164) 2006–2012
 ────────────────────────────────────────────────────────────────────────────────
-Folder       : MERCEDES-BENZ_M-klasse_(W164)_2005-2011;_GL-Klasse_(X164)_2006-2012
-CARAV Part   : 22-023
-Trim Templates:
-  FEA761 (22-023) — Mercedes M-Class W164 2005-2011 & Harness
+Folder : MERCEDES-BENZ_M-klasse_(W164)_2005-2011;_GL-Klasse_(X164)_2006-2012
+Trim Templates: FEA761  — Mercedes M-Class W164 2005-2011 & Harness
 
 Files:
   product_trim_half.png
-  product_dashboard_half.png
   product_dashboard_half_rhd.png
   step1_trim_and_screen_20260323_140733.png
-  step2_installed_20260323_140733.png
-  step2_installed_20260327_133349_rhd.png
   step2_installed_20260330_124158_rhd.png
-  MERCEDES-BENZ_M-klasse_(W164)_2005-2011;_GL-Klasse_(X164)_2006-2012_composite.png
-  MERCEDES-BENZ_M-klasse_(W164)_2005-2011;_GL-Klasse_(X164)_2006-2012_rhd_composite.png
-  product_dashboard_comparison.png
+  MERCEDES-BENZ_M-klasse_(W164)_2005-2011;_GL-Klasse_(X164)_2006-2012_latest_composite.png
 
 ────────────────────────────────────────────────────────────────────────────────
- 6. NISSAN MICRA (K13) / MARCH (K13) / NOTE (E12) / VERSA NOTE (E12) 2013–2017
+ 5. NISSAN MICRA (K13) / MARCH (K13) / NOTE (E12) / VERSA NOTE (E12) 2013–2017
     + LIVINA 2013+ / ALMERA (N17) / LATIO (N17) / SUNNY (N17) / JUKE / VERSA (B17) 2014+
 ────────────────────────────────────────────────────────────────────────────────
 Folder       : NISSAN_Micra_(K13),_March_(K13),_Note_(E12),_Versa_Note_(E12)_2013-2017;_Livina_2013+;_Almera_(N17),_Latio_(N17),_Sunny_(N17),_Juke,_Versa_(B17)_2014+
-CARAV Part   : 11-429
 Trim Templates:
-  FEA271 (11-429)   — Nissan Micra 9" 2013-2017 & Harness
-  YE-NI020 (11-429) — Nissan Livina/Navara 7" D/DIN 2013
-  FEA213            — Nissan Juke 9" 2011-2016 & Harness
+  YE-NI020 — Nissan Livina/Navara 7" D/DIN 2013
 
 Files:
   product_trim_half.png
-  product_dashboard_half.png
   product_dashboard_half_rhd.png
   step1_trim_and_screen_20260323_135554.png
   step2_installed_20260323_135554.png
-  step2_installed_20260327_133504_rhd.png
-  step2_installed_20260330_124311_rhd.png
-  NISSAN_Micra_(K13),..._composite.png
-  NISSAN_Micra_(K13),..._rhd_composite.png
-  product_dashboard_comparison.png
+  NISSAN_Micra_(K13),..._latest_composite.png
 
 ────────────────────────────────────────────────────────────────────────────────
- 7. NISSAN X-TRAIL / QASHQAI / ROGUE 2014+
+ 6. NISSAN X-TRAIL / QASHQAI / ROGUE 2014+
 ────────────────────────────────────────────────────────────────────────────────
 Folder       : NISSAN_X-Trail,_Qashkai,_Rogue_2014+
-CARAV Part   : 11-478
-Trim Templates:
-  YE-NI023 (11-478)  — Nissan X-Trail/Qashqai 7" D/DIN 2014
-  AJ-NS-004 (22-478) — Nissan X-Trail/Qashqai 2014 & CANBUS Harness
+Trim Templates: YE-NI023  — Nissan X-Trail/Qashqai 7" D/DIN 2014
 
 Files:
   product_trim_half.png
-  product_dashboard_half.png
   product_dashboard_half_rhd.png
   step1_trim_and_screen_20260323_134714.png
-  step2_installed_20260323_134714.png
-  step2_installed_20260323_134714_mirrored.png
-  step2_installed_20260327_133618_rhd.png
   step2_installed_20260330_124430_rhd.png
-  NISSAN_X-Trail,_Qashkai,_Rogue_2014+_composite.png
-  NISSAN_X-Trail,_Qashkai,_Rogue_2014+_rhd_composite.png
-  product_dashboard_comparison.png
+  NISSAN_X-Trail,_Qashkai,_Rogue_2014+_latest_composite.png
 
 ────────────────────────────────────────────────────────────────────────────────
- 8. TOYOTA COROLLA (E210) 2018+
+ 7. TOYOTA COROLLA (E210) 2018+
 ────────────────────────────────────────────────────────────────────────────────
 Folder       : TOYOTA_Corolla_(E210)_2018+
-CARAV Part   : 22-031 / 22-032
 Trim Templates:
-  AJ-TY-TK0500 (22-031) — Toyota Corolla 2017+ 10" & Harness
-  AJ-TY-097 (22-031)    — Toyota Corolla Cross & Harness
-  AJ-TY-080 (22-032)    — Toyota Corolla 2019+ 10.1" & CANBUS Harness
+  AJ-TY-TK0500  — Toyota Corolla 2017+ 10" & Harness
+  AJ-TY-080     — Toyota Corolla 2019+ 10.1" & CANBUS Harness
 
 Files:
   product_trim_half.png
-  product_dashboard_half.png
-  product_dashboard_half_rhd.png
   step1_trim_and_screen_20260323_141410.png
   step2_installed_20260323_141410.png
-  step2_installed_20260327_133753_rhd.png
   step2_installed_20260330_124555_rhd.png
-  TOYOTA_Corolla_(E210)_2018+_composite.png
-  TOYOTA_Corolla_(E210)_2018+_rhd_composite.png
-  product_dashboard_comparison.png
+  TOYOTA_Corolla_(E210)_2018+_latest_composite.png
 
 ────────────────────────────────────────────────────────────────────────────────
- 9. TOYOTA LAND CRUISER PRADO (150) 2017+
+ 8. TOYOTA LAND CRUISER PRADO (150) 2017+
 ────────────────────────────────────────────────────────────────────────────────
 Folder       : TOYOTA_Land_Cruiser_Prado_(150)_2017+
-CARAV Part   : 22-025
 Trim Templates:
-  FEA307 (22-025)        — Toyota LandCruiser Prado (150) 9" D/DIN 2018 & Harness
-  AJ-TY-TK0307 (22-025) — Toyota LandCruiser Prado (150) 9" D/DIN 2018 & Harness
+  FEA307        — Toyota LandCruiser Prado (150) 9" D/DIN 2018 & Harness
+  AJ-TY-TK0307  — Toyota LandCruiser Prado (150) 9" D/DIN 2018 & Harness
 
 Files:
   product_trim_half.png
-  product_dashboard_half.png
   product_dashboard_half_rhd.png
   step1_trim_and_screen_20260323_141118.png
-  step2_installed_20260323_141118.png
-  step2_installed_20260327_133906_rhd.png
   step2_installed_20260330_124700_rhd.png
-  TOYOTA_Land_Cruiser_Prado_(150)_2017+_composite.png
-  TOYOTA_Land_Cruiser_Prado_(150)_2017+_rhd_composite.png
-  product_dashboard_comparison.png
-
-────────────────────────────────────────────────────────────────────────────────
-10. TOYOTA YARIS / VITZ / PLATZ 2005–2010
-────────────────────────────────────────────────────────────────────────────────
-Folder       : TOYOTA_Yaris,Vitz,_Platz_2005-2010
-CARAV Part   : 11-401
-Trim Templates:
-  FA-YARIS T3 (11-401)     — Toyota Yaris T3 9" D/DIN 2005-2010 (Black) & Harness
-  AS-YARIS/VITS T3 (11-401)— Toyota Yaris T3 7" D/DIN 2005-2010 (Black)
-  YE-TO024 (11-401)        — Toyota Yaris T3 7" D/DIN 2005-2010 (Black)
-  FEA817 (11-401)          — Toyota Yaris T3 7" D/DIN 2005-2010 (Black)
-
-Files:
-  product_trim_half.png
-  product_dashboard_half.png
-  product_dashboard_half_rhd.png
-  step1_trim_and_screen_20260323_131128.png
-  step2_installed_20260323_131128.png
-  step2_installed_20260327_134039_rhd.png
-  step2_installed_20260330_124811_rhd.png
-  TOYOTA_Yaris,Vitz,_Platz_2005-2010_composite.png
-  TOYOTA_Yaris,Vitz,_Platz_2005-2010_rhd_composite.png
-  product_dashboard_comparison.png
+  TOYOTA_Land_Cruiser_Prado_(150)_2017+_latest_composite.png
 
 ================================================================================
 END OF SUMMARY
