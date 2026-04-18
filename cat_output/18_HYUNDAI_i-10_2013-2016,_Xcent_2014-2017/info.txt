@@ -1,0 +1,6 @@
+Part Number: CARAV 22-360
+Car Name: HYUNDAI i-10 2013-2016,       Xcent 2014-2017
+Description: CARAV 22-360: 9" / 230:220 x 130 mm / HYUNDAI i-10 2013-2016,       Xcent 2014-2017
+Note: Note: Black color / acceptable for the vehicles with Right Wheel only / only for type with the clock next to the hazard lights switch
+Folder: HYUNDAI_i-10_2013-2016,_Xcent_2014-2017
+Fetched: 2026-04-15T22:23:47.820551

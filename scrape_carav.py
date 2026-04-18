@@ -64,13 +64,16 @@ def extract_images(html: str):
     """
     soup = BeautifulSoup(html, "html.parser")
 
-    result = {"browseProductImage": None, "add_images": None, "car_name": None}
+    result = {"browseProductImage": None, "add_images": None, "car_name": None,
+              "description": None, "note": None}
 
     # Extract car name from <span class="proddef1">
     # Typical text: "CARAV 22-025: 10.1" / 250:241 x 146 mm / TOYOTA Land Cruiser Prado (150) 2017+"
     proddef = soup.find("span", class_="proddef1")
     if proddef:
         raw = proddef.get_text(strip=True)
+        result["description"] = raw
+        logger.info("Full description: %s", raw)
         # Car name is after the last ' / ' separator
         parts = raw.split("/")
         if len(parts) >= 3:
@@ -80,6 +83,17 @@ def extract_images(html: str):
                 logger.info("Extracted car name: %s", car_name)
         if result["car_name"] is None:
             logger.warning("Could not extract car name from: %s", raw)
+
+    # Extract the "Note:" text that follows the product images
+    note_text_parts = []
+    for text_node in soup.find_all(string=re.compile(r'Note:', re.IGNORECASE)):
+        parent = text_node.parent
+        if parent:
+            full = parent.get_text(strip=True)
+            note_text_parts.append(full)
+    if note_text_parts:
+        result["note"] = " | ".join(note_text_parts)
+        logger.info("Note: %s", result["note"])
 
     # 1. Main product image: <img class="browseProductImage" ...>
     img_tag = soup.find("img", class_="browseProductImage")
@@ -149,12 +163,19 @@ def scrape_part(part_number: str, output_dir: Path = OUTPUT_DIR):
     images = extract_images(resp.text)
 
     car_name = images.pop("car_name", None)
+    description = images.pop("description", None)
+    note = images.pop("note", None)
     folder_name = _make_safe_folder_name(car_name) if car_name else part_number
 
     # Each part gets its own subfolder named by car
     part_dir = output_dir / folder_name
     part_dir.mkdir(parents=True, exist_ok=True)
-    downloaded = {"car_name": car_name, "folder_name": folder_name}
+    downloaded = {
+        "car_name": car_name,
+        "folder_name": folder_name,
+        "description": description,
+        "note": note,
+    }
 
     for label, url in images.items():
         if url is None:

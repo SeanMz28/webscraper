@@ -1,0 +1,6 @@
+Part Number: CARAV 22-621
+Car Name: FORD Ranger, Everest         2015+
+Description: CARAV 22-621: 9" / 230:220 x 130 mm / FORD Ranger, Everest         2015+
+Note: Note: Black color / acceptable for the vehicles with 4.2" monitor only / SYNC1
+Folder: FORD_Ranger,_Everest_2015+
+Fetched: 2026-04-15T22:23:08.159604

@@ -1,0 +1,6 @@
+Part Number: CARAV 22-515
+Car Name: KIA Sorento (UM) 2014+
+Description: CARAV 22-515: 10.1" / 250:241 x 146 mm / KIA Sorento (UM) 2014+
+Note: Note: Black color / acceptable for the vehicles with Left Wheel only
+Folder: KIA_Sorento_(UM)_2014+
+Fetched: 2026-04-15T22:24:31.999562

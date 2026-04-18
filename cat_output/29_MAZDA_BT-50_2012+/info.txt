@@ -1,0 +1,6 @@
+Part Number: CARAV 11-516
+Car Name: MAZDA BT-50         2012+
+Description: CARAV 11-516: 2 DIN / 173 x 98 mm / 178 x 102 mm / MAZDA BT-50         2012+
+Note: Note: Black color / complete Replacement hazard switch and door lock buttons
+Folder: MAZDA_BT-50_2012+
+Fetched: 2026-04-15T22:24:56.658757

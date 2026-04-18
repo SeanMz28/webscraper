@@ -61,30 +61,51 @@ API_DELAY_SECONDS = 3
 
 
 # ─── Prompt ─────────────────────────────────────────────────────────────
-def build_prompt(car_name: str) -> str:
+def build_prompt(car_name: str, description: str = "", note: str = "") -> str:
     """
     Craft the image-edit prompt for a specific car model.
     The source image is the original LHD dashboard half scraped from carav-parts.com.
+    When description and note are provided (from info.txt), they add extra context.
     """
+    # Build the identity line with as much detail as we have
+    if description:
+        identity = (
+            f"This is a photograph of the dashboard interior for the following vehicle:\n"
+            f"  {description}\n"
+        )
+        if note:
+            identity += f"  Additional info: {note}\n"
+    else:
+        identity = f"This is a photograph of the dashboard interior of a {car_name}.\n"
+
     return (
-        f"This is a photograph of the dashboard interior of a {car_name}.\n\n"
-        "TASK: Redraw this exact dashboard as a RIGHT-HAND DRIVE (RHD) version.\n\n"
+        identity + "\n"
+        "TASK: Recreate this exact dashboard image as it would appear in a RIGHT-HAND "
+        "DRIVE (RHD) version of this vehicle.\n\n"
+        "FOCUS: The centre console area — the radio/infotainment slot, climate controls, "
+        "air vents, and gear area — is the most important part of this image. Keep it "
+        "as the focal point of the composition.\n\n"
         "CRITICAL RULES:\n"
-        "- This must be the SAME section of the same car's dashboard. Keep the same "
-        "camera angle, same framing, same cropping, and the same overall composition "
-        "as the original image.\n"
-        "- Move the steering wheel to the RIGHT side of the dashboard if it was on "
-        "the left, or keep it on the right if it is already there. Adjust the "
-        "instrument cluster and any driver-side controls to match the RHD layout.\n"
+        "- Keep the SAME framing, camera angle, cropping, and composition as the "
+        "original image. Do NOT zoom out, widen the frame, or reveal more of the "
+        "dashboard than what is shown in the original.\n"
+        "- Do NOT add a steering wheel, instrument cluster, or any other elements "
+        "that are not visible in the original image. Only recreate what is already "
+        "shown.\n"
         "- The centre console, infotainment/radio slot, climate controls, air vents, "
         "and all other central dashboard elements must remain IDENTICAL — same "
-        "position relative to the centre, same design, same colours.\n"
+        "position, same design, same colours, same proportions.\n"
+        "- The only change should be that the dashboard layout is mirrored to reflect "
+        "a right-hand drive configuration (i.e. the passenger side becomes the driver "
+        "side and vice versa).\n"
         "- Preserve ALL text, labels, numbers, and symbols on buttons, dials, and "
         "screens EXACTLY as they appear in the original — in English, with correct "
         "spelling and layout. Do NOT invent, translate, or alter any text.\n"
         "- Match the original lighting, material textures, and colour palette.\n"
         "- Photorealistic quality, as if it is a genuine manufacturer showroom photograph.\n"
-        "- Do NOT add watermarks, logos, or any overlaid text."
+        "- Do NOT add watermarks, logos, or any overlaid text.\n"
+        "- Do NOT add any new objects, accessories, or details that are not present "
+        "in the original image."
     )
 
 
@@ -114,13 +135,45 @@ def folder_to_car_name(folder_name: str) -> str:
       'TOYOTA_Corolla_(E210)_2018+'
     into a readable car name like
       'Toyota Corolla (E210) 2018+'
+    Strips any leading number prefix like '06_'.
     """
-    name = folder_name.replace("_", " ").strip()
+    name = folder_name
+    # Strip leading NN_ numeric prefix added by numbering
+    if len(name) > 3 and name[:2].isdigit() and name[2] == '_':
+        name = name[3:]
+    name = name.replace("_", " ").strip()
     # Title-case the make (first word) but preserve the rest mostly as-is
     parts = name.split(" ", 1)
     if parts:
         parts[0] = parts[0].title()
     return " ".join(parts)
+
+
+def read_info_txt(folder: Path) -> dict:
+    """
+    Read info.txt from a folder and return a dict with keys:
+    part_number, car_name, description, note.  Missing keys default to ''.
+    """
+    info_path = folder / "info.txt"
+    result = {"part_number": "", "car_name": "", "description": "", "note": ""}
+    if not info_path.exists():
+        return result
+    for line in info_path.read_text().splitlines():
+        if line.startswith("Part Number:"):
+            result["part_number"] = line.split(":", 1)[1].strip()
+        elif line.startswith("Car Name:"):
+            val = line.split(":", 1)[1].strip()
+            if val and val != "N/A":
+                result["car_name"] = val
+        elif line.startswith("Description:"):
+            result["description"] = line.split(":", 1)[1].strip()
+        elif line.startswith("Note:"):
+            val = line.split(":", 1)[1].strip()
+            # Strip the redundant leading "Note:" if present
+            if val.startswith("Note:"):
+                val = val[5:].strip()
+            result["note"] = val
+    return result
 
 
 def encode_image_b64(path: Path) -> str:
@@ -186,8 +239,10 @@ def generate_rhd(
     image_path: Path,
     car_name: str,
     method: str,
+    description: str = "",
+    note: str = "",
 ) -> bytes | None:
-    prompt = build_prompt(car_name)
+    prompt = build_prompt(car_name, description, note)
     logger.debug("Prompt:\n%s", prompt)
     if method == "edit":
         return generate_via_edit(client, image_path, prompt)
@@ -211,6 +266,15 @@ def main():
         metavar="SUBSTRING",
         default=None,
         help="Only process folders whose name contains this substring (case-insensitive)",
+    )
+    parser.add_argument(
+        "--numbers",
+        metavar="RANGE",
+        default=None,
+        help=(
+            "Only process numbered folders matching these numbers. "
+            "Supports ranges and comma-separated values, e.g. '1-6' or '1,2,3,5,6'"
+        ),
     )
     parser.add_argument(
         "--method",
@@ -244,6 +308,24 @@ def main():
         )
         sys.exit(1)
 
+    if args.numbers:
+        # Parse --numbers into a set of ints, e.g. "1-6" or "1,2,3,5,6"
+        nums = set()
+        for part in args.numbers.split(","):
+            part = part.strip()
+            if "-" in part:
+                lo, hi = part.split("-", 1)
+                nums.update(range(int(lo), int(hi) + 1))
+            else:
+                nums.add(int(part))
+        folders = [
+            f for f in folders
+            if f.name[:2].isdigit() and int(f.name[:2]) in nums
+        ]
+        if not folders:
+            logger.error("No folders match --numbers '%s'", args.numbers)
+            sys.exit(1)
+
     if args.filter:
         folders = [f for f in folders if args.filter.lower() in f.name.lower()]
         if not folders:
@@ -272,15 +354,20 @@ def main():
     for idx, folder in enumerate(folders, start=1):
         input_path = folder / INPUT_FILENAME
         output_path = folder / OUTPUT_FILENAME
-        car_name = folder_to_car_name(folder.name)
+
+        # Read info.txt for richer context
+        info = read_info_txt(folder)
+        car_name = info["car_name"] or folder_to_car_name(folder.name)
+        description = info["description"]
+        note = info["note"]
 
         logger.info(
-            "─" * 60 + "\n[%d/%d] %s\n  Input : %s\n  Output: %s",
-            idx, len(folders), car_name, input_path, output_path,
+            "─" * 60 + "\n[%d/%d] %s\n  Input : %s\n  Output: %s\n  Desc  : %s",
+            idx, len(folders), car_name, input_path, output_path, description or "(none)",
         )
 
         t0 = time.time()
-        img_bytes = generate_rhd(client, input_path, car_name, args.method)
+        img_bytes = generate_rhd(client, input_path, car_name, args.method, description, note)
         elapsed = time.time() - t0
 
         if img_bytes:

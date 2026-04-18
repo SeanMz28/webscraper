@@ -1,0 +1,6 @@
+Part Number: CARAV 22-013
+Car Name: TOYOTA Corolla 2013-2016
+Description: CARAV 22-013: 10.1" / 250:241 x 146 mm         / TOYOTA Corolla 2013-2016
+Note: Note: Gloss Black color / acceptable for the vehicles with Left Wheel only
+Folder: TOYOTA_Corolla_2013-2016
+Fetched: 2026-04-15T22:26:44.040319
