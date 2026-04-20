@@ -87,12 +87,31 @@ def encode_image_b64(image_path: Path) -> str:
 DEFAULT_PATTERN = "*_fitment*"
 
 
+def _folder_in_range(folder_name: str, folder_range: str | None) -> bool:
+    """Check if a folder's numeric prefix falls within the given range (e.g. '1-10')."""
+    if not folder_range:
+        return True
+    parts = folder_range.split("-")
+    lo, hi = int(parts[0]), int(parts[1])
+    # Extract leading digits from folder name
+    digits = ""
+    for ch in folder_name:
+        if ch.isdigit():
+            digits += ch
+        else:
+            break
+    if not digits:
+        return False
+    return lo <= int(digits) <= hi
+
+
 def find_target_images(
     images_dir: Path,
     pattern: str = DEFAULT_PATTERN,
     part_number: str | None = None,
+    folder_range: str | None = None,
 ) -> list[Path]:
-    """Return sorted list of images matching *pattern*, optionally filtered by part number."""
+    """Return sorted list of images matching *pattern*, optionally filtered by part number or folder range."""
     if part_number:
         part_dir = images_dir / part_number
         if not part_dir.is_dir():
@@ -106,6 +125,7 @@ def find_target_images(
         p for p in candidates
         if p.suffix.lower() in (".png", ".jpg", ".jpeg", ".webp")
         and ".bak" not in p.suffixes
+        and _folder_in_range(p.parent.name, folder_range)
     ]
     logger.info("Found %d image(s) matching '%s'", len(images), pattern)
     return images
@@ -199,13 +219,18 @@ def run(
     pattern: str = DEFAULT_PATTERN,
     method: str = "edit",
     dry_run: bool = False,
+    folder_range: str | None = None,
+    rename_suffix: str | None = None,
 ):
     """
     Process all matching images: remove watermarks and save cleaned versions.
-    If output_dir is None the originals are overwritten (a backup is kept with .bak suffix).
+    If rename_suffix is given, the cleaned image is saved next to the original with the
+    suffix inserted before the extension (e.g. '_clean' → product_trim_half_clean.png).
+    If output_dir is None and rename_suffix is None the originals are overwritten
+    (a backup is kept with .bak suffix).
     Returns list of saved output paths.
     """
-    fitment_images = find_target_images(images_dir, pattern, part_number)
+    fitment_images = find_target_images(images_dir, pattern, part_number, folder_range)
     if not fitment_images:
         logger.warning("No fitment images found. Nothing to do.")
         return []
@@ -232,7 +257,10 @@ def run(
         logger.info("  Generated in %.1fs (%d bytes)", elapsed, len(image_bytes))
 
         # Determine output path
-        if output_dir:
+        if rename_suffix:
+            # Save alongside original with suffix (e.g. _clean)
+            dest = img_path.with_stem(img_path.stem + rename_suffix)
+        elif output_dir:
             # Mirror the subfolder structure
             rel = img_path.relative_to(images_dir)
             dest = output_dir / rel
@@ -293,6 +321,19 @@ def main():
              "Use '*_product_trim_half*' for trim images in carav_output/.",
     )
     parser.add_argument(
+        "--folder-range",
+        type=str,
+        default=None,
+        help="Only process folders whose numeric prefix is in this range (e.g. '1-10').",
+    )
+    parser.add_argument(
+        "--rename-suffix",
+        type=str,
+        default=None,
+        help="Save cleaned image next to original with this suffix before extension "
+             "(e.g. '_clean' → product_trim_half_clean.png). Original is preserved.",
+    )
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="List files that would be processed without calling the API.",
@@ -306,6 +347,8 @@ def main():
         pattern=args.pattern,
         method=args.method,
         dry_run=args.dry_run,
+        folder_range=args.folder_range,
+        rename_suffix=args.rename_suffix,
     )
 
 

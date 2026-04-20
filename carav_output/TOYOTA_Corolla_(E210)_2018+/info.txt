@@ -1,14 +1,6 @@
-──────────
- 7. TOYOTA COROLLA (E210) 2018+
-────────────────────────────────────────────────────────────────────────────────
-Folder       : TOYOTA_Corolla_(E210)_2018+
-Trim Templates:
-  AJ-TY-TK0500  — Toyota Corolla 2017+ 10" & Harness
-  AJ-TY-080   — Toyota Corolla 2019+ 10.1" & CANBUS Harness
-
-Files:
-  product_trim_half.png
-  step1_trim_and_screen_20260323_141410.png
-  step2_installed_20260323_141410.png
-  step2_installed_20260330_124555_rhd.png
-  TOYOTA_Corolla_(E210)_2018+_latest_composite.png
+Part Number: CARAV 22-032
+Car Name: TOYOTA Corolla (E210) 2018+
+Description: CARAV 22-032: 10.1" / 250:241 x 146 mm         / TOYOTA Corolla (E210) 2018+
+Note: Note: Gloss Black color
+Folder: TOYOTA_Corolla_(E210)_2018+
+Fetched: 2026-04-15T22:26:56.004067

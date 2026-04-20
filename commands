@@ -2,8 +2,19 @@
 
 18,20,24,25,51 - top down
 
-31,33,34,53 - already exist
+python3 split_product_vertical.py --folders 24 --split-ratio 0.5
+
+31,33,34,53,59 - already exist
 
 50 - just weird
 
-python3 generate_rhd_dashboards.py --output-dir cat_output --numbers "52,54" --method edit
+python3 generate_rhd_dashboards.py --output-dir cat_output --numbers "50,51,56,57,60,61" --method edit
+
+python remove_watermarks.py --images-dir cat_output --pattern "product_trim_half.png" --folder-range 1-10 --rename-suffix _clean
+
+
+fail safe the generation by allowing the original if the rhd is not available
+
+python3 generate_rhd_trims.py --numbers "51,60"
+
+
