@@ -1,0 +1,5 @@
+Car Name: SUZUKI SX4 2007-2014
+Description: 9" / 230:220 x 130 mm /         FIAT Sedici 2006-2014 / SUZUKI SX4 2007-2014
+Note: Note: Black color
+Folder: SUZUKI_SX4_2007-2014
+Fetched: 2026-04-15T22:26:13.781848

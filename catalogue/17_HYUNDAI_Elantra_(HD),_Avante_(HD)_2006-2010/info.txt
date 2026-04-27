@@ -1,0 +1,5 @@
+Car Name: HYUNDAI Elantra (HD),       Avante (HD) 2006-2010
+Description: 9" / 230:220 x 130 mm / HYUNDAI Elantra (HD),       Avante (HD) 2006-2010
+Note: Note: Black color / acceptable for the vehicles with Left Wheel only
+Folder: HYUNDAI_Elantra_(HD),_Avante_(HD)_2006-2010
+Fetched: 2026-04-15T22:23:41.204907

@@ -1,0 +1,5 @@
+Car Name: HAVAL H6 2014+
+Description: 10.1" / 250:241 x 146 mm / HAVAL H6 2014+
+Note: Note: Silver color
+Folder: HAVAL_H6_2014+
+Fetched: 2026-04-15T22:23:21.067520

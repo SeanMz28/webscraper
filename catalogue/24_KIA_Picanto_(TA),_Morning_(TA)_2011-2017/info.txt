@@ -1,0 +1,5 @@
+Car Name: KIA Picanto         (TA), Morning (TA) 2011-2017
+Description: 2 DIN / 173 x 98 mm / 178 x 102 mm / KIA Picanto         (TA), Morning (TA) 2011-2017
+Note: Note: Black color / acceptable for the vehicles with Right Wheel only
+Folder: KIA_Picanto_(TA),_Morning_(TA)_2011-2017
+Fetched: 2026-04-15T22:24:19.091800

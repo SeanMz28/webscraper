@@ -1,0 +1,5 @@
+Car Name: TOYOTA Corolla (E210) 2018+
+Description: 10.1" / 250:241 x 146 mm         / TOYOTA Corolla (E210) 2018+
+Note: Note: Gloss Black color
+Folder: TOYOTA_Corolla_(E210)_2018+
+Fetched: 2026-04-15T22:26:56.004067

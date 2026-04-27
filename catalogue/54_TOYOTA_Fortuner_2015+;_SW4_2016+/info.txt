@@ -1,0 +1,5 @@
+Car Name: TOYOTA Fortuner 2015+;         SW4 2016+
+Description: 9" / 230:220 x 130 mm / TOYOTA Fortuner 2015+;         SW4 2016+
+Note: Note: Gloss Black color
+Folder: TOYOTA_Fortuner_2015+;_SW4_2016+
+Fetched: 2026-04-15T22:27:02.643209

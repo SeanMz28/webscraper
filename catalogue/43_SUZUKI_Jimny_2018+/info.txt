@@ -1,0 +1,5 @@
+Car Name: SUZUKI Jimny 2018+
+Description: 9" / 230:220 x 130 mm / SUZUKI Jimny 2018+
+Note: Note: Black color
+Folder: SUZUKI_Jimny_2018+
+Fetched: 2026-04-15T22:26:25.852194

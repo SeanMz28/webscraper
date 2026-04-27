@@ -1,0 +1,5 @@
+Car Name: FORD Focus 2011+
+Description: 9" / 230:220 x 130 mm / FORD Focus 2011+
+Note: Note: Gloss Black color
+Folder: FORD_Focus_2011+
+Fetched: 2026-04-15T22:22:56.000672

@@ -1,0 +1,5 @@
+Car Name: TOYOTA       Yaris,Vitz, Platz 2005-2010
+Description: 2 DIN / 173 x 98 mm / 178 x 102 mm / TOYOTA       Yaris,Vitz, Platz 2005-2010
+Note: Note: Black color
+Folder: TOYOTA_Yaris,Vitz,_Platz_2005-2010
+Fetched: 2026-04-15T22:27:28.145712

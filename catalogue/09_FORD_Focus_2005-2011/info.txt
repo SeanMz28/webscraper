@@ -1,0 +1,5 @@
+Car Name: FORD Focus 2005-2011
+Description: 9" / 230:220 x 130 mm / FORD Focus 2005-2011
+Note: Note: Silver color / acceptable for the vehicles with Manual Air-Conditioning only
+Folder: FORD_Focus_2005-2011
+Fetched: 2026-04-15T22:22:49.916994

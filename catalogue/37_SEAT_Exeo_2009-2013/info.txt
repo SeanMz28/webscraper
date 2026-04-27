@@ -1,0 +1,5 @@
+Car Name: SEAT Exeo 2009-2013
+Description: 2 DIN / 173 x 98 mm / AUDI A4 (B6) 2000-2006, A4       (B7) 2004-2009 / SEAT Exeo 2009-2013
+Note: Note: Black color
+Folder: SEAT_Exeo_2009-2013
+Fetched: 2026-04-15T22:21:56.754751

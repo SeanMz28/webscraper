@@ -1,0 +1,5 @@
+Car Name: SUZUKI Swift       2017+
+Description: 2 DIN / 173 x 98 mm / 178 x 102 mm / SUZUKI Swift       2017+
+Note: Note: Gloss Black color
+Folder: SUZUKI_Swift_2017+
+Fetched: 2026-04-15T22:27:51.802247

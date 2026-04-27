@@ -1,0 +1,5 @@
+Car Name: HOLDEN Barina (TM) 2011+
+Description: 9" / 230:220 x 130 mm / CHEVROLET Aveo, Sonic         2011+ / HOLDEN Barina (TM) 2011+
+Note: Note: Dark Grey color
+Folder: HOLDEN_Barina_(TM)_2011+
+Fetched: 2026-04-15T22:22:21.682150

@@ -1,0 +1,5 @@
+Car Name: BMW 1-Series (E81, 82, 87,       88) 2007-2011
+Description: 2 DIN / 173 x 98 mm / BMW 1-Series (E81, 82, 87,       88) 2007-2011
+Note: Note: Black color / acceptable for the vehicles with Auto Air-Conditioning only
+Folder: BMW_1-Series_(E81,_82,_87,_88)_2007-2011
+Fetched: 2026-04-15T22:22:14.950748

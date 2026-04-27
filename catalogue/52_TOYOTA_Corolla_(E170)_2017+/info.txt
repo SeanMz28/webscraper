@@ -1,0 +1,5 @@
+Car Name: TOYOTA Corolla (E170) 2017+
+Description: 10.1" / 250:241 x 146 mm         / TOYOTA Corolla (E170) 2017+
+Note: Note: Gloss Black color / acceptable for the vehicles with Right Wheel only
+Folder: TOYOTA_Corolla_(E170)_2017+
+Fetched: 2026-04-15T22:26:50.151445

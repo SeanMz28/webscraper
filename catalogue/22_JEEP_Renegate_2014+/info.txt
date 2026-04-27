@@ -1,0 +1,5 @@
+Car Name: JEEP Renegate 2014+
+Description: 9" / 230:220 x 130 mm / JEEP Renegate 2014+
+Note: Note: Black color
+Folder: JEEP_Renegate_2014+
+Fetched: 2026-04-15T22:24:12.930224

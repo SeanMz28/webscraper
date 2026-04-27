@@ -1,0 +1,5 @@
+Car Name: HYUNDAI iX-35, Tucson       (LM) 2010-18
+Description: 10.1" / 250:241 x 146 mm / HYUNDAI iX-35, Tucson       (LM) 2010-18
+Note: Note: Black color
+Folder: HYUNDAI_iX-35,_Tucson_(LM)_2010-18
+Fetched: 2026-04-15T22:23:53.657000
